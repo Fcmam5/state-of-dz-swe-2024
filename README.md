@@ -22,10 +22,9 @@ This survey aims to collect insights about IT and software engineering fields in
 
 To participate choose one of the following links:
 
-- ARABIC: [TBD](#)
-- English: [TBD](#)
+- Arabic: [https://forms.gle/gZWWXLC9Gh1d1BJFA]()
+- English: [https://forms.gle/CCks5wiEXB7MgBqV7]()
 - French: [TBD](#)
-
 
 ---
 
@@ -37,8 +36,8 @@ To participate choose one of the following links:
 
 </div>
 
-- العربية: [TBD](#)
-- English: [TBD](#)
+- العربية: [https://forms.gle/gZWWXLC9Gh1d1BJFA]()
+- English: [https://forms.gle/CCks5wiEXB7MgBqV7]()
 - Français: [TBD](#)
 
 ---
@@ -47,9 +46,6 @@ Cette enquête vise à recueillir des informations sur les domaines de l'informa
 
 Pour participer choisissez l'un des liens suivants :
 
-- ARABE : [TBD](#)
-- Anglais : [TBD](#)
+- Arabe: [https://forms.gle/gZWWXLC9Gh1d1BJFA]()
+- Anglais : [https://forms.gle/CCks5wiEXB7MgBqV7]()
 - Français : [TBD](#)
-
-
-
