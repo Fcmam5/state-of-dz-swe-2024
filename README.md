@@ -24,7 +24,7 @@ To participate choose one of the following links:
 
 - Arabic: [https://forms.gle/gZWWXLC9Gh1d1BJFA]()
 - English: [https://forms.gle/CCks5wiEXB7MgBqV7]()
-- French: [TBD](#)
+- French: [https://forms.gle/D9GLGqS7bR3qQr43A]()
 
 ---
 
@@ -38,7 +38,7 @@ To participate choose one of the following links:
 
 - العربية: [https://forms.gle/gZWWXLC9Gh1d1BJFA]()
 - English: [https://forms.gle/CCks5wiEXB7MgBqV7]()
-- Français: [TBD](#)
+- Français: [https://forms.gle/D9GLGqS7bR3qQr43A]()
 
 ---
 
@@ -48,4 +48,4 @@ Pour participer choisissez l'un des liens suivants :
 
 - Arabe: [https://forms.gle/gZWWXLC9Gh1d1BJFA]()
 - Anglais : [https://forms.gle/CCks5wiEXB7MgBqV7]()
-- Français : [TBD](#)
+- Français : [https://forms.gle/D9GLGqS7bR3qQr43A]()
