@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Algeria Developer Survey 2024 Blog</title>
+        <link>https://fcmam5.me/ar/blog</link>
+        <description>Algeria Developer Survey 2024 Blog</description>
+        <lastBuildDate>Thu, 01 Feb 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ar</language>
+        <item>
+            <title><![CDATA[Algeria Developer Survey 2024]]></title>
+            <link>https://fcmam5.me/ar/blog/kickstart-survey-2024</link>
+            <guid>https://fcmam5.me/ar/blog/kickstart-survey-2024</guid>
+            <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[On early February 2024 we started an initiative to audit and asses the Algerian software engineering industry.]]></description>
+            <content:encoded><![CDATA[<p>On early February 2024 we started an initiative to audit and asses the Algerian software engineering industry.</p>
+<p>We created a survey in three languages (in <a href="https://forms.gle/gZWWXLC9Gh1d1BJFA" target="_blank" rel="noopener noreferrer">Arabic</a>, in <a href="https://forms.gle/CCks5wiEXB7MgBqV7" target="_blank" rel="noopener noreferrer">English</a>, and in <a href="https://forms.gle/D9GLGqS7bR3qQr43A" target="_blank" rel="noopener noreferrer">French</a>).</p>
+<p>This survey aims to highlight the trends and challenges we have as Algerians working in IT fields. The survey covers both Algerians living in Algeria and abroad, whether they work on regular jobs full-time, part-time or they work as freelancers, whether they work for Algerian agencies or remotely for foreign companies.</p>
+<p>We aim to collect inputs from our community to better understand what are our trends, what are average salaries, which Wilaya attracts engineers the most, which programming language or CI/CD tool is used the most..</p>
+<p>The main goal of our survey is to have a fair overview of the Algerian landscape, and to publish results aggregates from our 3 surveys to the public on this website so we all can exploit them, to better understand our field and to invest in the opportunities we see through it.</p>
+<h2 class="anchor anchorWithStickyNavbar_OKWB" id="faq">FAQ<a href="https://fcmam5.me/ar/blog/kickstart-survey-2024#faq" class="hash-link" aria-label="ارتباط مباشر بالعنوان FAQ" title="ارتباط مباشر بالعنوان FAQ">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_OKWB" id="who-can-participate-in-this-survey">Who can participate in this survey?<a href="https://fcmam5.me/ar/blog/kickstart-survey-2024#who-can-participate-in-this-survey" class="hash-link" aria-label="ارتباط مباشر بالعنوان Who can participate in this survey?" title="ارتباط مباشر بالعنوان Who can participate in this survey?">​</a></h3>
+<p>This survey is open to <strong>Algerians work in software engineering industry</strong>. To the Algerians who work from Algeria either for local or foreign companies, on-site or remotely.</p>
+<p>The survey also allocates a section for Algerians who live and work abroad.</p>
+<p>If you are still a student and you are learning to hack and code, you must not participate but please keep an eye on the results, maybe this will answer some of your questions.</p>
+<h3 class="anchor anchorWithStickyNavbar_OKWB" id="is-this-survey-anonymous">Is this survey anonymous?<a href="https://fcmam5.me/ar/blog/kickstart-survey-2024#is-this-survey-anonymous" class="hash-link" aria-label="ارتباط مباشر بالعنوان Is this survey anonymous?" title="ارتباط مباشر بالعنوان Is this survey anonymous?">​</a></h3>
+<p>Yes, as stated above and in the headers of our forms: The survey is anonymous, we do not record any personal data.</p>
+<p>When the survey is done, we will run a scan to make sure that no PIIs were added in free text inputs before we start processing results.</p>
+<p>The results will be shared as aggregates, as numbers and percentages or graphs, we won't share individual entries to save people's privacy (we believe you are smart and that it's a smart world, so we don't trust anyone).</p>
+<h3 class="anchor anchorWithStickyNavbar_OKWB" id="where-can-i-see-the-results">Where can I see the results<a href="https://fcmam5.me/ar/blog/kickstart-survey-2024#where-can-i-see-the-results" class="hash-link" aria-label="ارتباط مباشر بالعنوان Where can I see the results" title="ارتباط مباشر بالعنوان Where can I see the results">​</a></h3>
+<p>We will publish the results in this website and we will do our best to breakdown the results for a better analysis. We will also make sure to share the links to our results page to different channels of our social media (where you probably found out about this link).</p>
+<h3 class="anchor anchorWithStickyNavbar_OKWB" id="who-can-benefit-from-this-survey">Who can benefit from this survey?<a href="https://fcmam5.me/ar/blog/kickstart-survey-2024#who-can-benefit-from-this-survey" class="hash-link" aria-label="ارتباط مباشر بالعنوان Who can benefit from this survey?" title="ارتباط مباشر بالعنوان Who can benefit from this survey?">​</a></h3>
+<p>We believe that this survey can answer some questions we always ask, we want this survey to help:</p>
+<ul>
+<li><strong>Startups</strong> by highlighting the trends, as they may want to use technologies which are trending in the market to make their tech stacks attractive to talents.</li>
+<li><strong>Hiring managers and headhunters</strong> by showing the trends in salaries and perks to better incentivize and attract talents.</li>
+<li><strong>Aspiring engineers and students</strong> by highlighting the trends, the salaries and opportunities in the country or abroad. We want our new engineers to see what other Algerians are using.</li>
+<li><strong>Tech bloggers and IT schools</strong> by highlighting what natural languages Algerian engineers are using, and what are their main interests.</li>
+<li><strong>Clubs, associations and government agencies</strong> by highlighting the main non-technical challenges Algerians are facing.</li>
+<li><strong>Software engineers</strong> by expanding the landscape they might know, and pointing to opportunities in other countries, other Wilayas, other working models, other industries, or for different tools and skills.</li>
+<li><strong>Entrepreneurs</strong> who can see an opportunity in some of the challenges Algerians face, or who can invest in one of the strength they can see in from the results.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_OKWB" id="how-can-i-participate">How can I participate?<a href="https://fcmam5.me/ar/blog/kickstart-survey-2024#how-can-i-participate" class="hash-link" aria-label="ارتباط مباشر بالعنوان How can I participate?" title="ارتباط مباشر بالعنوان How can I participate?">​</a></h3>
+<p>You can fill one of the forms in the language you feel the most comfortable with:</p>
+<ul>
+<li>For English: <a href="https://forms.gle/CCks5wiEXB7MgBqV7" target="_blank" rel="noopener noreferrer">https://forms.gle/CCks5wiEXB7MgBqV7</a></li>
+<li>For Arabic: <a href="https://forms.gle/gZWWXLC9Gh1d1BJFA" target="_blank" rel="noopener noreferrer">https://forms.gle/gZWWXLC9Gh1d1BJFA</a></li>
+<li>For French: <a href="https://forms.gle/D9GLGqS7bR3qQr43A" target="_blank" rel="noopener noreferrer">https://forms.gle/D9GLGqS7bR3qQr43A</a></li>
+</ul>
+<p>If you want to support us more, please share this initiative with your network.</p>]]></content:encoded>
+            <category>general</category>
+            <category>english</category>
+        </item>
+    </channel>
+</rss>
