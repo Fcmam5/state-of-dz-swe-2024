@@ -6,15 +6,15 @@ authors:
 tags: [general, english]
 ---
 
-On early February 2024 we started an initiative to audit and asses the Algerian software engineering industry.
+In early February 2024 we initiated an effort to audit and assess the Algerian software engineering industry.
 
-We created a survey in three languages (in [Arabic](https://forms.gle/gZWWXLC9Gh1d1BJFA), in [English](https://forms.gle/CCks5wiEXB7MgBqV7), and in [French](https://forms.gle/D9GLGqS7bR3qQr43A)). 
+We have created a survey available in three languages: [Arabic](https://forms.gle/gZWWXLC9Gh1d1BJFA), in [English](https://forms.gle/CCks5wiEXB7MgBqV7), and in [French](https://forms.gle/D9GLGqS7bR3qQr43A). 
 
-This survey aims to highlight the trends and challenges we have as Algerians working in IT fields. The survey covers both Algerians living in Algeria and abroad, whether they work on regular jobs full-time, part-time or they work as freelancers, whether they work for Algerian agencies or remotely for foreign companies.
+The objective of this survey is to identify trends and challenges within the Algerian IT sector. It covers Algerians residing both in Algeria and abroad, regardless of whether they work full-time, part-time, or freelance, and whether they are employed by Algerian agencies or work remotely for foreign companies.
 
-We aim to collect inputs from our community to better understand what are our trends, what are average salaries, which Wilaya attracts engineers the most, which programming language or CI/CD tool is used the most..
+Our goal is to gather input from our community to gain a better understanding of our industry's trends, average salaries, preferred Wilayas for engineers, and the most commonly used programming languages or CI/CD tools.
 
-The main goal of our survey is to have a fair overview of the Algerian landscape, and to publish results aggregates from our 3 surveys to the public on this website so we all can exploit them, to better understand our field and to invest in the opportunities we see through it.
+The primary goal of our survey is to provide a comprehensive overview of the Algerian landscape and to publicly share aggregated results from our three surveys on this website. This will enable all stakeholders to gain a deeper understanding of our field and identify potential opportunities for investment.
 
 
 ## FAQ
@@ -41,7 +41,7 @@ We will publish the results in this website and we will do our best to breakdown
 
 ### Who can benefit from this survey?
 
-We believe that this survey can answer some questions we always ask, we want this survey to help:
+We believe this survey can answer some questions we always ask, we want this survey to help:
 
 - **Startups** by highlighting the trends, as they may want to use technologies which are trending in the market to make their tech stacks attractive to talents. 
 - **Hiring managers and headhunters** by showing the trends in salaries and perks to better incentivize and attract talents.
