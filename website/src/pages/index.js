@@ -19,13 +19,15 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/blog/kickstart-survey-2024"
+            to="/blog/2024-survey-closing"
           >
-            Be a Part of the Story, Contribute to Our Survey Now!
+            Stay tuned for the results!
           </Link>
         </div>
         <p>
-          <em>Submissions are anonymous, we do not record any personal data</em>
+          <em>
+            Submissions were anonymous, we did not record any personal data
+          </em>
         </p>
       </div>
     </header>
