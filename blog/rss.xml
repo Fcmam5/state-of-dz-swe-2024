@@ -4,10 +4,54 @@
         <title>Algeria Developer Survey 2024 Blog</title>
         <link>https://fcmam5.me/state-of-dz-swe-2024/blog</link>
         <description>Algeria Developer Survey 2024 Blog</description>
-        <lastBuildDate>Thu, 01 Feb 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Closing Algeria Developer Survey 2024]]></title>
+            <link>https://fcmam5.me/state-of-dz-swe-2024/blog/2024-survey-closing</link>
+            <guid>https://fcmam5.me/state-of-dz-swe-2024/blog/2024-survey-closing</guid>
+            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[After one month of starting this initiative, we come to end for this first sprint of collecting input.]]></description>
+            <content:encoded><![CDATA[<p>After one month of <a href="https://fcmam5.me/state-of-dz-swe-2024/blog/kickstart-survey-2024">starting this initiative</a>, we come to end for this first sprint of collecting input.</p>
+<p>We want to thank each and every one of you who participated, shared our links or gave constructive feedback.</p>
+<p>Thanks to all who endorsed this initiative and shared it on their social media with their networks, and many thanks to all people who feedbacked the first drafts and iterations of the forms.</p>
+<p>With this first sprint coming to an end, we are thrilled to start the second (an most fun 🤓) part of our study: Cleaning up, then analyzing the data, then hopefully presented to you in a nice format in this website.</p>
+<h2 class="anchor anchorWithStickyNavbar_OKWB" id="whats-next">What's next?<a href="https://fcmam5.me/state-of-dz-swe-2024/blog/2024-survey-closing#whats-next" class="hash-link" aria-label="Direct link to What's next?" title="Direct link to What's next?">​</a></h2>
+<p>In order to provide good insights, we want to go through each entry and cleanup fake or non-meaningful entries. After the cleanup phase, we want to merge inputs from all 3 forms programmatically then start processing them.</p>
+<p>Our survey used Google Forms, and we ran the research with 3 forms, one for each language (<a href="https://forms.gle/gZWWXLC9Gh1d1BJFA" target="_blank" rel="noopener noreferrer">Arabic</a>, <a href="https://forms.gle/CCks5wiEXB7MgBqV7" target="_blank" rel="noopener noreferrer">English</a>, and <a href="https://forms.gle/D9GLGqS7bR3qQr43A" target="_blank" rel="noopener noreferrer">French</a>), therefor we have to merge them, then translate them to one language to make clustering and aggregation possible for us.</p>
+<p>This second phase of clustering should produce our first output: A page for graphs per question (exactly as we were watching on our Google Forms UI).</p>
+<p>Since that page won't be enough, we want to go an extra mile and run analysis to extract insights by clustering data. We want to answer questions like:</p>
+<ul>
+<li>What's the most used programming language?</li>
+<li>Do Algerians with no degrees in IT get paid as well as IT graduates?</li>
+<li>What roles IT are missing?</li>
+<li>Do Algerians move to other Wilayas for a job in IT? What perks (besides the salary) their jobs offer?</li>
+</ul>
+<p>Some answers cannot be answered with our data sample only, so we will need to interview experts who are working in the Algerian market, and/or have a long experience working in IT fields in Algeria. And that would be our phase three.</p>
+<p>Then in the last phase, we will draft a document in this website and publish it publicly.</p>
+<h2 class="anchor anchorWithStickyNavbar_OKWB" id="when-are-we-gonna-publish-the-results">When are we gonna publish the results?<a href="https://fcmam5.me/state-of-dz-swe-2024/blog/2024-survey-closing#when-are-we-gonna-publish-the-results" class="hash-link" aria-label="Direct link to When are we gonna publish the results?" title="Direct link to When are we gonna publish the results?">​</a></h2>
+<p>That's one of the most frequent questions we had, and the answer is: Hopefully by Ramdhan, mid-March 2024.</p>
+<p>This work will take time, and we all have jobs and personal responsibilities which prevents us from pushing more for this project to deliver it sooner.</p>
+<h2 class="anchor anchorWithStickyNavbar_OKWB" id="where-will-we-publish-the-results">Where will we publish the results?<a href="https://fcmam5.me/state-of-dz-swe-2024/blog/2024-survey-closing#where-will-we-publish-the-results" class="hash-link" aria-label="Direct link to Where will we publish the results?" title="Direct link to Where will we publish the results?">​</a></h2>
+<p>The results will be published in <a href="https://fcmam5.me/state-of-dz-swe-2024/" target="_blank" rel="noopener noreferrer">this</a> (<a href="https://fcmam5.me/state-of-dz-swe-2024/" target="_blank" rel="noopener noreferrer">https://fcmam5.me/state-of-dz-swe-2024/</a>) website.</p>
+<h2 class="anchor anchorWithStickyNavbar_OKWB" id="in-which-format">In which format?<a href="https://fcmam5.me/state-of-dz-swe-2024/blog/2024-survey-closing#in-which-format" class="hash-link" aria-label="Direct link to In which format?" title="Direct link to In which format?">​</a></h2>
+<p>Results format will be textual, tabular and in graphs.</p>
+<details class="details_wL_c alert alert--info details_XLLE" data-collapsed="true"><summary>Example</summary><div><div class="collapsibleContent_ZH8u"><p><strong>Do you live in Algeria?</strong></p><table><thead><tr><th style="text-align:center">Label</th><th style="text-align:center">Count</th></tr></thead><tbody><tr><td style="text-align:center">Yes</td><td style="text-align:center">1</td></tr><tr><td style="text-align:center">No</td><td style="text-align:center">1</td></tr><tr><td style="text-align:center">Preferred not to say</td><td style="text-align:center">1</td></tr></tbody></table></div></div></details>
+<h2 class="anchor anchorWithStickyNavbar_OKWB" id="how-can-i-support">How can I support?<a href="https://fcmam5.me/state-of-dz-swe-2024/blog/2024-survey-closing#how-can-i-support" class="hash-link" aria-label="Direct link to How can I support?" title="Direct link to How can I support?">​</a></h2>
+<p>You can support us by contributing to <a href="https://github.com/Fcmam5/state-of-dz-swe-2024" target="_blank" rel="noopener noreferrer">this initiative's repository</a>, by fixing typos, or by improving this website.</p>
+<p>You can also contribute by asking questions you think our data can answer to have a richer website, and a more interesting analysis for everyone.</p>
+<p>And if you want to support me (Abdeldjalil), you are also very welcome to <a href="https://ko-fi.com/fcmam5" target="_blank" rel="noopener noreferrer">buy me a coffee</a> online, or let's catch up to have a real coffee in Berlin, in Oran or probably anywhere else ☕️🇩🇿.</p>
+<p>I refused, and I refuse to sell raw data. The raw answers/entries are not for sale! We stated in our privacy note that we won't share individual answers, and we keep that promise.</p>
+<h2 class="anchor anchorWithStickyNavbar_OKWB" id="how-can-i-stay-notified-when-new-results-are-published">How can I stay notified when new results are published?<a href="https://fcmam5.me/state-of-dz-swe-2024/blog/2024-survey-closing#how-can-i-stay-notified-when-new-results-are-published" class="hash-link" aria-label="Direct link to How can I stay notified when new results are published?" title="Direct link to How can I stay notified when new results are published?">​</a></h2>
+<p>When results are ready, I will publish the link to this website again on all of my social media (<a href="https://twitter.com/fcmam5" target="_blank" rel="noopener noreferrer">@Fcmam5 on Twitter</a>, on <a href="https://www.linkedin.com/in/fcmam5/" target="_blank" rel="noopener noreferrer">LinkedIn</a>, and on multiple groups on Facebook).</p>
+<p>I wouldn't enable Push notifications, or bother to ask you to insert your email to stay on touch.</p>
+<hr>
+<p>Until the results are ready, I wish you all happy and fun hacking! May your pipelines be always green 🙏</p>]]></content:encoded>
+            <category>general</category>
+            <category>english</category>
+        </item>
         <item>
             <title><![CDATA[Algeria Developer Survey 2024]]></title>
             <link>https://fcmam5.me/state-of-dz-swe-2024/blog/kickstart-survey-2024</link>

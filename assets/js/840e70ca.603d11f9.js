@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[2132],{1176:e=>{e.exports=JSON.parse('{"label":"general","permalink":"/state-of-dz-swe-2024/blog/tags/general","allTagsPath":"/state-of-dz-swe-2024/blog/tags","count":2,"unlisted":false}')}}]);
