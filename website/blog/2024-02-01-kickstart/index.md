@@ -1,5 +1,6 @@
 ---
 slug: kickstart-survey-2024
+date: 2024-02-01T00:00
 title: Algeria Developer Survey 2024
 authors: 
   - Fcmam5
@@ -11,6 +12,8 @@ In early February 2024 we initiated an effort to audit and assess the Algerian s
 We have created a survey available in three languages: [Arabic](https://forms.gle/gZWWXLC9Gh1d1BJFA), in [English](https://forms.gle/CCks5wiEXB7MgBqV7), and in [French](https://forms.gle/D9GLGqS7bR3qQr43A). 
 
 The objective of this survey is to identify trends and challenges within the Algerian IT sector. It covers Algerians residing both in Algeria and abroad, regardless of whether they work full-time, part-time, or freelance, and whether they are employed by Algerian agencies or work remotely for foreign companies.
+
+<!-- truncate -->
 
 Our goal is to gather input from our community to gain a better understanding of our industry's trends, average salaries, preferred Wilayas for engineers, and the most commonly used programming languages or CI/CD tools.
 

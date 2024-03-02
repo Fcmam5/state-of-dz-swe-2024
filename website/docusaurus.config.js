@@ -10,7 +10,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config = {
   title: "Algeria Developer Survey 2024",
   // tagline: "Unveiling the Software Engineering Landscape: Trends & Challenges",
-  tagline: "The survey is still ongoing",
+  tagline: "The survey is closed, stay tuned for the results!",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -60,11 +60,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       colorMode: { defaultMode: "light", respectPrefersColorScheme: true },
-      announcementBar: {
-        content: `🎉️ <b><a target="_blank" href="https://fcmam5.me/state-of-dz-swe-2024/blog/kickstart-survey-2024/">📊The survey</a> is still open, participate now!</b> 🇩🇿`,
-        backgroundColor: "#D32F2F",
-        textColor: "#FFFFFF",
-      },
+      // announcementBar: {
+      //   content: `🎉️ <b><a target="_blank" href="https://fcmam5.me/state-of-dz-swe-2024/blog/kickstart-survey-2024/">📊The survey</a> is still open, participate now!</b> 🇩🇿`,
+      //   backgroundColor: "#D32F2F",
+      //   textColor: "#FFFFFF",
+      // },
       algolia: {
         appId: "V6WZN2X9IM",
         apiKey: "97cb6f879211ba31786bb21a8241f8ae",
