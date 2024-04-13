@@ -1,3 +1,7 @@
+---
+sidebar_position: 11
+---
+
 # 🚧 Women in Tech
 
 :::warning

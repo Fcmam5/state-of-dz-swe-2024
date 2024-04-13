@@ -1,5 +1,9 @@
-data-processing/datasets/*.csv
-data-processing/datasets/**/*.json
+data-processing/datasets/**/*[.json, .csv, .db]
 !data-processing/datasets/json-outputs/question-maps/*.json
 **/*/node_modules/*
 NOTES.md
+*-NOTES.md
+NOTES-*.md
+x*.txt
+local-docs/*
+TO-ASK.md

@@ -1,3 +1,7 @@
+---
+sidebar_position: 7
+---
+
 # 🚧 Education and learning
 
 :::warning
@@ -12,3 +16,9 @@ Degrees?
 Algerian degree but working abroad?
 
 Do you need a degree in IT to work here or not?
+
+
+ESI and https://www.ensia.edu.dz/
+http://www.ensttic.dz/
+
+institutes
