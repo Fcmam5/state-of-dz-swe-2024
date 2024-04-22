@@ -90,7 +90,7 @@ pie
 According to our survey data:
 
 - Some Algerian companies hire interns or working students.
-- Medium scale companies (100 to 1000 employees) hire entry level and junior SRE/DevOps engineers and system administrators.
+- Medium scale companies (100 to 1000 employees) may hire entry level and junior SRE/DevOps engineers and system administrators.
 - Small companies and startups may give "Lead" titles to engineers with 5 to 10 years of experience.
 - Senior system administrators are paid between 100 000 DZD and 150 000 DZD, mid-level and juniors are paid less than 60 000 DZD.
 - Some participants work remotely as SRE/DevOps for foreign companies.
