@@ -15,13 +15,13 @@ pie showData
     "I'm not familiar with open source software" : 19
 ```
 
-According to data, we see that Algerian software engineers mostly use open-source frameworks and libraries, while we see that some engineers who work in corporate and large companies may use proprietary software.
+According to data, we see that Algerian software engineers mostly use Open Source frameworks and libraries, while we see that some engineers who work in corporate and large companies may use proprietary software.
 
-We also see that few of our survey participants consider themselves active contributors to open-source projects. 57% of them are senior engineers, 15% are mid-level engineers, 8% have managerial or leadership roles, and the rest are juniors.
+We also see that few of our survey participants consider themselves active contributors to Open Source projects. 57% of them are senior engineers, 15% are mid-level engineers, 8% have managerial or leadership roles, and the rest are juniors.
 
 ## Visibility
 
-It is hard to find data about Algerian open-source initiatives, or about contributions made by Algerians.
+It is hard to find data about Algerian Open Source initiatives, or about contributions made by Algerians.
 
 Algeria is not present in different reports due the lack of data, or the lack of visibility of Algerian contributions.
 
@@ -52,27 +52,27 @@ Individual contributions made by Algerians might also not be visible in reports 
 I'm adding more repositories to [Made In Algeria collection](https://github.com/github/explore/pull/4279), and please do so as well!
 :::
 
-## Open Source projects with Algerians as maintainers or contributors
+## Algerians' Contributions to Open Source
 
-Although the modest contributions from Algerian software engineering community, we still see that some large and established open-source projects receive significant contributions from Algerians. This may participate in spreading open-source culture.
+Although the modest contributions from Algerian software engineering community, we still see that some large and established Open Source projects receive significant contributions from Algerians. This may participate in spreading Open Source culture.
 
-There are a few Algerians who are active open-source projects and/or work full-time on open-source projects, for example:
+There are a few Algerians who are active Open Source projects and/or work full-time on Open Source projects, for example:
 
 - [Cherif Bouchelaghem](https://github.com/cherifGsoul) works on [CanJS](https://github.com/canjs).
 - [Riad Benguella](https://github.com/youknowriad) works on [Wordpress](https://github.com/wordpress) and their [Gutenberg](https://github.com/WordPress/gutenberg) project
 - [Seghir Nadir](https://github.com/senadir) works on  [WooCommerce](https://github.com/woocommerce/woocommerce).
-- [Djalal Harouni](https://github.com/tixxdz) works on serval projects by [Cilium](https://github.com/cilium) and contributed to major open-source projects such as [the Linux Kernel](https://github.com/torvalds/linux), [systemd](https://github.com/systemd/systemd), [nmap](https://nmap.org/) and others.
+- [Djalal Harouni](https://github.com/tixxdz) works on several projects by [Cilium](https://github.com/cilium), and other major Open Source projects such as [the Linux Kernel](https://github.com/torvalds/linux), [systemd](https://github.com/systemd/systemd), [nmap](https://nmap.org/), etc.
 - [Tiramisu compiler](https://github.com/Tiramisu-Compiler/tiramisu) received contributions from [serval Algerians](https://github.com/Tiramisu-Compiler/tiramisu/blob/master/CONTRIBUTORS) such as Dr. [Riyadh Baghdadi](https://github.com/rbaghdadi).
 
 ## Algerian Open Source communities
 
-There are a few associations and students that promote open-source software and culture.
+There are a few associations and students that promote Open Source software and culture.
 
-As stated in our [communities section](/docs/insights/communities.md), there are some organizations who promote the usage of free and open-source software, and promote OSS culture and contributions. For example:
+As stated in our [communities section](/docs/insights/communities.md), there are some organizations who promote the usage of free and Open Source software, and promote OSS culture and contributions. For example:
 
 - [Free Software & GNU/Linux Algeria (الجمعية الثقافية العلمية البرمجيات الحرة و غنو/لينكس)](https://www.facebook.com/fsgla): Promotes FOSS and GNU/Linux, this association [invited Richard Stallman back in 2015](https://www.fsf.org/events/rms-20150205-djelfa), and runs some activities to promote FOSS software, like organizing GNU/Linux install parties.
 
-Some students groups like [Team Open Minds](https://github.com/open-minds/) promotes GNU/Linux and open-source software, and teaches students how to use Git/GitHub and encourages open-source culture among them.
+Some students groups like [Team Open Minds](https://github.com/open-minds/) promotes GNU/Linux and Open Source software, and teaches students how to use Git/GitHub and encourages Open Source culture among them.
 
 :::warning
 TBD
