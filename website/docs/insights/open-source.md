@@ -35,6 +35,7 @@ Individual contributions made by Algerians might also not be visible in reports 
 
 - https://github.com/Alfanous-team/alfanous
 - https://github.com/idurar/idurar-erp-crm
+- https://github.com/linux-lock/bpflock
 - https://github.com/linuxscout/mishkal
 - https://github.com/linuxscout/pyarabic
 - https://github.com/linuxscout/tashaphyne
