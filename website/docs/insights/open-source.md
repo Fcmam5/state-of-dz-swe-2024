@@ -2,7 +2,7 @@
 sidebar_position: 12
 ---
 
-# Open-source
+# Open Source
 
 We asked our participants `How would you describe your involvement with open source software development?` and the answers where the following:
 
@@ -31,7 +31,7 @@ For example, Algeria was not present in [Github's Octoverse report for 2023](htt
 
 Individual contributions made by Algerians might also not be visible in reports and surveys, as some engineers choose not to share their locations on their public profiles, or some of them work from abroad.
 
-## Algerian open source projects
+## Algerian Open Source projects
 
 - https://github.com/Alfanous-team/alfanous
 - https://github.com/idurar/idurar-erp-crm
@@ -45,13 +45,14 @@ Individual contributions made by Algerians might also not be visible in reports 
 - https://github.com/assem-ch/arabicstemmer
 - https://github.com/01walid/sloughi
 - https://github.com/OpenDZ/timgad
+- https://github.com/tixxdz/ahaggar
 - https://github.com/aissat/easy_localization
 
 :::info
 I'm adding more repositories to [Made In Algeria collection](https://github.com/github/explore/pull/4279), and please do so as well!
 :::
 
-## Open-source projects with maintained by Algerians
+## Open Source projects with Algerians as maintainers or contributors
 
 Although the modest contributions from Algerian software engineering community, we still see that some large and established open-source projects receive significant contributions from Algerians. This may participate in spreading open-source culture.
 
@@ -63,7 +64,7 @@ There are a few Algerians who are active open-source projects and/or work full-t
 - [Djalal Harouni](https://github.com/tixxdz) works on serval projects by [Cilium](https://github.com/cilium) and contributed to major open-source projects such as [the Linux Kernel](https://github.com/torvalds/linux), [systemd](https://github.com/systemd/systemd), [nmap](https://nmap.org/) and others.
 - [Tiramisu compiler](https://github.com/Tiramisu-Compiler/tiramisu) received contributions from [serval Algerians](https://github.com/Tiramisu-Compiler/tiramisu/blob/master/CONTRIBUTORS) such as Dr. [Riyadh Baghdadi](https://github.com/rbaghdadi).
 
-## Algerian open-source communities
+## Algerian Open Source communities
 
 There are a few associations and students that promote open-source software and culture.
 
@@ -78,7 +79,7 @@ TBD
 :::
 
 
-## Algerian companies maintaining open-source projects
+## Algerian Companies maintaining Open Source projects
 
 - https://github.com/BIGmama-technology
 - https://github.com/codiume
