@@ -47,6 +47,8 @@ Individual contributions made by Algerians might also not be visible in reports 
 - https://github.com/OpenDZ/timgad
 - https://github.com/tixxdz/ahaggar
 - https://github.com/aissat/easy_localization
+- https://github.com/kossa/laradminator
+- https://github.com/kossa/algerian-cities
 
 :::info
 I'm adding more repositories to [Made In Algeria collection](https://github.com/github/explore/pull/4279), and please do so as well!
