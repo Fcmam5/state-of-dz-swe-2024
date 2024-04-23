@@ -56,9 +56,9 @@ I'm adding more repositories to [Made In Algeria collection](https://github.com/
 
 ## Algerians' Contributions to Open Source
 
-Even if Algerians have been contributing to large and established Open Source projects, the number of engineers
-contributing is still low. More engineers and developers need and have to get involved into Open Source if they
-want better work opportunities.
+Even if Algerians have been working on large and established Open Source projects, the number of engineers
+contributing is still low. More engineers and developers need to get involved into Open Source if they aspire to
+better work opportunities.
 
 :::info
 Did you know that Algerians made major contributions and their code is running on another planet not only earth?
@@ -84,19 +84,28 @@ There are other Algerians who are active Open Source projects and/or work full-t
 
 Algerians' contributions to popular Open Source projects that run the internet. Only projects with +100 Github Stars on the 24-04-2024:
 
-- [Linux kernel source tree on github](https://github.com/torvalds/linux) 170k Stars.
-- [Linux systemd System and Service Manager](https://github.com/systemd/systemd) 12.5k Stars.
-- [NASA F´- A flight software and embedded systems framework](https://github.com/nasa/fprime) 9.9k Stars.
-- [The Block Editor project for WordPress and beyond](https://github.com/WordPress/gutenberg) 9.9k Stars.
-- [Open Source Headless ERP CRM E-Commerce Software Multi Branch & Currency](https://github.com/idurar/idurar-erp-crm) 5.4k Stars.
-- [WordPress Develop](https://github.com/WordPress/wordpress-develop) 2.3k Stars.
-- [CanJS Build CRUD apps in fewer lines of code](https://github.com/canjs/canjs) 1.9k Stars.
-- [Low-level core library that forms the basis for projects such as GTK+ and GNOME](https://github.com/GNOME/glib) 1.5k Stars.
-- [Web Development Evolved - The Firebug you have known and loved](https://github.com/firebug/firebug) 1.3k Stars.
-- [Legacy Django jet rebooted to support Django 3 and Django 4, and latest python releases](https://github.com/assem-ch/django-jet-reboot) 368 Stars.
-- [Alfanous is an Arabic search engine API provides the simple and advanced search in Quran , more features and many interfaces](https://github.com/Alfanous-team/alfanous) 248 Stars.
-- [Integration of Adminator into Laravel 6.x/7.x/8.x with RTL support](https://github.com/kossa/laradminator) 225 Stars.
-- [bpflock - eBPF driven security for locking and auditing Linux machines](https://github.com/linux-lock/bpflock) 133 Stars.
+|  Open Source Project  |    Github   ⭐  |
+|--------------------------------------------------------------------------------------------------------------------|---------------|
+| [Linux kernel source. Github tree mirror](https://github.com/torvalds/linux)                                       |   170.0k   ⭐ |
+| [Wordpress Development mirror](https://github.com/WordPress/WordPress)                                             |    18.8k   ⭐ |
+| [Linux systemd System and Service Manager](https://github.com/systemd/systemd)                                     |    12.5k   ⭐ |
+| [NASA F´- A flight software and embedded systems framework](https://github.com/nasa/fprime)                        |     9.9k   ⭐ |
+| [The Block Editor project for WordPress and beyond](https://github.com/WordPress/gutenberg)                        |     9.9k   ⭐ |
+| [Nmap - the Network Mapper. Github mirror of official SVN repository](https://github.com/nmap/nmap)                |     9.2k   ⭐ |
+| [A customizable, open-source ecommerce platform built on WordPress](https://github.com/woocommerce/woocommerce)    |     9.1k   ⭐ |
+| [Open Source Headless ERP CRM E-Commerce Software Multi Branch & Currency](https://github.com/idurar/idurar-erp-crm)|    5.4k   ⭐ |
+| [CanJS Build CRUD apps in fewer lines of code](https://github.com/canjs/canjs)                                     |     1.9k   ⭐ |
+| [Low-level core library that forms the basis for projects such as GTK+ and GNOME](https://github.com/GNOME/glib)   |     1.5k   ⭐ |
+| [Web Development Evolved - The Firebug you have known and loved](https://github.com/firebug/firebug)               |     1.3k   ⭐ |
+| [Lockdoor Framework: A Penetration Testing framework with Cyber Security Resources](https://github.com/SofianeHamlaoui/Lockdoor-Framework)|     1.3k   ⭐ |
+| [A specific Arabic language library for Python](https://github.com/linuxscout/pyarabic)                            |      421   ⭐ |
+| [Legacy Django jet rebooted to support Django 3, 4, and latest](https://github.com/assem-ch/django-jet-reboot)     |      368   ⭐ |
+| [Mishkal is an arabic text vocalization software](https://github.com/linuxscout/mishkal)                           |      259   ⭐ |
+| [Quran Search - Arabic search engine API for Quran](https://github.com/Alfanous-team/alfanous)                     |      248   ⭐ |
+| [Frida Android utilities for pentesting tasks](https://github.com/Hamz-a/frida-android-helper)                     |      230   ⭐ |
+| [Integration of Adminator into Laravel 6.x/7.x/8.x with RTL support](https://github.com/kossa/laradminator)        |      225   ⭐ |
+| [Automated Frida hook generation with JEB ](https://github.com/Hamz-a/jeb2frida)                                   |      137   ⭐ |
+| [bpflock - eBPF driven security for locking and auditing Linux machines](https://github.com/linux-lock/bpflock)    |      133   ⭐ |
 
 
 ## Algerian Open Source communities
