@@ -39,6 +39,11 @@ https://knowledge4all.com/admin/CountryProfiles2021/DZA-en.pdf
 
 https://www.asjp.cerist.dz/en/article/173543
 
+https://www.asjp.cerist.dz/en/article/105799
+
+https://www.mpt.gov.dz/en/information-security-reference/
+
+https://intervalle-technologies.com/blog/rnsi-2020-national-information-security-framework/
 
 ## Algerian regulations
 

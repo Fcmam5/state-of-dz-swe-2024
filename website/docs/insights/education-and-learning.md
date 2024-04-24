@@ -22,3 +22,5 @@ ESI and https://www.ensia.edu.dz/
 http://www.ensttic.dz/
 
 institutes
+
+Cybersecurity school in WIP: https://www.aps.dz/societe/166994-vers-l-elaboration-d-une-strategie-nationale-pour-faire-face-aux-menaces-cybernetiques
