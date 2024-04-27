@@ -2,7 +2,7 @@
 sidebar_position: 11
 ---
 
-# Cybersecurity
+# Cybersecurity and governance
 
 The Algerian government established a national mission to raise awareness and improve different areas of cybersecurity in the country. In this section we will explore some of the findings in this area.
 
@@ -12,51 +12,164 @@ NISR 2020 consists of twenty domains, ranging from personal data protection, mob
 
 The reference lists a set of recommendations, best practices, guidelines and controls to improve individuals and companies' information systems' security. The controls and guidelines adheres to different international standards (GDPR, NIST 800-53, ISO / IEC 27002:2013, etc).
 
+:::tip This topic needs a dedicated research, take it from here!
+
+To not shift away from the generic "State of Algerian software engineering" domain this report covers, I would just scratch the surface on this topic. Why? [Read more here](/docs/closing#cybersecurity).
+:::
 
 ## Cybersecurity in Algerian laws and regulations
 
 The Algerian regulator incriminate and defines cyber crimes. With a series of laws such as:
 
 - Law [N° 04-15 (10 November 2004)](https://droit.mjustice.dz/sites/default/files/portail/legisl_nouveau/code_penal_2010/fr/index.html?i=655) defines sanctions for crimes related to data integrity, confidentiality and security.
-- Law [N° 09-04 (05 August 2009)](https://www.arpce.dz/fr/pub/l9d1a8) defines cyber crimes, electronic communications surveillance and the establishment of a national committee for preventing and fighting offenses related to information and communication technology.
+- Law [N° 09-04 (05 August 2009)](https://www.arpce.dz/fr/pub/l9d1a8), amended with [N° 16-02 (19 June 2016)](https://droit.mjustice.dz/sites/default/files/Loi-N%C2%B0-16-02.pdf) define cyber crimes, electronic communications surveillance and the establishment of a national committee for preventing and fighting offenses related to information and communication technology.
 - Law [N° 18-05 (10 May 2018)](https://www.arpce.dz/fr/pub/z2g9u7) emphasizing the requirement of securing data at rest and in transfer when dealing with personal and payments data.
 - Law [N° 18-07 (10 June 2018)](https://www.arpce.dz/fr/pub/c7e6n6) which is also related to personal data protection.
+- Law [N° 20-05 (20 January 2020)](https://www.joradp.dz/FTP/jo-francais/2020/F2020004.pdf) created Conseil National de la Sécurité des Systèmes d’Information (CNSSI) (National Information Systems Security Council) which operates withing the Ministry of National Defense, it is responsible for the development of the national strategy for the security of information systems. 
 
 These laws (and other texts) created different agencies that regulate and audit different aspects of cyber security and data protection. Among these agencies, we cite:
 
 - [ANPDP](https://anpdp.dz/)
 - [ARPCE](https://www.arpce.dz/)
 - [INAPI](https://anpdp.dz/)
-- ONPLCITIC (Organe National de Prévention et de Lutte Contre les Infractions Liées aux TIC)
-- ANSSI (Agence nationale de sécurité des systèmes d’information)
+- CNSSI (Ministry of National Defense)
+- [ONPLCITIC](https://www.arpce.dz/fr/file/p3m2q0) (Organe National de Prévention et de Lutte Contre les Infractions Liées aux TIC)
+- ASSI (Agence de sécurité des systèmes d’information) (Ministry of National Defense)
 - Central Department for Combating Cybercrime (DGSN)
+- [AGCE](https://agce.dz/)
+- [CNOSSI](https://www.joradp.dz/FTP/jo-francais/2020/F2020004.pdf)
+- [DZ-CERT](https://www.cerist.dz/index.php/fr/rechercheetdevelop/116-projets-de-recherche-innovants/238-dz-cert-algerian-computer-emergency-response-team) (DZ-CERT Algerian Computer Emergency Response Team)
 
 Along the establishment of [NISR document](https://www.mpt.gov.dz/en/information-security-reference/) in 2016, then its update on 2020.
 
-## Cybersecurity professionals
 
-### Survey data
+## Cybersecurity from our survey data
+
+Our survey did not have a lot of participants who work as cybersecurity engineers (8 of 517). Thus, we have to complete our analysis and discovery by interviewing specialists individually.
+
+### Education
+
+In our question about the highest level of education completed, our participants answered the following:
+
+```mermaid
+pie
+    "Master's Degree (Bac+5 in LMD; or Bac+4 in classical system) in an IT-related field" : 5
+    "Bachelor's Degree (License Bac+3 in LMD) in an IT-related field" : 1
+    "Master's Degree in a non IT-related field" : 1
+    "Prefer not to say" : 1
+```
+
+And when asked how they acquired their skills in IT (`How did you acquire your IT skills in your specific field? And how did you learn to code?`), the answers where the following:
+
+```mermaid
+xychart-beta horizontal
+  x-axis ["Self-Taught","Formal Education (University)","On-the-Job Training","Online Courses","Coding Bootcamp","Mentorship"]
+  bar [7,6,5,4,2,1]
+```
+
+We notice that at least 6 out of 8 participants acquired their skills in information technology and/or cybersecurity from their formal education.
+
+Out of the 6 engineers who received formal education at university, 5 of them supplemented their learning with online courses and books. Additionally, 3 of these individuals underwent on-the-job training.
+
+Our participants acquire skills in cybersecurity in English (100% of the participants), in French (50%), in Arabic and in Algerian dialect (Darija).
+
+We had one senior security engineer who only received a formal education (Master's degree in an IT-related field), that individual is paid the lowest salary (less than **100 000 DZD** per month) compared to other seniors.
+
+### Work models and challenges
+
+67% of our participants work for Algerian companies on-site in Algeria, and 22% work remotely from Algeria for foreign companies.
+
+We had one participant (out of 8) who works part-time both for an Algerian company in Algeria, and remotely for foreign companies.
+
+According to our participants, the main challenges cybersecurity engineers face in Algeria are:
+
+1. Lack of Recognition or Career Growth Opportunities
+2. Insufficient Government Support for the Tech Industry
+3. Limited Access to Advanced Training or Courses
+4. Regulatory or Compliance Challenges (Unclear laws or unregulated activities)
+5. Banking systems (unclarity on how to pay and receive wages)
+6. High Workload or Overtime Demands
+7. Mandatory military service
+8. Challenges in Collaboration and Team Communication
+9. Lack of Collaboration Between Academia and Industry
+10. Lack of challenging opportunities
+11. The unfair use of private relations (nepotism; favoritism; etc.) in the hiring process
+
+### Salaries and perks
+
+According to our participants:
+
+- Junior security engineers are paid salaries around **80 000 DZD**.
+- Security engineers with 6+ years of experience are paid between **100 000** and **150 000 DZD** (in Algiers).
+- Senior security engineers (11 to 15 years of professional experience) are paid salaries between **100 000** and **150 000 DZD** (in Algiers and Oran).
+
+```mermaid
+pie
+    "Bonuses" : 7
+    "Health Insurance" : 4
+    "Retirement/Pension Plan" : 4
+    "Paid Time Off (Vacation; Holidays)" : 4
+    "Flexible Working Hours" : 4
+    "Remote Work Options" : 4
+    "Company-provided Equipment" : 3
+    "Professional Development Opportunities" : 2
+    "Gym/Wellness Memberships" : 1
+    "Housing" : 1
+```
+
+### Technologies
+
+We asked our participants what language they primarily use, and the answers where the following:
+
+```mermaid
+pie
+    "Python" : 7
+    "SQL" : 5
+    "Bash/Shell (all shells)" : 5
+    "Java" : 5
+    "PHP" : 5
+    "PowerShell" : 5
+    "JavaScript" : 3
+    "HTML/CSS" : 3
+    "Visual Basic (.Net)" : 2
+    "C++" : 2
+    "Assembly" : 2
+    "VBA" : 1
+```
+
+The two participants who use Assembly work for foreign companies (one participant works as a part-time employee and one freelancer).
+
+When asked about web hosting solutions, our participants answered the following:
+
+```mermaid
+xychart-beta horizontal
+  x-axis ["Use own, or organization's servers","Algerian hosting service providers","Non-Algerian VPS or Shared hosting","Cloud Hosting (e.g. AWS; Azure; GCP)"]
+  bar [6,4,2,2]
+```
+
+Most of our security engineers (6 out of 8) use in-house hosting solutions (their own, or their organization's servers).
+
+Half of the security engineers who responded use Algerian hosting providers (some of them commented that it's for compliance reasons).
+
+Two of the participants use AWS and Azure as cloud providers, one use GCP, and one use OVHcloud.
+
+### Relocation
+
+63% of our participants who work as security engineers are open to relocate to other Wilayas if they have better opportunities.
+
+The participants who work in cybersecurity and live in Algiers did relocate from other Wilayas to work there.
+
+## Interviewing professionals and actors in cyber security field
+
+To challenge our data and to understand this domain better, we interviewed professionals.
+
 
 ### TBD: How do you work in Algeria?
 ### TBD: Bug bounty programs in Algeria?
 ### TBD: What to do if you found a bug?
 ### TBD: How did you learn?
 ### TBD: If you find a clear process to report bugs, would you do? what incentivize you
-### TBD: What cyberSec is trending here in your opinion/experience? 
+### TBD: What cyberSec  techniques & specializations are trending here in your opinion/experience?  
 ### TBD: Schools and universities teaching cybersecurity
 ### TBD: How do you recruit for security?
 ### TBD: How do you assess your security
-
-https://www.linkedin.com/in/fateh-bouloudani/?originalSubdomain=dz
-
-## References
-
-:::note[References]
-
-* [MPT: Information Security Reference](https://www.mpt.gov.dz/en/information-security-reference/)
-* [أمن المعلومات في الجزائر: الإجراءات والتحديات](https://www.asjp.cerist.dz/en/article/105799)
-* [الجريمة المعلوماتية في التشريع الجزائري](https://www.asjp.cerist.dz/en/article/168985)
-* [Cybersecurity in Algeria](https://www.researchgate.net/publication/369647110_Cybersecurity_in_Algeria)
-* [APS: Vers l'élaboration d'une stratégie nationale pour faire face aux menaces cybernétiques ](https://www.aps.dz/societe/166994-vers-l-elaboration-d-une-strategie-nationale-pour-faire-face-aux-menaces-cybernetiques)
-
-:::

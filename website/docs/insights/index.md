@@ -10,18 +10,20 @@ We could gather some data by clustering answers, and to have an unbiased and a c
 In our reports we will use "we" and "ours" to refer to the authors/researchers:
 
 - I, myself: Abdeldjalil Fortas (or Fcmam5, the nickname you see in the repository and the website domain name).
-- Other contributors and people I reached out to for help, cross-checking and validation (TBD).
+- Other contributors and people I reached out to for help, cross-checking and validation.
 
 We will use "our experts", "stakeholders", or "actors" to refer to people we interviewed as actors in Algerian IT ecosystem. Some of our experts preferred to stay anonymous so we won't refer to them by name. We will just list them as the following:
 
-- A CTO of a leading startup in logistics field in Algeria, with a long experience in Algerian startups as a lead.
+- An engineer who works full time on Open Source software and who contributed to world-class projects.
+- 
+<!-- - A CTO of a leading startup in logistics field in Algeria, with a long experience in Algerian startups as a lead.
 - An executive in an Algerian government agency, leading IT transformation and digitalization projects.
 - A senior engineer working full-time on open-source as a core team member, with a long experience in working with Algerian startups and government agencies.
 - An engineering manager in an international leading startup in Telco Cloud world, who has a long experience in working and hiring Algerian engineers.
-- TBD:
+- TBD: -->
 
 
-As X% of our contributors are from Oran and Algiers, we wanted to amplify other wilayas' voices by interviewing:
+As X% of our contributors are from Oran and Algiers, we wanted to amplify other Wilayas' voices by interviewing:
 
 - A CEO of a rising startup from Mostaganem.
 - A lead in an agency running in Djelfa and maintaining open-source projects.
@@ -40,4 +42,4 @@ To clarify the gap between Algerian engineers and business owners, and to unders
 
 By interviewing we mean asking people direct questions (often accompanied with numbers) to better understand the challenges and to have an unbiased view when writing the report.
 
-If you are interested in the raw questions, feel free to check [this link](#tbd). We did not keep a transcript of the answers to give more freedom and privacy to our interviewees.
+If you are interested in the raw questions, feel free to check [this link](/docs/appendix/raw-interviews). We did not keep a transcript of the answers to give more freedom and privacy to our interviewees.

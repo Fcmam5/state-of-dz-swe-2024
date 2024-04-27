@@ -43,7 +43,7 @@ Which means that around **70%** of our participants have a degree in IT-related 
 
 ### Location
 
-84.1% of the participants live in Algeria. Our participants live in 46 wilayas, with the majority being from Algiers, Oran, Sétif, Blida and Constantine.
+84.1% of the participants live in Algeria. Our participants live in 46 Wilayas, with the majority being from Algiers, Oran, Sétif, Blida and Constantine.
 
 <iframe title="Participants by Wilaya" aria-label="Map" id="datawrapper-chart-yWQh1" src="https://datawrapper.dwcdn.net/yWQh1/1/" scrolling="no" frameborder="0" width="100%" height="693" data-external="1"></iframe>
 

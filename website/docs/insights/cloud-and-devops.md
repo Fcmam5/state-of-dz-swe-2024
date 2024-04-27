@@ -187,7 +187,7 @@ xychart-beta horizontal
 
 ### Deployment and infrastructure provisioning tools
 	
-We asked [`What tools do you use for deployment and infrastructure provisioning?`](/docs/Appendix/raw-results#what-tools-do-you-use-for-deployment-and-infrastructure-provisioning) The answers were the following: 
+We asked [`What tools do you use for deployment and infrastructure provisioning?`](/docs/appendix/raw-results#what-tools-do-you-use-for-deployment-and-infrastructure-provisioning) The answers were the following: 
 
 ```mermaid
 xychart-beta horizontal

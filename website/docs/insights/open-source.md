@@ -29,6 +29,10 @@ For example, Algeria was not present in [Github's Octoverse report for 2023](htt
 
 [Made in Algeria collection on Github](https://github.com/collections/made-in-algeria) is not actively maintained, and it only list a few projects.
 
+:::info
+I'm adding more repositories to [Made In Algeria collection](https://github.com/github/explore/pull/4285), and please do so as well!
+:::
+
 Individual contributions made by Algerians might also not be visible in reports and surveys, as some engineers choose not to share their locations on their public profiles, or some of them work from abroad.
 
 ## Algerian Open Source projects
@@ -49,10 +53,6 @@ Individual contributions made by Algerians might also not be visible in reports 
 - https://github.com/aissat/easy_localization
 - https://github.com/kossa/laradminator
 - https://github.com/kossa/algerian-cities
-
-:::info
-I'm adding more repositories to [Made In Algeria collection](https://github.com/github/explore/pull/4279), and please do so as well!
-:::
 
 ## Algerians' Contributions to Open Source
 

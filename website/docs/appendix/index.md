@@ -1,6 +1,6 @@
 ---
 id: appendix
-sidebar_position: 3
+sidebar_position: 4
 pagination_prev: intro
 custom_edit_url: https://github.com/Fcmam5/state-of-dz-swe-2024/tree/master/website/docs/Appendix/raw-results.md
 ---
@@ -41,9 +41,23 @@ https://www.asjp.cerist.dz/en/article/173543
 
 https://www.asjp.cerist.dz/en/article/105799
 
-https://www.mpt.gov.dz/en/information-security-reference/
-
 https://intervalle-technologies.com/blog/rnsi-2020-national-information-security-framework/
+
+https://cyberpolicyportal.org/states/algeria
+
+https://cybilportal.org/projects-by?page=country&_sft_country=algeria
+
+https://ncsi.ega.ee/country/dz_2022/
+
+https://www.jpsa.ac.ae/cgi/viewcontent.cgi?article=1013&context=journal
+
+https://ispar.unescwa.org/Country-index.aspx?Country=3
+
+
+* [MPT: Information Security Reference](https://www.mpt.gov.dz/en/information-security-reference/)
+* [الجريمة المعلوماتية في التشريع الجزائري](https://www.asjp.cerist.dz/en/article/168985)
+* [Cybersecurity in Algeria](https://www.researchgate.net/publication/369647110_Cybersecurity_in_Algeria)
+* [APS: Vers l'élaboration d'une stratégie nationale pour faire face aux menaces cybernétiques ](https://www.aps.dz/societe/166994-vers-l-elaboration-d-une-strategie-nationale-pour-faire-face-aux-menaces-cybernetiques)
 
 ## Algerian regulations
 

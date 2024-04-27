@@ -6,6 +6,8 @@ sidebar_position: 1
 
 To understand trends in Algerian landscape, we asked our participants some questions about the technologies they use. To support our results, we also interviewed some experts to enrich this report, we conducted some interviews with some developers and managers in different startups and government companies.
 
+![Trends from a survey done in 2021](/img/2021-survey/programming-language-2021-trend.png)
+
 ## Programming languages
 
 ```mermaid
