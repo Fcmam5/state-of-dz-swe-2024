@@ -78,7 +78,7 @@ More government and official companies are using online platforms and job fairs 
 
 The Ministry of Post and Telecommunications lunched [Safqatic](https://www.safqatic.dz/), a tender portal to give more opportunities to startups specializing in the ICT.
 
-
+https://baosem.com/
 
 
 

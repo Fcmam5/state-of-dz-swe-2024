@@ -373,7 +373,7 @@ xychart-beta horizontal
 
 :::tip
 
-Do you want to understand the corelation between salaries, job titles and years of experience? Check our [salary insights page](/docs/insights/salaries)
+Do you want to understand the corelation between salaries, job titles and years of experience? Check our [remunerations insights page](/docs/insights/remuneration)
 :::
 
 ### If you are working for a foreign company from Algeria, What's your average yearly gross income in EUR?
