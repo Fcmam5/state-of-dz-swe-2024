@@ -35,5 +35,5 @@ sidebar_position: 2
 |     AGCE     | Autorité Gouvernementale de Certification Electronique (The Government Electronic Certification Authority)                                        |
 |    CPLCIC    | Centre de Prévention et de Lutte Contre la Criminalité Informatique et la Cybercriminalité                                                        |
 |    CNOSSI    | Centre National Opérationnel de Sécurité des Systèmes d’Information (National Operational Center for Information Systems Security)                |
-
-|              |                                                                                                                                                   |
+|     CNAS     | National Fund For Social Insurance For Salaried Employees                                                                                         |
+|    CASNOS    | National Social Security Fund For Self-Employed                                                                                                   |

@@ -142,15 +142,45 @@ Engineers who are paid salaries going up to <nobr>**100 000 DZD**</nobr> mainly 
 
 #### Senior engineers
 
+Engineers with 11 to 15 years of experience, and who work for Algerian companies are paid salaries going from <nobr>**60 000 DZD**</nobr> up to more than <nobr>**150 000 DZD**</nobr> per month.
 
-#### Group 5
+```mermaid
+xychart-beta horizontal
+  x-axis ["100K to less than 150K DZD","40K to less than 60K DZD","80K to less than 100K DZD","More than 150K DZD","60K to less than 80K DZD"]
+  bar [6,5,4,4,3]
+```
 
+<br/>
+
+Engineers in this category who are paid salaries that goes up to <nobr>**60 000 DZD**</nobr> are employees in large companies with more than 1000 employees. These salaries can be correlated with the ones in public sector. 
+
+We also see that salaries in the same group goes up to <nobr>**80 000 DZD**</nobr> in southern Wilayas (e.g. Naâma, Adrar).
+
+Salaries going up to <nobr>**100 000 DZD**</nobr> for this group are mostly for executives and managers who are based in Algiers.
+
+We see wider spread for salaries around <nobr>**150 000 DZD**</nobr> across the country (From Oran to Ouargla).
+
+These high salaries are present in the big wilayas (Oran and Algiers) for management and leadership roles, and for Governance and security.
+
+#### Executives and/or managers
+
+Salaries for managers also vary between <nobr>**60 000 DZD**</nobr> to more than <nobr>**150 000 DZD**</nobr>.
+
+```mermaid
+xychart-beta horizontal
+  x-axis ["More than 150K DZD","80K to less than 100K DZD","60K to less than 80K DZD","40K to less than 60K DZD","100K to less than 150K DZD"]
+  bar [3,2,2,1,1]
+```
+
+<br/>
+
+2 of 3 participants who are paid less thn <nobr>**80 000 DZD**</nobr> don't have a university degree (Baccalaureate is their highest degree). But the third participant has Ph.D. or equivalent.
+
+The high salaries (more or less than <nobr>**150 000 DZD**</nobr>) are paid in medium to large companies based in Oran, Algiers.
 
 ### Working remotely for foreign companies
 
-#### Group 1
-#### Group 2
-#### Group 3
+Salaries for remote positions are not regulated in any forms. They highly depend on the skills, years of the experience, clients' countries, projects, and many other factors.
 
 ### Effects of education on salaries
 
