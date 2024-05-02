@@ -9,10 +9,19 @@ custom_edit_url: https://github.com/Fcmam5/state-of-dz-swe-2024/tree/master/webs
 
 ## Final thoughts
 
-## ~~Solutions~~ Ideas and wishes
+## ~~Solutions~~ Ideas and wishes for the open challenges
 
-This document is not only meant for software development engineers or students. GOV, busines heads ..
+This document is not only meant for software development engineers or students. We vulgarized some terms and tried to write for a broad audience, we hope to reach business owners, entrepreneurs, government representatives and anyone who can invest in this field.
 
+TBD
+
+If we want to be more optimistic, we can throw some ideas out there, hopefully the government look into them:
+
+- Algeria has a national mission to ensure cyber security, and if the ministry of defense and its subsidiary are leading a lot of projects in this field. In the same time we see that Algeria's cybersecurity professionals find that `Mandatory military service` is one of the challenges, they even consider this one of the reasons to flee the country...
+
+    Can we have a national program to involve students and professionals into this mission, checking the box on the national mandatory military service while developing and exploiting the potentials we have in the country. This idea is in place for many other countries.
+
+- The black market is a threat to the national economy, however its rates are the standards for a lot for citizens (and tourists now). Algeria is putting a lot of efforts in regulating activities, but we still have a lot to do. We need more push for modernizing banking systems, more use of e-payment solutions, and having official currency exchange offices. Algerians should feel safe and comfortable to receive their wages in foreign companies, and to keep them in their bank accounts, then to be able to use them to pay for services.
 
 ## A *tbd...*
 
@@ -48,9 +57,7 @@ Cybersecurity topic needs to be covered by professionals, this topic needs a lot
 
 In some academic publications, researchers claim that there were/are gaps in Algerian regulations. This has to be investigated by technical/legal people.
 
-A field study has to be done to investigate whether laws and decisions are applied. If the different agencies are actually working on the field and they are collaborating with talents.
-
-The tooling and practices used by engineers and teams can also be explored.
+A field study has to be done to investigate whether laws and decisions are applied, if the different agencies are actually working on the field and they are collaborating with talents, and what tooling tooling and practices used by engineers and teams can also be explored.
 
 #### Internships
 

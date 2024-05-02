@@ -53,6 +53,12 @@ https://www.jpsa.ac.ae/cgi/viewcontent.cgi?article=1013&context=journal
 
 https://ispar.unescwa.org/Country-index.aspx?Country=3
 
+https://www.numbeo.com/cost-of-living/country_result.jsp?country=Algeria
+
+https://aja.me/gufnww
+
+https://taxsummaries.pwc.com/algeria/individual/taxes-on-personal-income
+https://www.annd.org/uploads/summernote/three31614341217.pdf
 
 * [MPT: Information Security Reference](https://www.mpt.gov.dz/en/information-security-reference/)
 * [الجريمة المعلوماتية في التشريع الجزائري](https://www.asjp.cerist.dz/en/article/168985)

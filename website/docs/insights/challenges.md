@@ -111,6 +111,8 @@ Online payments especially for digital products and accepting credit cards.
 
 ### Not having a degree in IT
 
+### Caba and material
+
 ### Unregulated activities
 
 khadma f noir

@@ -13,3 +13,8 @@ considered an option?
 Is it feasible?
 
 foreign companies vs DZ
+
+
+## Case studies
+
+check sr remote work sheet

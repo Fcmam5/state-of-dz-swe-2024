@@ -180,7 +180,34 @@ The high salaries (more or less than <nobr>**150 000 DZD**</nobr>) are paid in m
 
 ### Working remotely for foreign companies
 
-Salaries for remote positions are not regulated in any forms. They highly depend on the skills, years of the experience, clients' countries, projects, and many other factors.
+Salaries for remote positions are not regulated in any form. They highly depend on the skills, years of the experience, clients' countries, type of projects/contract, and many other factors.
+
+According to our survey participants, Algerian engineers can get up to **85 000 Euros** per year (~7000€/month).
+
+We calculated medians of salaries and compared them to years of experience, the results were the following:
+
+![Salaries in eur](/img/stats/salarie-in-eur.png)
+
+<br/>
+
+We see that salaries are on a raising pattern until 16+ years of experience where we have two remarks:
+
+1. We can not make a judgement since we only have two participants in this case (participants working remotely from Algeria with 16+ years of experience).
+2. At this level of seniority a full-time remote position from Algeria might be challenging, or not th preferred solution. Read more about this case in [our remote working page](#) (TLDR; They might be freelance consultants).
+
+<br/>
+
+Remote workers exercise their work in different forms, 46% of the participants who work for foreign companies are full-time employees, 42% are freelancers, and 12% are part-time employees.
+
+To explore freelancers' income, we fetched public Algerian freelancers' data from [Upwork](https://www.upwork.com/), and we had the following:
+
+```mermaid
+xychart-beta horizontal title "Algerian freelancers on Upwork by hourly rate (in $)"
+  x-axis [ "70",  "60", "50", "40",  "30", "20", "10" ]
+  bar [ 2, 3, 14, 15, 47, 99, 124 ]
+```
+
+This data is also correlated with findings from other websites like [peopleperhour](https://www.peopleperhour.com/) (Majority of freelancers with hourly rates around 10 to 20€/hour, and the median close to 40€/hour).
 
 ### Effects of education on salaries
 
@@ -188,28 +215,78 @@ Salaries for remote positions are not regulated in any forms. They highly depend
 
 ## Perks
 
-### Data from the survey
+Some jobs offer other perks on top of salaries, according to our survey data we have the following:
+
+```mermaid
+xychart-beta horizontal
+  x-axis ["Paid Time Off (Vacation, Holidays)","Remote Work Options","Health Insurance","Flexible Working Hours","Retirement/Pension Plan","Professional Development Opportunities","Company-provided Equipment","Bonuses","Stock Options","Housing","Gym/Wellness Memberships","Nothing","Transport"]
+  bar [130,126,123,111,91,86,68,56,19,19,14,3,1]
+```
+
+<br/>
+
+Additionally, some jobs offer other perks, for example<sup>[*](/docs/appendix/raw-interviews#an-executive-in-a-tech-startup)</sup>:
+
+- Business SIM cards.
+- VTC Memberships.
+- Paid trips and holidays.
 
 ### Perks by location and company size
 
 [goto](/docs/insights/talents-migration)
 
+### Perks by employment mode
+
+#### Working for Algerian companies
+#### Working for foreign companies in Algeria
+#### Working for foreign companies remotely
+
 ## The value of salaries
+
+This section looks into the value of software engineering salaries in Algeria.
 
 ### Costs of living in Algeria
 
-Base salary
-costs
-taxes
-DZD in USD (traveling and buying from outside).
+According to 3363 entries made by 250 different participants in [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Algeria) (a crowd-sourced global database of quality of life data):
+
+- A family of four estimated monthly costs are **1,535.7€** without rent.
+- A single person estimated monthly costs are **430.1€** without rent.
+
+Algerian minimum wages are around <nobr>**20 000 DZD**</nobr>, however [the Union of Algerian Workers estimates](https://aja.me/gufnww) that the minimum income for a family of five members should be more than <nobr>**80 000 DZD**</nobr> (~556 €), while they estimated that the average monthly salary in the public sector is around <nobr>**40 000 DZD**</nobr> (~278 €).
+
+### Social services and taxes
+
+TBD: Explore:
+https://www.annd.org/uploads/summernote/three31614341217.pdf
+https://taxsummaries.pwc.com/algeria/individual/taxes-on-personal-income
+
+Counting tax .... https://taxsummaries.pwc.com/algeria/individual/sample-personal-income-tax-calculation
+
+### Value of of the Algerian Dinar (DZD)
+
+TBD:
+- Rates
+- Allocation touristique: https://voyages-algerie.com/2024/01/08/tourisme/algerie-allocation-touristique-300-euros-voyage/
 
 ### Happiness index
 
+`Low Salary` Was only mentioned once by engineers who live in Algeria in our question about what challenges are faced in working with in IT.
+
+:::tip
+
+Interested in knowing more about challenges? Head to our [Challenges](/docs/insights/challenges) page.
+
+:::
+
+The participant wrote:
+
+> No matter how high salary is compared to other jobs, it remains low in order to live comfortably.
+
+
 SHOW diagram (how satisfied are you)
 
-The amount of times when salary was mentioned in challenges
 
-### Evolution of salaries from research
+## Evolution of salaries from research
 
 work in 2020
 work in 2018
