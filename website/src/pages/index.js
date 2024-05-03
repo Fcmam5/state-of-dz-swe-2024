@@ -41,6 +41,10 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <h3>More features</h3>
+        <ul>
+          <li>PWA</li>
+        </ul>
       </main>
     </Layout>
   );

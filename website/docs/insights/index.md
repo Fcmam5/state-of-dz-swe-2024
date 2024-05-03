@@ -9,7 +9,7 @@ We could gather some data by clustering answers, and to have an unbiased and a c
 
 In our reports we will use "we" and "ours" to refer to the authors/researchers:
 
-- I, myself: Abdeldjalil Fortas (or Fcmam5, the nickname you see in the repository and the website domain name).
+- I, myself: Abdeldjalil Fortas (or Fcmam5, the nickname you see in the repository in the previous [domain name](https://fcmam5.me/)).
 - Other contributors and people I reached out to for help, cross-checking and validation.
 
 We will use "our experts", "stakeholders", or "actors" to refer to people we interviewed as actors in Algerian IT ecosystem. Some of our experts preferred to stay anonymous so we won't refer to them by name. We will just list them as the following:

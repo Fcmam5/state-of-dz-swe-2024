@@ -2,7 +2,7 @@
 id: closing
 sidebar_position: 3
 pagination_prev: intro
-custom_edit_url: https://github.com/Fcmam5/state-of-dz-swe-2024/tree/master/website/docs/Appendix/raw-results.md
+custom_edit_url: https://github.com/Fcmam5/state-of-dz-swe-2024/tree/master/website/docs/appendix/closing.md
 ---
 
 # Closing

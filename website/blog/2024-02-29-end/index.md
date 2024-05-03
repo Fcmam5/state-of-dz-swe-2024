@@ -44,7 +44,7 @@ This work will take time, and we all have jobs and personal responsibilities whi
 
 ## Where will we publish the results? 
 
-The results will be published in [this](https://fcmam5.me/state-of-dz-swe-2024/) (https://fcmam5.me/state-of-dz-swe-2024/) website.
+The results will be published in [this](https://state-of-algeria.dev/) (~~https://fcmam5.me/state-of-dz-swe-2024/~~ https://state-of-algeria.dev) website.
 
 ## In which format?
 

@@ -15,7 +15,7 @@ const config = {
   staticDirectories: ["static"],
 
   // Set the production url of your site here
-  url: "https://fcmam5.me",
+  url: "https://state-of-algeria.dev",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -65,8 +65,8 @@ const config = {
     ({
       colorMode: { defaultMode: "light", respectPrefersColorScheme: false },
       announcementBar: {
-        content: `🎉️ <b>Results are here, <a target="_blank" href="https://fcmam5.me/state-of-dz-swe-2024/docs">click here</a> to start exploring</b> 🇩🇿`,
-        backgroundColor: "#D32F2F",
+        content: `🍪 This website uses cookies`,
+        backgroundColor: "#3cad6e",
         textColor: "#FFFFFF",
       },
       algolia: {
@@ -88,8 +88,8 @@ const config = {
       navbar: {
         title: "The state of Algerian Software engineering 2024",
         logo: {
-          alt: "Algerian flag",
-          src: "img/logo.svg",
+          alt: "Don't judge me, ain't a designer... A survey logo",
+          src: "img/logo.png",
         },
         items: [
           { to: "/docs", label: "Results", position: "left" },
@@ -121,15 +121,15 @@ const config = {
             items: [
               {
                 label: "Facebook",
-                to: "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ffcmam5.me%2Fstate-of-dz-swe-2024%2Fdocs&amp;src=sdkpreparse",
+                to: "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fstate-of-algeria.dev%2Fdocs&amp;src=sdkpreparse",
               },
               {
                 label: "Twitter",
-                to: "https://twitter.com/intent/tweet?text=Check%20out%20The%20State%20of%20Algerian%20Software%20Engineering%202024:%20https%3A%2F%2Ffcmam5.me%2Fstate-of-dz-swe-2024%2Fdocs%20%23dzDevSurvey24",
+                to: "https://twitter.com/intent/tweet?text=Check%20out%20The%20State%20of%20Algerian%20Software%20Engineering%202024:%20https%3A%2F%2Fstate-of-algeria.dev%2Fdocs%20%23dzDevSurvey24",
               },
               {
                 label: "LinkedIn",
-                to: "https://www.linkedin.com/sharing/share-offsite/?url=https://fcmam5.me/state-of-dz-swe-2024/docs",
+                to: "https://www.linkedin.com/sharing/share-offsite/?url=https://state-of-algeria.dev/docs",
               },
               {
                 html: "<small><em>Please use <strong style='user-select: all;-webkit-user-select: all;cursor:copy;'>#dzDevSurvey24</strong> hashtag</em></small>",
@@ -165,6 +165,35 @@ const config = {
     mermaid: true,
   },
   themes: ["@docusaurus/theme-mermaid"],
+  plugins: [
+    [
+      "@docusaurus/plugin-pwa",
+      {
+        offlineModeActivationStrategies: [
+          "appInstalled",
+          "standalone",
+          "queryString",
+        ],
+        pwaHead: [
+          {
+            tagName: "link",
+            rel: "icon",
+            href: "/img/docusaurus.png",
+          },
+          {
+            tagName: "link",
+            rel: "manifest",
+            href: "/manifest.json", // your PWA manifest
+          },
+          {
+            tagName: "meta",
+            name: "theme-color",
+            content: "rgb(37, 194, 160)",
+          },
+        ],
+      },
+    ],
+  ],
 };
 
 export default config;
