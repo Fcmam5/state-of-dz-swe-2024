@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Closing Algeria Developer Survey 2024","permalink":"/blog/2024-survey-closing","unlisted":false},{"title":"Algeria Developer Survey 2024","permalink":"/blog/kickstart-survey-2024","unlisted":false}]}')}}]);
