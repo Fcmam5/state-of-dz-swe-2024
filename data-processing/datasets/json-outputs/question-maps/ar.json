@@ -1,0 +1,103 @@
+[
+  { "Timestamp": "Timestamp" },
+  { "ماهو عمرك؟": "What is your age?" },
+  { "ماهو جنسك؟": "What is your gender?" },
+  {
+    "ما هو أعلى مستوى تعليمي أكملته؟": "What is your highest level of education completed?"
+  },
+  { "هل تعيش في الجزائر": "Do you live in Algeria?" },
+  { "أين تعيش؟": "Where do you live?" },
+  {
+    "هل لديك شهادة جزائرية في مجالات تكنولوجيا المعلومات؟": "Do you you have an Algerian degree in IT fields?"
+  },
+  { "هل انتقلت للدراسة في الخارج؟": "Did you relocate to study abroad?" },
+  { "هل انتقلت للعمل في الخارج؟": "Did you relocate to work abroad?" },
+  { "من أين تعمل بشكل أساسي؟": "From where do you primarily work?" },
+  { "أين تسكن (الولاية)؟": "Where do you live (Wilaya)?" },
+  {
+    "هل كان عليك التنقل إلى تلك المدينة (الولاية) للعمل في مجال تكنولوجيا المعلومات؟": "Did you have to travel to that city (wilaya) to work in IT?"
+  },
+  {
+    "إذا وجدت فرصة أفضل للعمل في مدينة (ولاية) مختلفة، فهل ستنتقل؟": "If you find a better opportunity to work in a different city (wilaya), would you relocate?"
+  },
+  {
+    "ما هي المزايا أو الامتيازات الأخرى التي تحصل عليها في وظيفتك الحالية، بالإضافة إلى راتبك؟": "In addition to your salary, what other benefits or perks do you receive in your current role?"
+  },
+  {
+    "إذا كنت على استعداد لمغادرة البلاد، ما هي وجهتك (اتركها فارغة إذا لم تكن قابلة للتطبيق)؟": "If you are willing to leave the country, what would be your destination (Leave it empty if not applicable)?"
+  },
+  { "ما هو وضعك الوظيفي الحالي؟": "What is your current employment status?" },
+  {
+    "ما هي العبارة الصحيحة بالنسبة لحالتك (اختر أكثر من عبارة واحدة إذا كان لديك نموذج عمل مختلط)؟": "Which statement is true for your case (choose more than one if you have a hybrid working model)?"
+  },
+  { "ما هو مستواك المهني الحالي؟": "What is your current professional level?" },
+  {
+    "كم عدد سنوات الخبرة المهنية التي لديك في مجال هندسة البرمجيات؟": "How many years of professional experience do you have in the software engineering field?"
+  },
+  {
+    "كم عدد الأشخاص الذين يعملون في مؤسستك، بما فيهم أنت؟": "How many people work at your organization, including yourself?"
+  },
+  { "ما هو اختصاصك الرئيسي؟": "What's your main role?" },
+  {
+    "إذا كنت تعمل في شركة جزائرية، ما هو متوسط ​​راتبك الشهري بالدينار الجزائري؟\n\nاتركه فارغا اذا لم يكن مطبقا.": "If you are working for an Algerian company, What's your average monthly salary in DZD (Algerian dinars)?\n\nLeave empty if not applicable."
+  },
+  {
+    "إذا كنت تعمل لدى شركة أجنبية من الجزائر، ما هو متوسط ​​دخلك الإجمالي السنوي باليورو؟ \n\nاتركه فارغا اذا لم يكن مطبقا": "If you are working for a foreign company from Algeria, What's your average yearly gross income in EUR?\n\nLeave empty if not applicable."
+  },
+  {
+    "على مقياس من 1 إلى 10، ما مدى رضاك ​​عن وظيفتك الحالية في مجال هندسة البرمجيات؟": "On a scale from 1 to 10, how satisfied are you with your current job in the software engineering field?"
+  },
+  {
+    "ما هي التحديات الرئيسية التي تواجهها في دورك كمهندس برمجيات في الجزائر؟": "What are the main challenges you face in your role as a software engineer in Algeria?"
+  },
+  {
+    "كيف دخلت مجال هندسة البرمجيات أو التكنولوجيا؟": "How did you get into the field of software engineering or technology?"
+  },
+  {
+    "ما هي لغات البرمجة التي تستخدمها كثيرا في عملك؟ (اختر كل ما ينطبق)": "Which programming languages do you frequently use in your work? (Select all that apply)"
+  },
+  {
+    "ما هي محركات قواعد البيانات التي تعمل معها عادة؟ (اختر كل ما ينطبق)": "Which database engines do you commonly work with? (Select all that apply)"
+  },
+  {
+    "إن أمكن، ما هي خدمات استضافة الويب التي تستخدمها؟": "If applicable, which web hosting services do you use?"
+  },
+  { "ما هي أطر الويب التي تستخدمها؟": "Which web frameworks do you use?" },
+  {
+    "ما هي أطر/لغات تطوير الأجهزة المحمولة التي تستخدمها؟": "Which mobile development frameworks/languages do you use?"
+  },
+  {
+    "إن كنت تطور تطبيقات سطح المكتب، ما هي التقنيات التي تستخدمها؟": "If you build Desktop applications, what technologies do you use?"
+  },
+  {
+    "ما هي حلول الدفع الإلكتروني الذي استخدمته؟\n": "Which e-payment solution did you use?"
+  },
+  {
+    "كيف تصف مشاركتك في تطوير البرمجيات مفتوحة المصدر؟": "How would you describe your involvement with open source software development?"
+  },
+  {
+    "ما هي منهجية تطوير البرمجيات التي تستخدمها أنت أو مؤسستك؟": "Which software development methodology you, or your organization use?"
+  },
+  {
+    "ما هي أدوات التعاون عبر الإنترنت التي تستخدمها في العمل؟": "Which online collaboration tools you use for work?"
+  },
+  {
+    "من هم موفري الخدمات السحابية الذين تستخدمهم بشكل أساسي؟ (اختر كل ما ينطبق)\n": "Which cloud providers do you primarily use? (Select all that apply)"
+  },
+  {
+    "ما هي أنظمة التحكم في الإصدار التي تستخدمها بشكل أساسي لإدارة مشاريعك البرمجية؟": "Which version control systems do you primarily use for managing your software projects?"
+  },
+  {
+    "ما الأدوات التي تستخدمها للنشر وتوفير البنية التحتية؟": "What tools do you use for deployment and infrastructure provisioning ?"
+  },
+  { "ما هي أدوات CI/CD التي تستخدمها؟": "Which CI/CD technology do you use?" },
+  {
+    "كيف اكتسبت مهاراتك في مجال تكنولوجيا المعلومات في مجالك المحدد؟ وكيف تعلمت البرمجة؟": "How did you acquire your IT skills in your specific field? And how did you learn to code?"
+  },
+  {
+    "ما هي اللغة التي تعتمد عليها في التعلم واكتساب مهاراتك في مجال تكنولوجيا المعلومات؟": "In which language did you primarily learn and acquire your IT skills?"
+  },
+  {
+    "إذا كنت منخرطًا أو على علم بمجتمعات أو لقاءات تقنية في الجزائر، فيرجى تحديد أسماء أو أنواع المجتمعات التي ترتبط بها أو تعرفها:": "If you are involved in or aware of tech communities or meetups in Algeria, please specify the names or types of communities you are associated with or know of:\""
+  }
+]
