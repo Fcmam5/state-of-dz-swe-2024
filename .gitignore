@@ -7,3 +7,4 @@ NOTES-*.md
 x*.txt
 local-docs/*
 TO-ASK.md
+.env
