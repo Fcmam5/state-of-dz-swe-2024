@@ -23,10 +23,6 @@ To segment our participants better, we asked them for some questions about their
 
 Our participants 
 
-:::note
-xx
-:::
-
 ![what's your age](/img/stats/age.png)
 
 ### Gender

@@ -1,7 +1,7 @@
 {
-  "name": "Docusaurus",
-  "short_name": "Docusaurus",
-  "theme_color": "#2196f3",
+  "name": "The state of Algerian Software engineering 2024",
+  "short_name": "#dzDevSurvey24",
+  "theme_color": "#2e8555",
   "background_color": "#424242",
   "display": "standalone",
   "scope": "./",
