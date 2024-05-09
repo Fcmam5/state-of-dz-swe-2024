@@ -4,6 +4,8 @@ sidebar_position: 14
 
 # A bright future
 
+To conclude this report on a positive note, it's essential to highlight several improvement indicators. These indicators not only signify progress but also serve as beacons of hope, illuminating opportunities and providing inspiring examples for advancement.
+
 ## Algeria 2030
 
 ## Cloud ARPCE
@@ -105,3 +107,7 @@ lablabee
 ## Digitalization
 
 e.g. douane
+
+## IMF report 2024
+
+https://www.imf.org/en/Publications/CR/Issues/2024/04/12/Algeria-2023-Article-IV-Consultation-Press-Release-Staff-Report-and-Statement-by-the-547687

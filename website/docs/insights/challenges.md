@@ -124,9 +124,21 @@ Fatoura?
 
 ## Other challenges
 
-- Paying for software licenses and subscriptions
+### Buying goods online
 
-- Low dinar rate
+As highlighted in [Banking system challenges](#banking-systems), Algerian dinars have a *low exchange rate* compared to other currencies. Therefor purchasing digital products and licenses gets extremely expensive for Algerians who work in the country and get paid in Algerian dinars (DZD).
 
-- not having country-specific rates e.g Adobe creative suite
+For example, [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/buy/?section=commercial&billing=monthly) costs 60 euros per month, which is 14400 DZD in the parallel market (commonly used instead of the official one), a price close a monthly rent payment. Not having country/region-specific pricing make purchasing licenses, courses and subscriptions very challenging, if not impossible for people with lower income.
 
+Some Algerians tend to look for free alternatives (some fermium packages require credit cards, which are [challenging to get](#banking-systems)), or they go for illegal/unethical ways of using cracked software or by sharing licenses despite of the sellers' terms and conditions.
+
+There are some initiatives and petitions for companies to have pricing models that considers the Algerian Party Purchasing Power (PPP).
+
+:::tip
+
+Some people like Wes Bos, [take this in consideration](https://wesbos.com/parity-purchasing-power) and provide discounts for Algerians, in [Beginner JavasScript](https://beginnerjavascript.com/):
+
+![Wes Bos: Beginner JavaScript course banner](/img/challenges/wesbos-js-course.png)
+
+
+:::

@@ -6,7 +6,23 @@ sidebar_position: 1
 
 To understand trends in Algerian landscape, we asked our participants some questions about the technologies they use. To support our results, we also interviewed some experts to enrich this report, we conducted some interviews with some developers and managers in different startups and government companies.
 
-<!-- ![Trends from a survey done in 2021](/img/2021-survey/programming-language-2021-trend.png) -->
+:::tip Curious to see findings from a survey done in 2020?
+
+In a survey ran by [Assem Chelli](https://twitter.com/assem_ch/) on 2020, we learned the following:
+
+- Technologies are not an affecting factor in salaries.
+- JavaScript is the most used language because it's used in front-end, backend and mobile.
+- Java and JavaScript are used in mobile development.
+- Software testing and QA are missing roles in Algeria.
+
+<details>
+<summary>
+Click here to see the full chart
+</summary>
+![Trends from a survey done in 2020](/img/2020-survey/programming-language-2020-trend.png)
+
+</details>
+:::
 
 ## Programming languages
 

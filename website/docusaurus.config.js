@@ -154,6 +154,11 @@ const config = {
           },
         ],
         copyright: `Copyright © The state of Algerian Software engineering 2024. Built with Docusaurus.`,
+        logo: {
+          alt: "Don't judge me, ain't a designer... A survey logo",
+          src: "img/logo.png",
+          height: 200,
+        },
       },
       prism: {
         theme: prismThemes.github,

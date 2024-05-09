@@ -65,6 +65,8 @@ https://www.annd.org/uploads/summernote/three31614341217.pdf
 * [Cybersecurity in Algeria](https://www.researchgate.net/publication/369647110_Cybersecurity_in_Algeria)
 * [APS: Vers l'élaboration d'une stratégie nationale pour faire face aux menaces cybernétiques ](https://www.aps.dz/societe/166994-vers-l-elaboration-d-une-strategie-nationale-pour-faire-face-aux-menaces-cybernetiques)
 
+https://www.imf.org/en/Publications/CR/Issues/2024/04/12/Algeria-2023-Article-IV-Consultation-Press-Release-Staff-Report-and-Statement-by-the-547687
+
 ## Algerian regulations
 
 - ARPCE: Hosting and Storage  Cloud Computing https://www.arpce.dz/fr/service/cloud

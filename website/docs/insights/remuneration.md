@@ -247,12 +247,15 @@ This section looks into the value of software engineering salaries in Algeria.
 
 ### Costs of living in Algeria
 
+Algerian minimum wages are around <nobr>**20 000 DZD**</nobr>, however [the Union of Algerian Workers estimates](https://aja.me/gufnww) that the minimum income for a family of five members should be more than <nobr>**80 000 DZD**</nobr> (~556 €), while they estimated that the average monthly salary in the public sector is around <nobr>**40 000 DZD**</nobr> (~278 €).
+
 According to 3363 entries made by 250 different participants in [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Algeria) (a crowd-sourced global database of quality of life data):
 
 - A family of four estimated monthly costs are **1,535.7€** without rent.
 - A single person estimated monthly costs are **430.1€** without rent.
 
-Algerian minimum wages are around <nobr>**20 000 DZD**</nobr>, however [the Union of Algerian Workers estimates](https://aja.me/gufnww) that the minimum income for a family of five members should be more than <nobr>**80 000 DZD**</nobr> (~556 €), while they estimated that the average monthly salary in the public sector is around <nobr>**40 000 DZD**</nobr> (~278 €).
+However, [Numbeo's counting methodology](https://www.numbeo.com/common/motivation_and_methodology.jsp) might not reflect the average Algerian lifestyle and monthly spending. We asked the Association for the Protection and Guidance of Consumers and their Environment ([APOCE](https://apoce.org/)) about the numbers ... TBD
+
 
 ### Social services and taxes
 
@@ -278,16 +281,42 @@ Interested in knowing more about challenges? Head to our [Challenges](/docs/insi
 
 :::
 
-The participant wrote:
+We asked our participants `On a scale from 1 to 10, how satisfied are you with your current job in the software engineering field?`, and answers were the following:
+
+![Happiness index, inspired by CSAT](/img/stats/happiness-index.png)
+
+<br/>
+
+With a median score of `7`, we may conclude that our participants, from Algeria specifically are mostly satisfied with their salaries, however as one of our participants wrote:
 
 > No matter how high salary is compared to other jobs, it remains low in order to live comfortably.
 
 
-SHOW diagram (how satisfied are you)
-
+This idea was also shared by other participants who used the free text option in [`Challenges` question](/docs/appendix/raw-results#what-are-the-main-challenges-you-face-in-your-role-as-a-software-engineer-in-algeria), where lifestyle in Algeria might not let developers "enjoy their salaries". TBD
 
 ## Evolution of salaries from research
 
-work in 2020
-work in 2018
+In a previous [study done in 2018](https://abdeslemmenacere.wordpress.com/2018/07/06/salaire-des-developpeurs-en-algerie-2018/), we see the following numbers:
 
+| Level     | Salary ranges (DZD) | Maximum (DZD) |
+| --------- | ------------------- | ------------- |
+| Junior    | 50K - 60K           | 60K           |
+| Mid-level | 50K - 70K           | 75K           |
+| Senior    | 65K - 90K           | 120K          |
+
+Then in 2020, Assem Chelli [ran a survey](https://forms.gle/ddab5UbcNiQxTsif8) where the findings were the following:
+
+| Level     | Salary ranges (DZD) | Maximum (DZD) |
+| --------- | ------------------- | ------------- |
+| Junior    | 50K - 70K           | -             |
+| Mid-level | 71K - 97K           | -             |
+| Senior    | 90K - 120K          | -             |
+
+
+This was is presented by this graph (from the previous work):
+
+![Evolution of salaries between 2015 and 2020](/img/2020-survey/salaries-in-dz.png)
+
+<br/>
+
+In 2024, we see a slight increase in developers salaries if we compare the results with the findings above.

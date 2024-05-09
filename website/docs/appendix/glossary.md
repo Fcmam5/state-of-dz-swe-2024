@@ -38,3 +38,4 @@ custom_edit_url: https://github.com/Fcmam5/state-of-dz-swe-2024/tree/master/webs
 |    CNOSSI    | Centre National Opérationnel de Sécurité des Systèmes d’Information (National Operational Center for Information Systems Security)                |
 |     CNAS     | National Fund For Social Insurance For Salaried Employees                                                                                         |
 |    CASNOS    | National Social Security Fund For Self-Employed                                                                                                   |
+|    APOCE     | Association for the Protection and Guidance of Consumers and their Environment                                                                    |
