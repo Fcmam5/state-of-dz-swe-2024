@@ -86,7 +86,7 @@ The survey was anonymous, we didn't collect any personal identifiable informatio
 
 ### Confidentiality & data usage
 
-Participation in the survey was entirely voluntary. All responses were kept confidential. No personally identifiable information were collected or disclosed in any reports or publications.
+Participation in the survey was entirely voluntary. All responses were kept confidential. No personal identifiable information was collected or disclosed in any reports or publications.
 
 All data was analyzed and reported in aggregate, ensuring that individual responses cannot be traced back to specific participants.
 
@@ -104,7 +104,7 @@ Data cleaning was done in serval phases:
 
 We ran a manual scan (yes, we went through 500+ lines of Excel) and flagged entries with 3 colors:
 
-1. 🟩 **Green**: Entries that seems coherent (e.g. age, years of experience, job title/level and salary) is reasonable.
+1. 🟩 **Green**: Entries that seems coherent e.g. age, years of experience, job title/level and salary are reasonable.
 2. 🟧 **Orange**: Entries that seem "odd", an exaggerated salary, or a high title for few years of experience, a long list of selected "used" technologies, etc.
 3. 🟥 **Red**: Entries that have conflicting data and it's clear that it's fake (for example we had an entry from a student who has 2 years of experience and who claimed that their salary is 2000000000 euros per year), or duplicated.
 
@@ -118,6 +118,6 @@ In this phase we clustered data to identify abnormal entries that we might misse
 
 #### 2. Cleaning pass 3: Interviewing experts and actors in Algerian tech industry
 
-Since data is unavailable or outdated, and our team is not working in the Algerian market.. It was only fair to run our findings through experts and personas who are working day-to-day in the Algerian tech industry.
+Since data is unavailable or outdated, and our team is not working in the Algerian market, It was only fair to run our findings through experts and personas who are working day-to-day in the Algerian tech industry.
 
 The experts and personas are defined in our [insights page](/docs/insights).

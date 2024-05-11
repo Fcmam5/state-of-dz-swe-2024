@@ -12,7 +12,7 @@ Private sector, and startups are mining data and making use of it to better leve
 
 On a global level, data science and machine learning are trending, especially with the widespread of LLMs and different generative AI models that got more "human" and closer to average non-technical consumers with different ChatBot applications. This trend may get people's interest into adopting this field as a profession, or hire professionals in this domain.
 
-In this section of our report, we will answer serval questions:
+In this section of our report, we will answer several questions:
 
 ## Are there any data-protection laws in Algeria?
 
@@ -55,7 +55,7 @@ However, many other agencies are lacking behind, or still showing outdated data 
 
 Public data can be obtained by crawling different sources, or by consuming ready-to-use datasets which are available from different sources.
 
-### Applications adn websites
+### Applications and websites
 
 As the collection and the management of personal data is regulated under tha law [ANPDP](https://anpdp.dz/fr/quand-et-a-qui-sapplique-la-loi-n18-07/), websites and applications can collect data to improve their users' experience and to better understand their client base.
 

@@ -131,9 +131,9 @@ xychart-beta horizontal
 
 As anyone would expect, [Git](https://git-scm.com/) is the most used solution by 91% of our participants. 
 
-However, we see that 6% are not using any version-control-system in their projects. In large companies, we see that some system administrators, security professionals, Telco and database engineers don't using VCS at their work.
+However, we see that 6% are not using any version-control-system in their projects. In large companies, we see that some system administrators, security professionals, Telco and database engineers don't use VCS at their work.
 
-This point that engineers in these companies do their work "manually", which puts the assumption that those companies don't use IaC, CaC or GaC to provision and manage infrastructures.
+This point that engineers in these companies do their work "manually", which signals that those companies don't use IaC, CaC or GaC to provision and manage infrastructures.
 
 Some ERP/CRM are bought and/or developed from external providers, then companies may only user their internal engineers to "manage" or just use them, therefor they may not develop that much.
 
