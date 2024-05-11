@@ -106,6 +106,7 @@ Our participants use Tkinter, Kivy, PyQT and PySide2 to build desktop applicatio
 
 ```mermaid
 pie
+    title "TITLE TBD"
     "Tkinter (Python)" : 27
     "Kivy (Python)" : 8
     "PyQT": 3
@@ -120,6 +121,7 @@ Flutter is the most used technology to build mobile applications [according to o
 
 ```mermaid
 pie 
+    title "Most used technologies for building mobile applications"
     "Flutter" : 132
     "React Native" : 118
     "HTML/CSS and JavaScript for PWA" : 71
@@ -162,6 +164,7 @@ According to our survey participants who live in Algeria, and work for Algerian 
 
 ```mermaid
 pie showData
+    title "Top Databases used in Algerian companies"
     "MySQL" : 13
     "PostgreSQL" : 11
     "Microsoft SQL Server" : 7
@@ -174,7 +177,7 @@ pie showData
     "Elasticsearch" : 2
 ```
 
-Large companies in Algeria such as Sonatrach and Djezzy, use proprietary database management systems like Oracle and Microsoft SQL Server. While startups like [Yassir](https://yassir.com/) and [Maystro Delivery](https://maystro-delivery.com/) mainly use MongoDB, Redis and PostgreSQL.
+According to their job offers and public communication, large companies in Algeria such as Sonatrach and Djezzy, use proprietary database management systems like Oracle and Microsoft SQL Server. While startups like [Yassir](https://yassir.com/) and [Maystro Delivery](https://maystro-delivery.com/) mainly use MongoDB, Redis and PostgreSQL.
 
 ## Mobile development
 
