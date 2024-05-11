@@ -84,7 +84,11 @@ const config = {
       ],
       // Replace with your project's social card
       image: "img/chabiba-ta3-code.png",
-
+      docs: {
+        sidebar: {
+          hideable: true,
+        },
+      },
       navbar: {
         title: "The state of Algerian Software engineering 2024",
         logo: {

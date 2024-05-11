@@ -62,7 +62,7 @@ For mobile applications, [we also saw that JavaScript is competing with Flutter,
 
 ```mermaid
 xychart-beta horizontal
-  title "Technologies used for mobile development"
+  title Technologies used for mobile development
   x-axis ["React Native", "PWA", "Ionic", "Nativescript"]
   bar [118, 71, 6, 1]
 ```
@@ -73,7 +73,7 @@ In our question about [what technologies our participants use to build desktop a
 
 ```mermaid
 pie
-    title "Technologies used for desktop applications"
+    title Libraries for building Desktop apps
     "Electron" : 98
     "JavaFX" : 51
     "Java Swing" : 45
@@ -106,7 +106,7 @@ Our participants use Tkinter, Kivy, PyQT and PySide2 to build desktop applicatio
 
 ```mermaid
 pie
-    title "TITLE TBD"
+    title Python libraries for desktop apps
     "Tkinter (Python)" : 27
     "Kivy (Python)" : 8
     "PyQT": 3
@@ -121,7 +121,7 @@ Flutter is the most used technology to build mobile applications [according to o
 
 ```mermaid
 pie 
-    title "Most used technologies for building mobile applications"
+    title Most used libraries for mobile
     "Flutter" : 132
     "React Native" : 118
     "HTML/CSS and JavaScript for PWA" : 71
@@ -164,7 +164,7 @@ According to our survey participants who live in Algeria, and work for Algerian 
 
 ```mermaid
 pie showData
-    title "Top Databases used in Algerian companies"
+    title Top used DBMS in Algerian companies
     "MySQL" : 13
     "PostgreSQL" : 11
     "Microsoft SQL Server" : 7

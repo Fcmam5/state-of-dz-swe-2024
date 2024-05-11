@@ -30,8 +30,8 @@ try {
 
   console.log("\n-----------");
   console.log("```mermaid");
-  console.log(toPieChart(sortedCounts));
-  // console.log(toXYChart(sortedCounts));
+  // console.log(toPieChart(sortedCounts));
+  console.log(toXYChart(sortedCounts));
   // console.log(toMdTable(sortedCounts));
 
   console.log("```");
