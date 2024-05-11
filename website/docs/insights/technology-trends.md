@@ -26,23 +26,24 @@ Click here to see the full chart
 
 ## Programming languages
 
+Our main finding in regards to programming language is that JavaScript is the most used programming language, followed by Python and PHP as shown below.
+
+<br/>
+
 ```mermaid
 xychart-beta horizontal
   x-axis ["JavaScript","HTML/CSS","Python","TypeScript","PHP", "Java","Dart","C#","C++","C","Go","Kotlin","Matlab","Rust", "Delphi"]
   bar [362,344,217,214,143,122,78,61,48,45,37,34,22,21,15]
 ```
 
-*You can see the [all submitted programming languages in our appendix section](/docs/appendix/raw-results#which-languages-do-you-frequently-use-in-your-work).*
+*You can explore [all submitted programming languages in our appendix section](/docs/appendix/raw-results#which-languages-do-you-frequently-use-in-your-work).*
 
 <br/>
 
-JavaScript is the most used programming language, followed by Python and PHP according to our survey data.
-
-According to [Google trends](https://trends.google.com/trends/explore?date=2018-01-03%202024-03-22&geo=DZ&q=%2Fm%2F060kv,%2Fm%2F07sbkfb,%2Fm%2F02p97,%2Fm%2F05z1_,Flutter), we notice that the interest in Java is declining with an increase of interest in Python, JavaScript and Dart/Flutter.
+To further understand the trend, we look to [Google trends](https://trends.google.com/trends/explore?date=2018-01-03%202024-03-22&geo=DZ&q=%2Fm%2F060kv,%2Fm%2F07sbkfb,%2Fm%2F02p97,%2Fm%2F05z1_,Flutter) and notice that the interest in Java is declining with an increase of interest in Python, JavaScript and Dart/Flutter.
 
 ![Programming language trends](/img/stats/external/google-trends-programming-langs.png)
 
-We have some observations from this graph and our survey data.
 
 ### JavaScript is everywhere
 
@@ -61,6 +62,7 @@ For mobile applications, [we also saw that JavaScript is competing with Flutter,
 
 ```mermaid
 xychart-beta horizontal
+  title "Technologies used for mobile development"
   x-axis ["React Native", "PWA", "Ionic", "Nativescript"]
   bar [118, 71, 6, 1]
 ```
@@ -71,6 +73,7 @@ In our question about [what technologies our participants use to build desktop a
 
 ```mermaid
 pie
+    title "Technologies used for desktop applications"
     "Electron" : 98
     "JavaFX" : 51
     "Java Swing" : 45
@@ -78,7 +81,7 @@ pie
     "WPF (Windows Presentation Foundation)" : 28
 ```
 
-However, even with the hyper growth of JavaScript community, hiring managers are struggling to find "good seniors", or at least "good JavaScript" developers.
+This section tells us that the growth of Javascript is currently affecting Algeria as well in mobile development, desktop development and web development. However, even with this growth of the JavaScript community, hiring managers are struggling to find "good seniors", or at least "good JavaScript" developers.
 
 ### Increasing interest in Python
 
