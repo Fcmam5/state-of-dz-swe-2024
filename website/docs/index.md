@@ -76,7 +76,7 @@ pie
 
 ## Methodology
 
-The survey was fielded form February 1st to February 29th, 2024. It collected **517**.
+The survey was fielded form February 1st to February 29th, 2024. It collected **517 entries**.
 
 We estimated that the survey should take between 5 to 10 minutes to complete. The form was first designed in English then we made sure to translate it to Arabic and French.
 
