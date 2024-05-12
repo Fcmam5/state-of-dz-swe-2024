@@ -37,7 +37,9 @@ However, we see that some Algerians did have some freelance opportunities on Upw
 
 We also see that some data scientists and AI/ML engineers work in academia, such as [Dr. Taha Zerrouki](https://www.researchgate.net/profile/Taha-Zerrouki) who leads NLP projects for Arabic language.
 
+:::tip
 [DzairAI](https://www.dzair.ai/) is building a list of different professionals and researchers working in AI/ML and data which can be found here: https://www.dzair.ai/community.
+:::
 
 ## Is there any "data" in Algeria?
 

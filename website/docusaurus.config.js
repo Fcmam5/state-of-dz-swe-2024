@@ -97,7 +97,23 @@ const config = {
         },
         items: [
           { to: "/docs", label: "Results", position: "left" },
-          { to: "/blog", label: "Blog", position: "left" },
+          {
+            to: "/docs/insights/technology-trends",
+            label: "Trends",
+            position: "left",
+          },
+          {
+            to: "/docs/insights/challenges",
+            label: "Challenges",
+            position: "left",
+          },
+          {
+            to: "/docs/insights/remuneration",
+            label: "Remuneration",
+            position: "left",
+          },
+          { to: "/blog", label: "Blog", position: "right" },
+          { to: "/report", label: "🚧Report", position: "right" },
         ],
       },
       footer: {
@@ -111,12 +127,15 @@ const config = {
                 href: "/about",
               },
               {
-                label: "Support 🙏",
+                label: "Support ",
                 href: "/support",
               },
               {
-                label: "Source",
-                href: "https://github.com/Fcmam5/state-of-dz-swe-2024",
+                label: "Blog",
+                to: "/blog",
+              },
+              {
+                html: `<br/><a href="https://github.com/Fcmam5/state-of-dz-swe-2024" target="_blank"><img src="https://img.shields.io/github/stars/fcmam5/state-of-dz-swe-2024"/></a><br/>`,
               },
             ],
           },
@@ -144,12 +163,20 @@ const config = {
             title: "goto;",
             items: [
               {
-                label: "Blog",
-                to: "/blog",
+                label: "Survey results",
+                to: "/docs",
               },
               {
-                label: "Results",
-                to: "/docs",
+                label: "Insights",
+                to: "/docs/insights",
+              },
+              {
+                label: "Methodology",
+                to: "/docs/appendix/methodology",
+              },
+              {
+                label: "Glossary",
+                to: "/docs/appendix/glossary",
               },
               {
                 html: "<a href='https://ko-fi.com/D1D6V2Q0D' target='_blank'><img height='36'  src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' alt='Buy Me a Coffee at ko-fi.com' /></a>",

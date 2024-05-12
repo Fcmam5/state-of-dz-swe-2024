@@ -17,14 +17,14 @@ Our participants' monthly salary distribution was the following:
 
 ```mermaid
 pie
-    "less than 60 000 DZD" : 71
-    "less than 100 000 DZD" : 54
-    "less than 80 000 DZD" : 52
-    "less than 150 000 DZD" : 36
-    "more than 150 000 DZD" : 35
-    "less than 40 000 DZD" : 25
+    "40K to less than 60K DZD" : 71
+    "80K to less than 100K DZD" : 54
+    "60K to less than 80K DZD" : 52
+    "100K to less than 150K DZD" : 36
+    "more than 150K DZD" : 35
+    "20K to less than 40K DZD" : 25
     "I'm volunteering; or I work for free" : 21
-    "less than 20 000 DZD" : 5
+    "less than 20K DZD" : 5
 ```
 
 Remote working salaries, and remuneration from freelance opportunities also differs, form few euros a month from small gigs, to very high salaries that goes beyond 60K euros a year for full-time employees.
@@ -49,7 +49,7 @@ Initially, we had some questions and assumptions to answer, such as:
 
 *Interested in different correlations? Do you want us to answer a question like on of the questions above?*
 
-*Let's talk...*
+[*Let's talk...*](/contact)
 :::
 
 In this study, we will split the findings in 5 groups: 
@@ -95,8 +95,8 @@ Entry-level engineers who work for Algerian companies, or companies based in Alg
 
 ```mermaid
 xychart-beta horizontal
-  x-axis ["40K to less than 60K DZD","60K to less than 80K DZD","20K to less than 40K DZD","80K to less than 100K DZD","Volunteering/Work for free","100K to less than 150K DZD","less than 20K DZD"]
-  bar [37,18,12,12,5,3,1]
+  x-axis ["Volunteering/Work for free","less than 20K DZD","20K to less than 40K DZD","40K to less than 60K DZD","60K to less than 80K DZD","80K to less than 100K DZD","100K to less than 150K DZD"]
+  bar [5,1,12,37,18,12,3]
 ```
 
 <br/>
@@ -110,8 +110,8 @@ Engineers with 3 to 5 years of experience, and who work for Algerian companies a
 
 ```mermaid
 xychart-beta horizontal
-  x-axis ["60K to less than 80K DZD","40K to less than 60K DZD","80K to less than 100K DZD","100K to less than 150K DZD","More than 150K DZD","20K to less than 40K DZD","Less than 20K DZD","Volunteering/Work for free"]
-  bar [22,16,16,13,8,5,1,1]
+  x-axis ["Volunteering/Work for free","Less than 20K DZD","20K to less than 40K DZD","40K to less than 60K DZD","60K to less than 80K DZD","80K to less than 100K DZD","100K to less than 150K DZD","More than 150K DZD"]
+  bar [1,1,5,16,22,16,13,8]
 ```
 
 <br/>
@@ -129,9 +129,8 @@ Mid-level to early seniors who work for Algerian companies are paid salaries ran
 
 ```mermaid
 xychart-beta horizontal
-  x-axis ["100K to less than 150K DZD","80K to less than 100K DZD","More than 150K DZD","60K to less than 80K DZD","40K to less than 60K DZD"]
-  bar [8,6,5,3,3]
-
+  x-axis ["40K to less than 60K DZD","60K to less than 80K DZD","80K to less than 100K DZD","100K to less than 150K DZD","More than 150K DZD"]
+  bar [3,3,6,8,5]
 ```
 
 <br/>
@@ -146,8 +145,8 @@ Engineers with 11 to 15 years of experience, and who work for Algerian companies
 
 ```mermaid
 xychart-beta horizontal
-  x-axis ["100K to less than 150K DZD","40K to less than 60K DZD","80K to less than 100K DZD","More than 150K DZD","60K to less than 80K DZD"]
-  bar [6,5,4,4,3]
+  x-axis ["40K to less than 60K DZD","60K to less than 80K DZD","80K to less than 100K DZD","100K to less than 150K DZD","More than 150K DZD"]
+  bar [5,3,4,6,4]
 ```
 
 <br/>
@@ -168,8 +167,8 @@ Salaries for managers also vary between <nobr>**60 000 DZD**</nobr> to more than
 
 ```mermaid
 xychart-beta horizontal
-  x-axis ["More than 150K DZD","80K to less than 100K DZD","60K to less than 80K DZD","40K to less than 60K DZD","100K to less than 150K DZD"]
-  bar [3,2,2,1,1]
+  x-axis ["40K to less than 60K DZD","60K to less than 80K DZD","80K to less than 100K DZD","100K to less than 150K DZD","More than 150K DZD"]
+  bar [1,2,2,1,3]
 ```
 
 <br/>
@@ -203,8 +202,8 @@ To explore freelancers' income, we fetched public Algerian freelancers' data fro
 
 ```mermaid
 xychart-beta horizontal title "Algerian freelancers on Upwork by hourly rate (in $)"
-  x-axis [ "70",  "60", "50", "40",  "30", "20", "10" ]
-  bar [ 2, 3, 14, 15, 47, 99, 124 ]
+  x-axis ["10","20","30","40","50","60","70"]
+  bar [124,99,47,15,14,3,2]
 ```
 
 This data is also correlated with findings from other websites like [peopleperhour](https://www.peopleperhour.com/) (Majority of freelancers with hourly rates around 10 to 20€/hour, and the median close to 40€/hour).
