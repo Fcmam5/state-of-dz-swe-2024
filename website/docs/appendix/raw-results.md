@@ -80,7 +80,7 @@ pie showData
     "No": 80
 ```
 
-## Demographics (1/2): Living abroad
+## Demographics (2/2): Living abroad
 
 ### Where do you live?
 
@@ -138,7 +138,7 @@ pie
    
 ```
 
-## Demographics (1/2): Living in Algeria
+## Demographics (2/2): Living in Algeria
 
 ### From where do you primarily work?**
 
