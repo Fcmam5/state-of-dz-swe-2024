@@ -13,7 +13,24 @@ const config = {
   tagline: "Insights from our Algeria Developer Survey in 2024",
   favicon: "img/favicon.ico",
   staticDirectories: ["static"],
-
+  headTags: [
+    {
+      tagName: "script",
+      attributes: {
+        type: "text/javascript",
+      },
+      innerHTML: `
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1835575,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+`,
+    },
+  ],
   // Set the production url of your site here
   url: "https://state-of-algeria.dev",
   // Set the /<baseUrl>/ pathname under which your site is served
