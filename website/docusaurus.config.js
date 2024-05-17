@@ -152,6 +152,10 @@ const config = {
                 to: "/blog",
               },
               {
+                label: "Subscribe",
+                href: "https://stateofalgeria.substack.com/",
+              },
+              {
                 html: `<br/><a href="https://github.com/Fcmam5/state-of-dz-swe-2024" target="_blank"><img src="https://img.shields.io/github/stars/fcmam5/state-of-dz-swe-2024"/></a><br/>`,
               },
             ],
