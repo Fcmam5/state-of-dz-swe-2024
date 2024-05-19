@@ -6,6 +6,21 @@ sidebar_position: 7
 
 We asked our participants about their levels of education and we had the following distribution:
 
+:::danger TODOs
+-  Allocation from BAC to university
+-  what if:
+   -  one doesn'T have a degree
+   -  doesn'T have a degree in CS/IT
+-  degrees from elite schools: ESI, IA...
+-  Salaries by education level
+-  Outliers study:
+   -  Insights from people with BEM
+   -  Insights from PhDs
+-  Is having a master degree worth it
+-  Online education and its value
+-  brain drain: study in algeria and work abroad, or go study abroad
+:::
+
 ```mermaid
 pie title Participants by level of education
     "Master's Degree in a non IT-related field" : 66
@@ -41,15 +56,66 @@ TBD mention:
 
 TBD: mention the fact that one can miss the chance to end in a technical branch if the mess it up in CEM, or HS.
 
-### University
+> Can we say that having a bad grade in the national "BEM/BEF" exam can affect chances of working in software engineering?
+
+### Higher education
+
+Access to universities and Higher schools is open to holders of the baccalaureate or a foreign equivalent. The Ministry of Higher Education and Scientific Research sets the requirements (scores to have) annually, assigning students to specialties takes the following parameters in consideration:
+
+- **Student choice:** Students must submit their desired specialties to study in order, then they get assigned the first matching choice.
+- **Field of study in the baccalaureate:** Mathematics, Technology and scientific students for example have access to science, technology, engineering, and mathematics (STEM) branches.
+- **Average score in specific fields on the baccalaureate:** Set annually based on averages, success rate and choices trends of each edition. For example access to Mathematics and Computer science (MI) branch in the university of Algiers (USTHB) was 13.74 in 2018, 13.83 in 2019, 14.27 in 2020 and 15.53 in 2021 ([source](https://finfo.usthb.dz/wp-content/uploads/2022/09/MoyennesMinimales-MI-USTHB.pdf)).
+- **The number of available seats in each field and jurisdiction:** Students are assigned their first matching desired field of study.
+
+This system makes the access to trending study specialties very competitive. Hence, we can use the scores to access these fields in big universities as a metric to see whether Computer science or similar related study fields are trending in Algeria.
+
+For example, in the following graph we compared the minimum admission scores for The [Higher National School of Computer Science (ESI)](https://esi.dz/) compared to success rates for Experimental Science branch:
+
+![Admission scores to ESI](/img/stats/bac-and-esi-scores.png)
+
+<details>
+
+<summary>Table representation</summary>
+
+| Year | ESI Admission score | Experimental science success rate | Overall success rate |
+| ---- | ------------------- | --------------------------------- | -------------------- |
+| 2019 | 16.48               | 47.31%                            | 54,56%               |
+| 2020 | 17.07               | 56,97%                            | 55.30%               |
+| 2021 | 18.13               | 60%                               | 61,17%               |
+| 2022 | 17.95               | 59,32%                            | 58.75%               |
+| 2023 | 18.63               | 60,85%                            | 50,63%               |
+
+</details>
+
+We see that the minimum admission score is raising, the higher success rate in baccalaureate, the higher admission score is.
+
+Note that universities have different requirements ([see results for 2023](https://www.esi.dz/wp-content/uploads/2023/08/Moyennes-minimales-BAC2023.pdf)).
 
 ### Higher/Elite schools
 
-### Centre
+- ESI Alger
+- ESI SBA
+- IA
+
+ESI and https://www.ensia.edu.dz/
+http://www.ensttic.dz/
+
+
+Cybersecurity school in WIP: https://www.aps.dz/societe/166994-vers-l-elaboration-d-une-strategie-nationale-pour-faire-face-aux-menaces-cybernetiques
+
+### Centre & institutes
 
 ### Private universities
 
+- https://services.mesrs.dz/bac2023/guide/fr/priv%C3%A9.html
+- https://his.edu.dz/
+- https://nit-edu.net/
+
+
+
 ### Private schools
+
+https://www.agenceecofin.com/formation/2908-100661-en-visite-en-algerie-le-president-macron-relance-le-projet-de-creation-de-l-ecole-42-annonce-depuis-5-ans (code guy on insta)
 
 ## Does having a degree affect the chances of finding a job?
 
@@ -72,6 +138,8 @@ xychart-beta horizontal
 
 <!-- Algerians with degree in IT make %X more/less than  -->
 
+## Brain drain
+
 ## Internships
 
 :::tip This topic needs a dedicated research, take it from here!
@@ -86,10 +154,3 @@ Algerian degree but working abroad?
 
 Do you need a degree in IT to work here or not?
 
-
-ESI and https://www.ensia.edu.dz/
-http://www.ensttic.dz/
-
-institutes
-
-Cybersecurity school in WIP: https://www.aps.dz/societe/166994-vers-l-elaboration-d-une-strategie-nationale-pour-faire-face-aux-menaces-cybernetiques

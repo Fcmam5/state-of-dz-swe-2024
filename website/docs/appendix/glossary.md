@@ -39,3 +39,5 @@ custom_edit_url: https://github.com/Fcmam5/state-of-dz-swe-2024/tree/master/webs
 |     CNAS     | National Fund For Social Insurance For Salaried Employees                                                                                         |
 |    CASNOS    | National Social Security Fund For Self-Employed                                                                                                   |
 |    APOCE     | Association for the Protection and Guidance of Consumers and their Environment                                                                    |
+|     BEF      | Brevet d'Enseignement Fondamental                                                                                                                 |
+|     BEM      | Brevet d’Enseignement Moyen                                                                                                                       |

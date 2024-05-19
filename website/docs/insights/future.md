@@ -108,6 +108,13 @@ lablabee
 
 e.g. douane
 
+## Algerian responsible AI projects
+
+https://nojoom.ai/
+
+https://www.echoroukonline.com/%D9%86%D8%AD%D9%88-%D8%AA%D9%82%D9%86%D9%8A%D9%86-%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%81
+
+
 ## IMF report 2024
 
 https://www.imf.org/en/Publications/CR/Issues/2024/04/12/Algeria-2023-Article-IV-Consultation-Press-Release-Staff-Report-and-Statement-by-the-547687

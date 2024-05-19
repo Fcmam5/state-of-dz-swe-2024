@@ -8,3 +8,4 @@ x*.txt
 local-docs/*
 TO-ASK.md
 .env
+x.*
