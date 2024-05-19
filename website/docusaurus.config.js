@@ -204,6 +204,19 @@ const config = {
               },
             ],
           },
+          {
+            title: "Legal",
+            items: [
+              {
+                label: "Privacy",
+                to: "/privacy",
+              },
+              {
+                label: "Cookie",
+                to: "/cookie",
+              },
+            ],
+          },
         ],
         copyright: `Copyright © The state of Algerian Software engineering 2024. Built with Docusaurus.`,
         logo: {

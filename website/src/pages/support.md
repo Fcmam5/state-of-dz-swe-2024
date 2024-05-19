@@ -10,7 +10,7 @@ Over the course of more than three months, while juggling a full-time job and pe
 
 Your support, even as a one-time contribution, can make a significant difference. Here's how you can contribute:
 
-- **Donate:** Your donation, no matter the amount, will directly support our research efforts and ensure that our findings reach as many developers as possible. Click the link below to make a secure donation through [`Ko-fi`](https://ko-fi.com/fcmam5), or using [🩷 Sponsor] link on this website's Github repository: https://github.com/Fcmam5/state-of-dz-swe-2024.
+- **Donate:** Your donation, no matter the amount, will directly support our research efforts and ensure that our findings reach as many developers as possible. Click the link below to make a secure donation through [`Ko-fi`](https://ko-fi.com/fcmam5), [PayPal](https://www.paypal.com/donate/?hosted_button_id=HFAWPMCD3FVF6), or using [🩷 Sponsor] link on this website's Github repository: https://github.com/Fcmam5/state-of-dz-swe-2024.
 
 - **Spread the Word:** Share our page with your networks and help us reach individuals who may be interested in supporting our cause. Your help in spreading the word is greatly appreciated.
 

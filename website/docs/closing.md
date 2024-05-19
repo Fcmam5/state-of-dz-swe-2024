@@ -69,6 +69,7 @@ A document has to be published to show how to get internships? What's needed for
 
 Job portals should offer and promote positions for interns if possible.
 
+#### Education
 
 ### Unanswered questions or unexplored correlations
 

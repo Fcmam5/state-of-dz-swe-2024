@@ -1,0 +1,4 @@
+Contact: https://state-of-algeria.dev/contact
+Expires: 2030-01-01T09:10:00.000Z
+Preferred-Languages: en,ar,fr,de
+Policy: https://state-of-algeria.dev/privacy

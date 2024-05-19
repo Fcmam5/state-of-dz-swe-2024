@@ -47,7 +47,7 @@ pie showData
 ```mermaid
 pie
     "Master's Degree in a non IT-related field" : 66
-    "Master's Degree (Bac+5 in LMD, or Bac+4 in classical sytem) in an IT-related field" : 289
+    "Master's Degree (Bac+5 in LMD, or Bac+4 in classical system) in an IT-related field" : 289
     "Bachelor's Degree (License Bac+3 in LMD) in an IT-related field" : 65
     "High school (Baccalauréat)" : 41
     "Ph.D. or equivalent" : 21
