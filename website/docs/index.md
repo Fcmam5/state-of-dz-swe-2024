@@ -15,7 +15,13 @@ Conducted in three languages: Arabic, English, and French. This survey has captu
 - Arabic: 151
 - French: 52
 
-## Demographics
+
+TBD: Have a full summary here
+
+# GOTO [Insights page](/docs/insights)
+
+
+<!-- ## Demographics
 
 To segment our participants better, we asked them for some questions about their age, gender and where they live and work.
 
@@ -72,4 +78,4 @@ pie
     "Managerial/Lead" : 35
     "Executive" : 11
     "Intern or a working student" : 38
-```
+``` -->
