@@ -15,23 +15,20 @@ In our reports we will use "we" and "ours" to refer to the authors/researchers:
 We will use "our experts", "stakeholders", or "actors" to refer to people we interviewed as actors in Algerian IT ecosystem. Some of our experts preferred to stay anonymous so we won't refer to them by name. We will just list them as the following:
 
 - An engineer who works full time on Open Source software and who contributed to world-class projects.
-- 
-<!-- - A CTO of a leading startup in logistics field in Algeria, with a long experience in Algerian startups as a lead.
-- An executive in an Algerian government agency, leading IT transformation and digitalization projects.
-- A senior engineer working full-time on open-source as a core team member, with a long experience in working with Algerian startups and government agencies.
-- An engineering manager in an international leading startup in Telco Cloud world, who has a long experience in working and hiring Algerian engineers.
-- TBD: -->
-
+- A CTO of a leading startup in logistics field in Algeria, with a long experience in Algerian startups as a lead.
+- Engineers who work remotely for a foreign company from Algeria.
+- Engineers who studied in Algeria and live abroad.
+- A cybersecurity engineers who worked in Algeria in a cybersecurity company.
 
 As X% of our contributors are from Oran and Algiers, we wanted to amplify other Wilayas' voices by interviewing:
 
+- A developer from a small wilaya in the east of the country who waked for a company in a bigger wilaya, then went back to their wilaya to work for a foreign company remotely.
 - A CEO of a rising startup from Mostaganem.
 - A lead in an agency running in Djelfa and maintaining open-source projects.
 - TBD.
 
 And since X% of our participants said work remotely for foreign companies, we had to interview:
 
-- A security engineer who works XYZ.
 - An entrepreneur who owned a co-working space in a big Algerian city.
 - An entrepreneur has a co-working space in big Algerian city.
 

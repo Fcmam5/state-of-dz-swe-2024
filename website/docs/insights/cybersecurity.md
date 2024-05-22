@@ -164,12 +164,15 @@ The participants who work in cybersecurity and live in Algiers did relocate from
 To challenge our data and to understand this domain better, we interviewed professionals.
 
 
-### TBD: How do you work in Algeria?
 ### TBD: Bug bounty programs in Algeria?
+### TBD: How do you work in Algeria?
 ### TBD: What to do if you found a bug?
 ### TBD: How did you learn?
 ### TBD: If you find a clear process to report bugs, would you do? what incentivize you
+---
 ### TBD: What cyberSec  techniques & specializations are trending here in your opinion/experience?  
 ### TBD: Schools and universities teaching cybersecurity
 ### TBD: How do you recruit for security?
 ### TBD: How do you assess your security
+
+*Company with good feedback from ex-employee is not active on social media*
