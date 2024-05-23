@@ -17,6 +17,8 @@ The reference lists a set of recommendations, best practices, guidelines and con
 To not shift away from the generic "State of Algerian software engineering" domain this report covers, I would just scratch the surface on this topic. Why? [Read more here](/docs/closing#cybersecurity).
 :::
 
+To support our understanding and to have a better overview if this field in Algeria, we conducted several interviews with professionals.
+
 ## Cybersecurity in Algerian laws and regulations
 
 The Algerian regulator incriminate and defines cyber crimes. With a series of laws such as:
@@ -41,7 +43,6 @@ These laws (and other texts) created different agencies that regulate and audit 
 - [DZ-CERT](https://www.cerist.dz/index.php/fr/rechercheetdevelop/116-projets-de-recherche-innovants/238-dz-cert-algerian-computer-emergency-response-team) (DZ-CERT Algerian Computer Emergency Response Team)
 
 Along the establishment of [NISR document](https://www.mpt.gov.dz/en/information-security-reference/) in 2016, then its update on 2020.
-
 
 ## Cybersecurity from our survey data
 
@@ -74,6 +75,12 @@ Out of the 6 engineers who received formal education at university, 5 of them su
 Our participants acquire skills in cybersecurity in English (100% of the participants), in French (50%), in Arabic and in Algerian dialect (Darija).
 
 We had one senior security engineer who only received a formal education (Master's degree in an IT-related field), that individual is paid the lowest salary (less than **100 000 DZD** per month) compared to other seniors.
+
+According to [our experts](/docs/appendix/raw-interviews#a-cybersecurity-engineer-who-worked-for-an-cybersecurity-company-in-algeria), formal education provides basics of computer science (such as algorithms, operating systems, networking...). 
+
+Schools and universities create an environment where students can learn from each other by organizing workshops, CTF competitions, etc.
+
+There are a few companies who have continuous education programs, these companies host workshops and seminars for their engineers, and sometimes they sponsor them to pass different certificates. 
 
 ### Work models and challenges
 
@@ -159,20 +166,20 @@ Two of the participants use AWS and Azure as cloud providers, one use GCP, and o
 
 The participants who work in cybersecurity and live in Algiers did relocate from other Wilayas to work there.
 
-## Interviewing professionals and actors in cyber security field
+## Contributing to a national cybersecurity mission
 
-To challenge our data and to understand this domain better, we interviewed professionals.
+While the government is promoting "national cyber security mission" by establishing [The National Information Security Repository (NISR) ](https://www.mpt.gov.dz/en/information-security-reference/), by organizing different conferences and seminars, and even by working on starting a [Higher National school of cyber security](https://www.aps.dz/societe/166994-vers-l-elaboration-d-une-strategie-nationale-pour-faire-face-aux-menaces-cybernetiques)... 
 
+Algeria is classified as a country with high risk of cybercrimes, with many cases of devices being infected with malware. The [Global Organized Crime Index](https://ocindex.net/country/algeria) reported the following the following:
 
-### TBD: Bug bounty programs in Algeria?
-### TBD: How do you work in Algeria?
-### TBD: What to do if you found a bug?
-### TBD: How did you learn?
-### TBD: If you find a clear process to report bugs, would you do? what incentivize you
----
-### TBD: What cyberSec  techniques & specializations are trending here in your opinion/experience?  
-### TBD: Schools and universities teaching cybersecurity
-### TBD: How do you recruit for security?
-### TBD: How do you assess your security
+> The lack of specific legislation focused on cybersecurity and a general lack of awareness among the population, and authorities contribute to this situation.
 
-*Company with good feedback from ex-employee is not active on social media*
+Some cybersecurity companies in Algeria offer training and consulting services in addition to performing audits and pen-testing services, but it seems (according to our observation, and to experts we interviewed) that the proactive demand on these services mostly come from foreign companies that are based in Algeria, who adhere to international standards, often driven by CTO/CISO offices from abroad.
+
+Other companies may reach out to security consultants to run incident response.
+
+When we interviewed some developers and security researchers, we asked how can we contribute and report security issues we find in websites and applications. The answers were mostly about the lack of tech maturity and security culture.
+
+We could not find any Algerian bug bounty program, reporting security bugs can get researchers into legal issues. When a bug is found accidentally, the researcher might have hard time chasing the developers or maintainers of websites and applications, and often they have to rely on private connections to report these bugs so they get patched. 
+
+The lack of clear legal frameworks and an established culture might be demotivating for security experts and enthusiasts, some engineers may find working in cybersecurity risky, and others prefer to leave the country or work remotely for foreign companies with a more established culture, and for a higher salary.
