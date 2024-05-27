@@ -178,8 +178,10 @@ Some cybersecurity companies in Algeria offer training and consulting services i
 
 Other companies may reach out to security consultants to run incident response.
 
-When we interviewed some developers and security researchers, we asked how can we contribute and report security issues we find in websites and applications. The answers were mostly about the lack of tech maturity and security culture.
+When we interviewed some developers and security researchers, we asked how can we contribute and report security issues we find in websites and applications. The answers were mostly negative, engineers are often not interested in reporting security vulnerabilities, according to our experts the lack of tech maturity and security culture may result either in ignoring their reports, or legal consequences.
 
-We could not find any Algerian bug bounty program, reporting security bugs can get researchers into legal issues. When a bug is found accidentally, the researcher might have hard time chasing the developers or maintainers of websites and applications, and often they have to rely on private connections to report these bugs so they get patched. 
+We could not find any Algerian bug bounty program, reporting security bugs can get researchers into legal issues (and sometimes even gets to the National Defense Army). When a bug is found accidentally, the researcher might have hard time chasing the developers or maintainers of websites and applications, and often they have to rely on private connections to report these bugs so they get patched. 
+
+However, there are some unofficial rewards provided by some companies. When a vulnerability is critical and the application/website owners are contacted, they can pay the reporters (according to our interview with [software agency](/docs/appendix/raw-interviews#can-pay-bounties), and a security engineer).
 
 The lack of clear legal frameworks and an established culture might be demotivating for security experts and enthusiasts, some engineers may find working in cybersecurity risky, and others prefer to leave the country or work remotely for foreign companies with a more established culture, and for a higher salary.

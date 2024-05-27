@@ -321,6 +321,155 @@ We work on trust basis, I deliver what I'm supposed to do and they pay me on tim
 
 My contract was even accepted by my online bank when I needed to justify my income.
 </details>
+
+## An engineer working from abroad and leading teams of developers who are working remotely from Algeria
+
+<details>
+<summary>What opportunities you can bring to the country by working for a foreign company?</summary>
+
+We tried to extend our business in Algeria once. My CEO visited the country, and they found a lot of business opportunities and many potential clients, they said that the Algerian market is a virgin market.
+
+We pulled back from trying to enter the Algerian market as we always stumbled upon people in different administrations who simply replied with "No" or "That's forbidden", we pushed back and we asked which law said it's forbidden... We never had a response for that.
+
+The unclear laws and the lack of legal awareness from different employees in administrations were some the reasons that made my CEO give up on the Algerian market.
+
+One of my teams who work from Algeria has some of the best engineers who works on the software we deploy on drones for our missions, unfortunately we cannot ship them drone so they can deploy their software directly and have a more efficient development and deployment pipeline.
+</details>
+
+## Representative of an agency that's co-founding and building a financial services application
+
+<details>
+<summary>What do you think of software developers' salaries?</summary>
+
+Software developers salaries are higher than average salaries in Algeria, there's a high demand and competition on hiring engineers with the raise of tech startups and digital products.
+
+If you notice from your data, younger engineers have higher salaries because there's a demand on the new technologies and skills they bring. Older engineers (in the 40s) with longer years of experience and who are not not be paid the "high" amount your survey shows are mostly engineers who work in the public sector or "classical" companies. These engineers are mostly "old school" and they might not bring the skills, or know the tech stacks our clients need.
+</details>
+
+<details>
+<summary>How do you evaluate a candidate's seniority? Who does that?</summary>
+
+We don't believe in years of experience, we evaluate a person's experience and previous projects.
+
+A candidate can be a senior in our company if the prove that they worked on multiple/complex projects, and who can demonstrate their skills in our interviews.
+
+Previously, some companies rely on old-fashioned recruitment styles where HR persons with no technical expertise hire candidates, there they used to look at years of experience.
+
+But now we work with a recruitment agencies that has a team of engineers who can assess candidates. Some agencies use platforms like [TestGorilla](https://www.testgorilla.com/) to assess candidates.
+
+Recruitment processes now include engineers, and the managers/executives in small startups. In our case our other co-founder is an engineer so they interviewed the first engineers who joined the team, when they were hands-on coding and handling the tech.
+</details>
+
+<details>
+<summary>Do you take degrees in consideration in your selection or salary grids?</summary>
+
+No we don't, we assess skills and propose market salaries based on the candidate's skills.
+
+We even hired interns and promoted them to higher levels.
+</details>
+
+<details>
+<summary>What do you do to retain talents?</summary>
+
+We provide a great working environment with exciting projects, we have projects with Algerian clients (like [THE COMPANY PROVIDING FINANCIAL SERVICES]) and we also have projects with foreign clients.
+
+We have high work standards and we encourage knowledge sharing, our employees get to work on real projects and learn from each other to deliver high quality projects.
+
+We encourage our employees excellence, if an engineer is productive and does a good job, we renegotiate their salaries and we promote them, we had an engineer who went from an intern to a team lead, to a CTO in a 4 years span.
+
+We also have flexible working hours when it's possible, if the engineer doesn't have any dependencies on meetings with clients or working with other people, they can work anytime they want as long as they deliver.
+</details>
+
+
+
+<details>
+<summary>Our participants mentioned `Lack of Recognition or Career Growth Opportunities` as one of the biggest challenges they have, what do you think about it? How do you solve/avoid it in your company? Do you have a clear employee growth framework?</summary>
+
+No we don't have a growth plan or a framework. But we have a statement in our employment contracts that we can review compensation packages based on employees performance. We review contracts and increase salaries and/or promote to higher roles for our high-performing engineers.
+
+We have a fast promotion track, we promoted [AN EMPLOYEE NAME] for example from being an intern to being a manager of a team, we also promoted [AN EX-JUNIOR DESIGNER] to be the head of our [COMMUNICATION-RELATED] team in just under 4 years.
+</details>
+
+<details>
+<summary>What's your remote working policy?</summary>
+
+It depends on the project and the client, as well as the role and responsibilities.
+
+If you work on a client-facing project you might need to be in the office and meet the clients and talk to them. A CTO or a team lead must be in the office sometimes to manage their teams and handle some meetings with stakeholders.
+
+Juniors also have to be in the office since it's easier for the onboarding and for establishing a good company culture, and to better integrate with the team.
+
+Our company works a lot on the culture, and encourages knowledge sharing, that can be easier and more efficient when all people are working in the same office.
+
+However, -as I said- we provide a flexible working hours possibility, so we make exceptions when it's possible.
+</details>
+
+<details>
+<summary>I know that you are based in Algiers, how many engineers in your team are from other wilayas than Algiers? Did they relocate to work? Do you provide a relocation package?</summary>
+
+We are all from different wilayas, none of us is from Algiers, we all moved here for work.
+
+> *[For the relocation package, the interviewee presented a vague answer, I understood from it that the company does not provide a relocation package (yet). Employees help each other relocating and finding apartments]*
+</details>
+
+<details>
+<summary>Did you implement any e-payment solutions? If so, what did you use?</summary>
+
+We still didn't implement any e-payment in our solutions, right now [THE COMPANY PROVIDING FINANCIAL SERVICES] only use Baridimob and ask customers to wire their subscription fees to our company account.
+
+We looked at SATIM solution and it seems to take a lot of time to onboard, and we did not consider any third-party services like Chargily and Guidini or Slickpay because the law on e-payments is not yet clear, and we cannot risk dealing with these services.
+</details>
+
+<details>
+<summary>Do you use any agile methodology in your work?</summary>
+
+No we don't use Agile methodologies, our work style depends on the client and company culture. Some clients request last-minute changes and updates and we can't fit the Algerian mindset into any of the agile frameworks we know.
+
+Some roles are also hard to find like product owners and product managers which makes handling software product delivery harder.
+
+We are *agile* but we don't use **A**gile.
+</details>
+
+<details>
+<summary>What roles you find hard to fill when recruiting?</summary>
+
+- QA Engineers
+- UX Engineers
+- Product Owners and Product managers, we have to educate engineers on product management, or to educate business people on dealing with software and tech to fill that gap.
+
+Also it's hard to find good full-stack web developers, everyone say they are but they are either good at front-end technologies or the lean more toward the backend they're bad at the front-end.
+</details>
+
+<details id="can-pay-bounties">
+<summary>What can I do if I found a security vulnerability in one of your products?</summary>
+
+All of our products have a "contact us" section, please contact us by phone or email and report the bug, we ask people to do it all the time.
+
+We can even reward/pay those who report critical vulnerabilities.
+
+When we launched [THE COMPANY PROVIDING FINANCIAL SERVICES], we were asking people to attack us, to test the application and to report any security issues. We wanted to sell our customers a robust and a compliant software.
+</details>
+
+<details>
+<summary>Do you hire interns and entry-level engineers?</summary>
+
+Yes we hire interns, and we retain them and promote them if they prove their skills.
+
+We also hire entry-level engineers, they just have to prove their skills in interviews and by showcasing their previous projects.
+</details>
+
+<details>
+<summary>How do you promote your product to freelancers?</summary>
+
+We have a special pricing plan for people with auto-entrepreneur card, we also provide free onboardings, trainings and consulting for our customers.
+</details>
+
+<details>
+<summary>What technologies do you use in your applications?</summary>
+
+We use Laravel, Vue.js, Node.js and Electron for Desktop applications. We may also use different technologies in different products, our engineers are free to pick whatever technology they find useful to do the job.
+</details>
+
 <!-- 
 <details>
 <summary>

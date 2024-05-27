@@ -1,5 +1,5 @@
 ---
-sidebar_position: 14
+sidebar_position: 16
 ---
 
 # A bright future
@@ -74,6 +74,8 @@ xychart-beta
 
 In addition to all technical improvements, the government's new legal frameworks such as the establishment of different professional status for freelancers and entrepreneurs, developers and different IT professionals might be eligible for [Algeria Telecom's business offerings](https://www.algerietelecom.dz/en/entreprises) such as [Mouhtarf package](https://www.algerietelecom.dz/en/entreprises/pack-moohtarif-prod86) which may have more interesting offerings.
 
+In May 27th, Algeria Telecom [launched its new offering with high speeds reaching 1GB/s](https://www.algerietelecom.dz/ar/espace-presse/premiere-en-algerie-algerie-telecom-baisse-ses-tarifs-internet-illimite-et-augmente-ses-debits-jusqua-1-gbps-art4650) marking another milestone in the company's long way to improve the Algerian internet quality of service.
+
 ## Increasing (transparent) demand on IT talents
 
 More government and official companies are using online platforms and job fairs for job postings and business opportunities. 
@@ -82,7 +84,9 @@ The Ministry of Post and Telecommunications lunched [Safqatic](https://www.safqa
 
 https://baosem.com/
 
-
+<a href="/img/stats/job-posting-on-fb.png">
+    <img src="/img/stats/job-posting-on-fb.png" alt="High Commission for Digitalization Post: Job offers" width="500"/>
+</a>
 
 EMploitic
 Trustme.work
