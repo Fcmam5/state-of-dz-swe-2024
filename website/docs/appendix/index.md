@@ -44,3 +44,4 @@ custom_edit_url: https://github.com/Fcmam5/state-of-dz-swe-2024/tree/master/webs
 - Baromètre des connexions Internet mobiles en Algérie (2022/2023) - https://media.nperf.com/files/publications/DZ/2023-07-11_Barometre-connexions-mobiles-nPerf-S2-2022-S1-2023.pdf
 - Education in the Maghreb: Algeria - https://wenr.wes.org/2006/04/wenr-apr-2006-education-in-algeria
 - Global Organized Crime Index: Algeria - https://ocindex.net/country/algeria
+- Virements financiers : Algérie Poste relève le plafonnement à 200.000 DA via BaridiMob - https://www.algerie-eco.com/2023/06/17/virements-financiers-algerie-poste-revele-le-plafonnement-a-200-000-da-via-baridimob/

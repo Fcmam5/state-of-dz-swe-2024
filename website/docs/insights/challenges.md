@@ -120,6 +120,7 @@ khadma f noir
 hard for billing
 Fatoura?
 
+###  Talents lacks in soft skills 
 
 
 ## Other challenges

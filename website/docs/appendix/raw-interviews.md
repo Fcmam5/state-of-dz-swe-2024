@@ -470,6 +470,25 @@ We have a special pricing plan for people with auto-entrepreneur card, we also p
 We use Laravel, Vue.js, Node.js and Electron for Desktop applications. We may also use different technologies in different products, our engineers are free to pick whatever technology they find useful to do the job.
 </details>
 
+
+## A developer who worked for Algerian companies (governmental agencies and startups)
+
+<details>
+<summary>If I wants to integrate e-payment in my Algerian website, what are the steps to follow? and what's the point from third-party solutions like Guidini, Slickpay and Chargily?</summary>
+
+You have to ask your bank first (for your professional bank account to be able te receive e-payments).
+
+They will start the process with GIE Monétique, the bank will ask them for a test environment (a sandbox) for you with some API documentation.
+
+You integrate their APIs in your system, when when test scenarios are fine, you provides some screenshots to GIE Monétique as a second proof. Then they will give you production API credentials. 
+
+This process may take few months.
+
+The third-party solutions are the software part, for example Wordpress WooCommerce plugin, they are tested, so you don't re-do that part on your own, or maybe the tests will take only few days. It accelerates the process, reduce few costs, test environment is a paid service, the longer it takes, the more expensive it becomes.
+
+These third-party service also provide payment gateways, you can use them if you don't want to use e-payment APIs. For example, in a marketplace website, you create a store, plug their solution and they will send you the money from purchases that happens through their module.
+</details>
+
 <!-- 
 <details>
 <summary>

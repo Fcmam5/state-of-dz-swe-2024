@@ -69,6 +69,14 @@ A document has to be published to show how to get internships? What's needed for
 
 Job portals should offer and promote positions for interns if possible.
 
+#### E-Commerce
+
+Algeria made big steps in this field, with new laws and regulations, more promotion for using POS terminals and payment gateways.
+
+And lately, there's a big hype around it, with more events and conferences. This hype can both create more "noise
+
+A report about e-commerce in Algeria has to be done to ride these first waves, and to create a good base for having historical data for the next iterations.
+
 #### Education
 
 ### Unanswered questions or unexplored correlations
