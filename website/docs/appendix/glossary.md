@@ -41,3 +41,5 @@ custom_edit_url: https://github.com/Fcmam5/state-of-dz-swe-2024/tree/master/webs
 |    APOCE     | Association for the Protection and Guidance of Consumers and their Environment                                                                    |
 |     BEF      | Brevet d'Enseignement Fondamental                                                                                                                 |
 |     BEM      | Brevet d’Enseignement Moyen                                                                                                                       |
+|     NIF      | Tax Identification Number (NIF)                                                                                                                       |
+|     GIE      | Electronic Payment Economic Interest Grouping (Groupement d’intérêt économique)                                                                                                                       |

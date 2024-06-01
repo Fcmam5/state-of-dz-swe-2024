@@ -489,6 +489,80 @@ The third-party solutions are the software part, for example Wordpress WooCommer
 These third-party service also provide payment gateways, you can use them if you don't want to use e-payment APIs. For example, in a marketplace website, you create a store, plug their solution and they will send you the money from purchases that happens through their module.
 </details>
 
+## An executive of company that provide a <nobr>third-party</nobr> <nobr>e-payment</nobr> solution
+
+<details>
+<summary>Why would someone choose your solution and not integrate SATIM's solution?</summary>
+
+Our solution is targeting "small" web merchants, if you want to integrate with SATIM, you would need to go deal with a lot of paperwork, you would need to provide a tax identification NIF, a business bank account and a confirmation from your bank that you can use receive electronic payments, you have to develop payment modules and certify them, you also need to pay developers and to pay for SATIM's test environment. After all that you have to wait for SATIM's tests to validate that your integration is working fine before they hand you their production API key.
+
+Our solution is ready to use, we went through the process and certified our payment module, then it's use who will provide you our API key. Anyone can use our test environment for free, and when they are ready they can just switch to production mode where we apply our fees.
+
+When a customer wants to go live with their solution we they go through our KYC checks and validation where we verify their accounts and identities.
+
+We provide different client libraries and web APIs for our customers.
+</details>
+
+<details>
+<summary>Does your KYC process verify if a client is illegible to have an e-commerce business? I mean, do they need to have a registered company (registre de commerce)?</summary>
+
+No, our KYC process is internal, we only verify clients identities. We don't check if our customers have a registered company (have a "registre de commerce").
+</details>
+
+<details>
+<summary>Were you audited somehow? Did you need any specific certifications?</summary>
+
+No we did not. No audit was necessary, in Algeria we don't need any specific certifications or audits to be performed, no certificates like PCI DSS or what so ever are required.
+
+
+We don't process payments, we are just a third-party solution that uses SATIM's infrastructure, payments happen through them.
+
+And SATIM doesn't certify, they just check if the integration is working properly then they grant you the production API key.
+
+We just take the responsibility of providing a stable and secure solution for our customers on our own.
+</details>
+
+<details>
+<summary>Where are you hosting your data? And your backend applications?</summary>
+
+Data is hosted in [ALGERIAN WEB HOSTING PROVIDER], and our applications, the front-end are hosted in foreign  hosting solutions, our load balancer and CDNs are provided by a foreign provider.
+
+The data is in Algeria, but backend applications are on a public cloud provider.
+</details>
+
+<details>
+<summary>Are you certified/approved by ANPDP that you process Algerians' personal data? If not, did you apply to be approved or you are waiting for their process?</summary>
+
+No we are not. We still didn't register/request their approval. The laws is still new and we did not apply (yet).
+</details>
+
+<details>
+<summary>Did you need to comply to any legal framework that you are in the payment area?</summary>
+
+We are not a Payment service provider (PSP), we just provide a third-party interface in front of the SATIM. And SATIM is approved by Electronic Payment Economic Interest Grouping (GIE).
+
+Therefor, we did not need to comply with any specific law for "e-payments".
+</details>
+
+<details>
+<summary>What are your plans? How do you generate income from your services?</summary>
+
+For now we have a promotion for our customers, we provide our services for free, after this promotion ends we will introduce a fee on payments/transactions 
+</details>
+
+<details>
+<summary>If someone finds a vulnerability in your systems, is there a process to report it? Do you reward them? Do you encourage researchers to pen-test you, would you say you are ready for it?</summary>
+
+We are always listening to our customers and our developers community, we will differently patch any security bug that gets reported to us. And if a bug is critical we verify it internally and if it's a valid finding we reward who reported it. We did that in the past.
+
+For the other question, no. To be honest we don't want our systems to be attacked, we don't encourage that.
+
+We don't know how "good" a pentester can be, and we don't want them to disturb or access our systems.
+
+*(If a bug is found accidentally or it appeared on the surface, reports are welcome and can be rewarded, but we don't encourage pentesting form bug bounty hunters)*
+</details>
+
+
 <!-- 
 <details>
 <summary>
