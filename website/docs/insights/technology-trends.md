@@ -26,7 +26,7 @@ Click here to see the full chart
 
 ## Programming languages
 
-Our main finding in regards to programming language is that JavaScript is the most used programming language, followed by Python and PHP as shown below.
+Our main finding in regards to programming language is that **JavaScript** is the most used programming language, followed by Python and PHP as shown below.
 
 <br/>
 
