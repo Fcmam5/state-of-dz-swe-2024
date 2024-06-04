@@ -190,6 +190,7 @@ There are some Discord servers with different channels, such as:
 - [Cherif Bouchlaghem](https://discord.gg/6FqvER4c)
 - [dev dz](https://discord.gg/wazVzPn2C6)
 - [UltrasDZCoder Programming](https://discord.gg/m29vTMhx6S)
+- [Bug Bounty DZ](https://discord.gg/dF67vmB8)
 
 ## Challenges
 
