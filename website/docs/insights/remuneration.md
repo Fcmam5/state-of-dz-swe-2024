@@ -4,11 +4,11 @@ sidebar_position: 2
 
 # Remuneration
 
-In this section we present insights from our survey, examining salaries, variation by experience and location. Salaries within the Algerian software engineering and IT sector operate in a dynamic and unregulated landscape. With the potential to range from **20 000 DZD** Algerian dinars to more than **150 000 DZD** (per month), compensation packages reflect a wide spectrum influenced by various factors such as experience, skillset, location, and employer practices.
+In this section we present insights from our survey, examining salaries variation by experience and location. Salaries within the Algerian software engineering and IT sector operate in a dynamic and unregulated landscape. With the potential to range from **20 000 DZD** Algerian dinars to more than **150 000 DZD** (per month), while compensation packages differ greatly and are influenced by factors such as experience, skillset, location, and employer practices.
 
 :::info
 
-Salaries in Algerian Dinar (DZD) are written in different forms in this page.
+Salaries in Algerian Dinar (DZD) are written in different forms in this page:
 
 10 000 DZD = 10K DZD = 1 Million Centimes
 :::
@@ -17,21 +17,22 @@ Our participants' monthly salary distribution was the following:
 
 ```mermaid
 pie
+    "less than 20K DZD" : 5
+    "20K to less than 40K DZD" : 25
     "40K to less than 60K DZD" : 71
-    "80K to less than 100K DZD" : 54
     "60K to less than 80K DZD" : 52
+    "80K to less than 100K DZD" : 54
     "100K to less than 150K DZD" : 36
     "more than 150K DZD" : 35
-    "20K to less than 40K DZD" : 25
     "I'm volunteering; or I work for free" : 21
-    "less than 20K DZD" : 5
+   
 ```
 
-Remote working salaries, and remuneration from freelance opportunities also differs, form few euros a month from small gigs, to very high salaries that goes beyond 60K euros a year for full-time employees.
+Remote working salaries and remuneration from freelance opportunities also varies. From few euros a month for small gigs, to much higher salaries that go beyond 60K euros a year for full-time employees.
 
 <br/>
 
-In this section we will also compare our findings with previous [work done in 2020](https://medium.com/@yasserdrif/solving-algerias-engineering-brain-drain-️-a-study-about-salaries-and-military-training-b383293683ca) and [another one in 2018](https://abdeslemmenacere.wordpress.com/2018/07/06/salaire-des-developpeurs-en-algerie-2018/).
+In this section we will also compare our findings with previous [research done in 2020](https://medium.com/@yasserdrif/solving-algerias-engineering-brain-drain-️-a-study-about-salaries-and-military-training-b383293683ca) and [another one in 2018](https://abdeslemmenacere.wordpress.com/2018/07/06/salaire-des-developpeurs-en-algerie-2018/).
 
 ## Salaries in Algeria
 
@@ -62,7 +63,7 @@ In this study, we will split the findings in 5 groups:
 
 <details>
 <summary>
-**N.B:** Titles in the following section are only to label participants' groups
+**N.B:** Titles in the following section are only to label participants' groups. Click here for details.
 </summary>
 
 We believe that titles and the years of experience are relative, we do believe  (and see) that we can find engineers that are considered seniors with just years 5 years of experience, but we also believe that there is a global job titles inflation.
@@ -86,7 +87,7 @@ pie showData
     "11-15 years" : 13
     "16 years and above" : 5
 ```
-
+Which means that the definition of senior and mid-level is not fully agreed upon in the community in years of experience which is why we defined our own for the sake of clarity in this survey.
 </details>
 
 #### Trainees and entry-level engineers (2 years of professional experience, or less)
@@ -101,7 +102,7 @@ xychart-beta horizontal
 
 <br/>
 
-Some trainees do internships for free, others are getting paid salaries going from under <nobr>**20 000 DZD**</nobr> up salaries close to <nobr>**40 000 DZD**</nobr>.
+Some trainees do internships for free, others are getting paid salaries going from under <nobr>**20 000 DZD**</nobr> up salaries close to <nobr>**40 000 DZD**</nobr>. A deeper dive into this could look into the types of internshhips being given to students and the expectations of salaries across wilayas and companies to better help students negociate their time and efforts. 
 
 
 #### Juniors to early mid-levels (3 to 5 years of professional experience)
@@ -175,7 +176,7 @@ xychart-beta horizontal
 
 2 of 3 participants who are paid less thn <nobr>**80 000 DZD**</nobr> don't have a university degree (Baccalaureate is their highest degree). But the third participant has Ph.D. or equivalent.
 
-The high salaries (more or less than <nobr>**150 000 DZD**</nobr>) are paid in medium to large companies based in Oran, Algiers.
+The high salaries (more or less than <nobr>**150 000 DZD**</nobr>) are paid in medium to large companies based in Oran and Algiers.
 
 ### Working remotely for foreign companies
 
@@ -189,16 +190,16 @@ We calculated medians of salaries and compared them to years of experience, the 
 
 <br/>
 
-We see that salaries are on a raising pattern until 16+ years of experience where we have two remarks:
+We observe a trend of increasing salaries up to 16+ years of experience. However, the trend changes after 16+ years where we note two main points:
 
-1. We can not make a judgement since we only have two participants in this case (participants working remotely from Algeria with 16+ years of experience).
-2. At this level of seniority a full-time remote position from Algeria might be challenging, or not th preferred solution. Read more about this case in [our remote working page](#) (TLDR; They might be freelance consultants).
+1. We can not make conclusions since we only have two participants in this case (participants working remotely from Algeria with 16+ years of experience).
+2. At this level of seniority a full-time remote position from Algeria might be challenging, or not the preferred solution. Read more about this case in [our remote working page](#) (TLDR; They might be freelance consultants).
 
 <br/>
 
 Remote workers exercise their work in different forms, 46% of the participants who work for foreign companies are full-time employees, 42% are freelancers, and 12% are part-time employees.
 
-To explore freelancers' income, we fetched public Algerian freelancers' data from [Upwork](https://www.upwork.com/), and we had the following:
+To explore freelancers' income, we analysed public Algerian freelancers' data from [Upwork](https://www.upwork.com/), and we had the following:
 
 ```mermaid
 xychart-beta horizontal title "Algerian freelancers on Upwork by hourly rate (in $)"
