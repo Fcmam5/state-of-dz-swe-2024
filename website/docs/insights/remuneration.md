@@ -233,7 +233,7 @@ Additionally, some jobs offer other perks, for example<sup>[*](/docs/appendix/ra
 
 ### Perks by location and company size
 
-[goto](/docs/insights/talents-migration)
+<!-- [goto](/docs/insights/talents-migration) -->
 
 ### Perks by employment mode
 

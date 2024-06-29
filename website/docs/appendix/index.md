@@ -49,3 +49,6 @@ custom_edit_url: https://github.com/Fcmam5/state-of-dz-swe-2024/tree/master/webs
 - Auto-entrepreneuriat: L'ANAE et sa plateforme ont boosté l'accès des jeunes à l'auto-emploi - https://www.aps.dz/economie/171190-auto-entrepreneuriat-l-anae-et-sa-plateforme-ont-booste-l-acces-des-jeunes-a-l-auto-emploi
 - Plan d'action du Gouvernement Pour La Mise En Œuvre Du Programme Du President De La République- https://amb-algerie.fr/wp-content/uploads/2022/04/Pland-action-du-gouvernement-pour-la-mise-en-oeuvre-du-programme-du-president-de-la-republique-2021-fr.pdf
 - Note du Ministère du Commerce relative à la domiciliation d'entreprise - https://legal-doctrine.com/edition/communique-rappel-sur-le-droit-de-domiciliation
+- Arab National Development Planning Portal: Algeria - https://andp.unescwa.org/country/dza
+- Establishment of Algeria's National Vision 2030 - https://andp.unescwa.org/plans/1121
+- Algérie 2030..poursuivre la construction de l’Algérie nouvelle - https://youtu.be/U14MOXA-LHc

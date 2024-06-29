@@ -8,13 +8,59 @@ To conclude this report on a positive note, it's essential to highlight several 
 
 ## Algeria 2030
 
-## Cloud ARPCE
+Late 2011, the previous Ministry of Prospective and Statistics collaborated with Korea Development Institute to establish the [Algerian National vision for 2030](https://www.kdevelopedia.org/Resources/view/Algeria-Establishment-of-national-vision-2030--04201210090122020) document, the ministry was dissolved and replaced with (or just renamed to) [The ministry of Digitalization and Statistics](https://mns.gov.dz/) that manages the [National Office of Statistics](https://www.ons.dz/).
+
+The progress towards Algerian National vision (**as defined in that document**) was not communicated since then. However, several initiatives (such as [Algeria 2030](https://www.algerie2030.com/)) and action plans set 2030 as a milestone in development in multiple sectors (tourism, health, industry, energy, etc).
+
+[The president Abdelmadjid Tebboune's action plan](https://amb-algerie.fr/wp-content/uploads/2022/04/Pland-action-du-gouvernement-pour-la-mise-en-oeuvre-du-programme-du-president-de-la-republique-2021-fr.pdf) set 2030 and 2035 as milestone in development of the health and energy sectors. 
+
+Led by the newly established [ministry of knowledge economy, startups and micro-enterprises](https://mdme.gov.dz/), the [High Commission for Digitalization](https://hcn.gov.dz/) and the [ministry of Digitalization and Statistics](https://mns.gov.dz/), several digitalization projects started being implemented across different sectors in the country. These projects are creating new opportunities for different actors in IT, which shall improve the Algerian software engineering market. 
+
+## The raise of local cloud providers (approved by ARPCE)
+
+Complex and scalable digital products may require cloud computing solutions to host and operate. However, that raises questions related to data residency and sovereignty, therefor, some Algerian companies consider using local hosting and local cloud providers.
+
+In Algeria, the Regulatory Authority of Post and Electronic Communications (ARPCE) is one of the regulators that certifies cloud providers.
+
+Such an authority shall protect clients (cloud tenants and consumers), where they act as a higher regulatory office that controls different cloud hosting companies, watch their compliance and act as one of the bodies that clients can report issues to.
+
+Having a clear and a transparent processes ([as described in ARPCE's website](https://www.arpce.dz/fr/service/cloud)), cloud computing market shall be more democratized, more investors and entrepreneurs can be aware of the official requirements and processes to get their new competitive businesses certified.
+
+Clients on the other hand, can see the list of the certified cloud providers on [ARPCE's website](https://www.arpce.dz/fr/service/cloud) if they want to go to an Algerian hosting service, or a cloud provider.
+
+## Data protection laws and ANPDP
+
+The Algerian digitalization revolution is creating many challenges regarding data protection. Which makes having an authority like the [National Authority for the Protection of Personal Data](https://anpdp.dz/) more important than ever.
+
+The authority audits and certifies compliant bodies who deal with Algerian personal data. The Algerian personal data is defined in the the law N°18-07 (inspired to some extent by European Union and French data protection law before the entry into force of the GDPR).
+
+Entities who want to deal with personal data can apply to be approved through the [ANPDP's online portal](https://portail.anpdp.dz/).
+
+> *While on paper (and on different media channels) this initiative seems excellent, such initiative seem to be in its early stages. Many companies (and government websites) are not compliant with data protection laws. Some companies don't care, or they might not be aware of an entity like ANDPD.*
+> 
+> *ANDPD on its side may face technical issues on its online platforms, we tried to reach out to them by email to confirm that our study is compliant but we did not hear back from them. We also tried to open the link to their online platform and it seems to be offline (for the moment at least).*
+
+<br/>
+
+Establishing such an entity, and bringing data protection topics on  different media channels is a one step ahead in the Algerian digitalization journey.
+
+## The auto-entrepreneur official status
+
+The National Agency of auto-entrepreneurs self-employment (ANAE) recently made their application process easier. Entrepreneurs and self-employed people in different sectors (not only digital) can apply online to obtain their auto-entrepreneur card.
+
+[ANAE](https://www.anae.dz/) (created by the [ministry of knowledge economy, startups and micro-enterprises](https://mdme.gov.dz/)) aim to implement and to promote new processes to encourage entrepreneurship and to regulate freelancers' and remote workers' situation.
+
+The agency promise to have a fast and easy onboarding process, where entrepreneurs and freelancers can register online get request their cards which allows them to onboard to the official financial system and start contributing to their health insurance, retirement funds, etc.
 
 ## Startup.dz
 
-## ANAE
+Being the main focus of the [ministry of knowledge economy, startups and micro-enterprises](https://mdme.gov.dz/), the [startup.dz](https://startup.dz/) is building bridges between the government, entrepreneurs, talents, academia and different investors.
 
-https://www.anae.dz/fr/
+Since launching the platform, the ministry and different agencies worked on promoting entrepreneurship and innovation. Such initiatives create more opportunities for starting new businesses, and for creating more demand on talents.
+
+In the recent years, multiple conferences and meetups took place both nationally and internationally to extend the Algerian startup scene, to learn and to benefit from different actors in different areas.
+
+<!-- TBD -->
 
 ## E-payments article
 
@@ -90,10 +136,6 @@ https://baosem.com/
 
 EMploitic
 Trustme.work
-
-## Data protection laws with ANPDP
-
-https://www.dataguidance.com/notes/algeria-data-protection-overview
 
 
 ## Including diaspora

@@ -87,7 +87,7 @@ From the Algerian workers' side, until the last year some remote workers had few
 
 However -according to interviews with actors in the Algerian ecosystem- the legal framework, banking systems and personal working in administrations caused major challenges. That may contribute in discouraging engineers to declare their jobs/income, and work "unofficially". Wages can be received in foreign currencies through international electronic banks and through third-party people,  then they can be traded in the widely substantial *and tolerated* black market for a higher rate than the official's.
 
-Early this year, the government launched the National Agency for Self-Employed ([ANAE](https://www.anae.dz/)) that facilitate the application for a new legal status for entrepreneurs, self-employed, or those who work remotely. The new legal status can be applied for online from ANAE's online platform, once the process is fulfilled applicants gets an auto-entrepreneur card.
+Recently, the government launched the National Agency for Self-Employed ([ANAE](https://www.anae.dz/)) that facilitate the application for a new legal status for entrepreneurs, self-employed, or those who work remotely. The new legal status can be applied for online from ANAE's online platform, once the process is fulfilled applicants gets an auto-entrepreneur card.
 
 By May 2024, ANAE's online platform (https://www.anae.dz/) had more than 10.000 applicant, where more 8000 of them received their self-employed/auto-entrepreneur cards (according to [the minister](https://www.aps.dz/economie/171190-auto-entrepreneuriat-l-anae-et-sa-plateforme-ont-booste-l-acces-des-jeunes-a-l-auto-emploi)).
 
