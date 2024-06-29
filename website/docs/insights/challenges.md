@@ -48,9 +48,9 @@ Upgrading to FTTH or [leased lines offers](https://www.algerietelecom.dz/en/entr
 
 3G/4G coverage in some regions is still a challenge. (TBD elaborate)
 
-In addition to technical problems; Algerians, especially those who work remotely with foreign companies get really frustrated during the national baccalaureate exams period, when the government limit access to the internet in a questionable way to prevent cheating.
+In addition to technical problems; Algerians, especially those who work remotely with foreign companies get frustrated during the national baccalaureate exams period, when the government limit access to the internet in a questionable way to prevent cheating. This internet disruption is still happening in 2024 despite of the government's promises ([[2]](https://youtu.be/MMWHS5fe-XU?t=3368), [[1]](https://youtu.be/u_qo4gPBZgQ), etc)
 
-If you are interested in Algerian internet and mobile network experience, head to our [appendix section](/docs/appendix#algerian-mobile-network-experience)
+![Cloudflare Radar: Algeria outage](/img/challenges/cf-radar.png)
 
 ### Lack of Recognition or Career Growth Opportunities
 
@@ -105,13 +105,20 @@ TBD
 
 Online payments especially for digital products and accepting credit cards.
 
-## Interesting takes from free-text inputs and interviews
-
-### Diplomas and graduates from small southern universities are often not taken seriously
+## Other takes from free-text inputs and interviews
 
 ### Not having a degree in IT
 
-### Caba and material
+Diplomas and graduates from small southern universities are often not taken seriously
+
+### Algeria's strict regulations on importing IT devices
+
+Algeria has strict policies when it come to importing IT devices.
+
+Arduino
+VR headsets
+Drones
+Physical gadgets for pentesting
 
 ### Unregulated activities
 
@@ -120,10 +127,13 @@ khadma f noir
 hard for billing
 Fatoura?
 
-###  Talents lacks in soft skills 
+### Talents lacks in soft skills 
 
-
-## Other challenges
+Professionalism
+Remote work culture
+Salary negotiation
+Planning and punctuality 
+Self evaluation
 
 ### Buying goods online
 
@@ -140,6 +150,5 @@ There are some initiatives and petitions for companies to have pricing models th
 Some people like Wes Bos, [take this in consideration](https://wesbos.com/parity-purchasing-power) and provide discounts for Algerians, in [Beginner JavasScript](https://beginnerjavascript.com/):
 
 ![Wes Bos: Beginner JavaScript course banner](/img/challenges/wesbos-js-course.png)
-
 
 :::

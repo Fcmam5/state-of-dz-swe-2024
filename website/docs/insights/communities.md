@@ -104,6 +104,8 @@ We also know many other (and very active) IT students clubs such as:
 
 Meetups, conferences and hackathons are places where different actors meet and learn. Hackathons are usually organized by students clubs, for example [Hack !T](https://hackit2018.cse.club/) and [StartHack](https://www.facebook.com/StartHackDz) are hackathons organized by students and often hosted in universities (or engineering schools).
 
+Some hackathons are sponsored by the government through its different ministries and Wilayas, and some hackathons that are organized by the government, such as: [AgriTech](https://agritech.dz/en) by the [ministry of knowledge economy, startups and micro-enterprises](https://www.startup.dz/), funded by the EU and [BMZ](https://www.bmz.de/en), and implemented by [GIZ](https://www.giz.de/en/html/index.html).
+
 There are also a few national conferences and summits, for example:
 
 - [Algeria 2.0 ](https://www.facebook.com/Algeria2.0)

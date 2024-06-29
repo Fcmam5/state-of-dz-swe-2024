@@ -292,3 +292,14 @@ https://www.mpt.gov.dz/en/information-security-reference/
 :::warning
 TBD: Investigate
 :::
+
+## IoT and Embedded systems
+
+<!-- 
+https://www.facebook.com/DEOELECTRONIQUE
+https://deo-dz.com/
+ -->
+
+ <!-- 
+ https://rmbtech.tech/
+  -->

@@ -32,7 +32,6 @@ custom_edit_url: https://github.com/Fcmam5/state-of-dz-swe-2024/tree/master/webs
 - UAE Journal of Police and Legal Sciences: The security and cyber defence realities and difficulties in Algeria  - https://www.jpsa.ac.ae/cgi/viewcontent.cgi?article=1013&context=journal
 - ESCWA: Index Simulator for Policymakers - https://ispar.unescwa.org/Country-index.aspx?Country=3
 - Algeria: The Social Protection System - https://www.annd.org/uploads/summernote/three31614341217.pdf
-
 - MPT: Information Security Reference - https://www.mpt.gov.dz/en/information-security-reference/
 - الجريمة المعلوماتية في التشريع الجزائري - https://www.asjp.cerist.dz/en/article/168985
 - Cybersecurity in Algeria - https://www.researchgate.net/publication/369647110_Cybersecurity_in_Algeria
@@ -46,3 +45,7 @@ custom_edit_url: https://github.com/Fcmam5/state-of-dz-swe-2024/tree/master/webs
 - Global Organized Crime Index: Algeria - https://ocindex.net/country/algeria
 - Virements financiers : Algérie Poste relève le plafonnement à 200.000 DA via BaridiMob - https://www.algerie-eco.com/2023/06/17/virements-financiers-algerie-poste-revele-le-plafonnement-a-200-000-da-via-baridimob/
 - Fintech in Algeria - https://fintechinalgeria.com/
+- 2023 Investment Climate Statements: Algeria - https://www.state.gov/reports/2023-investment-climate-statements/algeria
+- Auto-entrepreneuriat: L'ANAE et sa plateforme ont boosté l'accès des jeunes à l'auto-emploi - https://www.aps.dz/economie/171190-auto-entrepreneuriat-l-anae-et-sa-plateforme-ont-booste-l-acces-des-jeunes-a-l-auto-emploi
+- Plan d'action du Gouvernement Pour La Mise En Œuvre Du Programme Du President De La République- https://amb-algerie.fr/wp-content/uploads/2022/04/Pland-action-du-gouvernement-pour-la-mise-en-oeuvre-du-programme-du-president-de-la-republique-2021-fr.pdf
+- Note du Ministère du Commerce relative à la domiciliation d'entreprise - https://legal-doctrine.com/edition/communique-rappel-sur-le-droit-de-domiciliation

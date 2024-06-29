@@ -182,7 +182,7 @@ The high salaries (more or less than <nobr>**150 000 DZD**</nobr>) are paid in m
 
 Salaries for remote positions are not regulated in any form. They highly depend on the skills, years of the experience, clients' countries, type of projects/contract, and many other factors.
 
-According to our survey participants, Algerian engineers can get up to **85 000 Euros** per year (~7000€/month).
+According to our survey participants, Algerian engineers can get up to **85 000 Euros** per year (around €7000/month).
 
 We calculated medians of salaries and compared them to years of experience, the results were the following:
 
@@ -207,7 +207,7 @@ xychart-beta horizontal title "Algerian freelancers on Upwork by hourly rate (in
   bar [124,99,47,15,14,3,2]
 ```
 
-This data is also correlated with findings from other websites like [peopleperhour](https://www.peopleperhour.com/) (Majority of freelancers with hourly rates around 10 to 20€/hour, and the median close to 40€/hour).
+This data is also correlated with findings from other websites like [peopleperhour](https://www.peopleperhour.com/) (Majority of freelancers with hourly rates around 10 to €20/hour, and the median close to €40/hour).
 
 ### Effects of education on salaries
 
@@ -247,7 +247,7 @@ This section looks into the value of software engineering salaries in Algeria.
 
 ### Costs of living in Algeria
 
-Algerian minimum wages are around <nobr>**20 000 DZD**</nobr>, however [the Union of Algerian Workers estimates](https://aja.me/gufnww) that the minimum income for a family of five members should be more than <nobr>**80 000 DZD**</nobr> (~556 €), while they estimated that the average monthly salary in the public sector is around <nobr>**40 000 DZD**</nobr> (~278 €).
+Algerian minimum wages are around <nobr>**20 000 DZD**</nobr>, however [the Union of Algerian Workers estimates](https://aja.me/gufnww) that the minimum income for a family of five members should be more than <nobr>**80 000 DZD**</nobr> (around €556), while they estimated that the average monthly salary in the public sector is around <nobr>**40 000 DZD**</nobr> (around €278).
 
 According to 3363 entries made by 250 different participants in [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Algeria) (a crowd-sourced global database of quality of life data):
 

@@ -336,6 +336,26 @@ The unclear laws and the lack of legal awareness from different employees in adm
 One of my teams who work from Algeria has some of the best engineers who works on the software we deploy on drones for our missions, unfortunately we cannot ship them drone so they can deploy their software directly and have a more efficient development and deployment pipeline.
 </details>
 
+<details>
+<summary>How remote employees (Algerians specifically) are declared in your company from official standpoint? Do you pay their Paid-time off</summary>
+
+They're considered as external contractors, in [COUNTRY]'s laws contractors are paid by projects, we considered our product as a long-running project so we can pay our employees monthly. We are not required by law to pay for their health insurance or any other things, we just pay them for their work. However, we agreed to make that to some sort of a trust-based contract where we can hire them for a long period of time.
+
+In our contracts we have a model for paid-time off for our employees, however some of them prefer not to take their days off and rather work on these days and get paid for them instead.
+
+When we pay our "external contractors", we transfer money to their accounts and we don't care about the details of their tax declaration or whether they have a legal entity in Algeria or not.
+</details>
+
+<details>
+<summary>Did you try to create a company in Algeria as an official umbrella from the Algerian's side? Why not?</summary>
+
+Yes, but our Algerian employees didn't want to join it. They did not want to pay ~30% of their salary for benefits they think they can pay for themselves.
+
+30% of €1000 each month is more than 80 millions a year<sup>*</sup> (*a million is an expression to describe 10K DZD*), and no one was interested in "losing" that.
+
+\* `30% of 1000 is €300. €1 is between 200 to 240 DZD in the black market, the current rate is 240, which means (300*240)*12=864K DZD (a year)`
+</details>
+
 ## Representative of an agency that's co-founding and building a financial services application
 
 <details>
@@ -379,8 +399,6 @@ We encourage our employees excellence, if an engineer is productive and does a g
 
 We also have flexible working hours when it's possible, if the engineer doesn't have any dependencies on meetings with clients or working with other people, they can work anytime they want as long as they deliver.
 </details>
-
-
 
 <details>
 <summary>Our participants mentioned `Lack of Recognition or Career Growth Opportunities` as one of the biggest challenges they have, what do you think about it? How do you solve/avoid it in your company? Do you have a clear employee growth framework?</summary>

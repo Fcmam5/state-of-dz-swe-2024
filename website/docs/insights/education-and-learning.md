@@ -117,6 +117,10 @@ Cybersecurity school in WIP: https://www.aps.dz/societe/166994-vers-l-elaboratio
 
 https://www.agenceecofin.com/formation/2908-100661-en-visite-en-algerie-le-president-macron-relance-le-projet-de-creation-de-l-ecole-42-annonce-depuis-5-ans (code guy on insta)
 
+### Online (private) universities
+
+Some students study online in foreign universities. 
+
 ## Does having a degree affect the chances of finding a job?
 
 To answer this question we crawled the biggest employment platform and fetched 48 job postings for software developers, 93% of them required a degree.
