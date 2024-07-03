@@ -27,7 +27,9 @@ My wife provided a great help in designing the survey, fixing PLENTY of typos in
 
 Data science and machine learning magic becomes a must when it comes to analyzing 42 Q&A from 500+ people, and that requires people who speak fluent Python and algebra, there where my brother Oussama came to help, he translated my Excel sheets and my questions to Python and interactive graphs.
 
-These two people are the reason I use "we", "us" and "our" when talking about this initiative. Kudos Nihad and Oussama!
+When I was writing about Open Source, I wanted to interview Djalal Harouni and get his opinions, he replied as the pillar of Algerian Open source he is: he asked me to add him to this website/content repository, and he wrote a big part of the page and enriched it with resources and with positive examples from the Algerian Open Source community.
+
+These people are the reason I use "we", "us" and "our" when talking about this initiative.
 
 This project took us around 4 months, from designing the survey, translating the questionnaire to French and Arabic, validating it and collecting feedback, then promoting it (almost) every day of February 2024. During that month I spammed various groups on Facebook and LinkedIn, contacted a lot of content creators and pages.
 
@@ -35,7 +37,7 @@ Some people were kind enough to share our posts on their networks, others were n
 
 For the length of march, I had to squeeze long hours of working on analyzing results, continue designing this website and working on its content in my days along my full-time job and my personal commitments.
 
-When analyzing data and writing the report, we had to make a lot of research to support our statements. We found a lot of useful resources and listed some of them in our [appendix page](/docs/appendix), we also extracted some questions for our expert interviews.
+When analyzing data and writing the report, we had to make a lot of research to support our statements. We found a lot of useful resources and listed some of them in our [appendix page](/docs/appendix/appendix), we also extracted some questions for our expert interviews.
 
 I hope we gave something useful to our community. I hope we delivered insightful results and gained your trust to contribute in our future editions.
 

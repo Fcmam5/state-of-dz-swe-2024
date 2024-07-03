@@ -21,3 +21,26 @@
   align-items: center;
   justify-content: center;
 }
+
+
+.demoVideo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.demoVideo iframe {
+  width: 70%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+}
+
+.demoVideo h2 {
+  margin: 50px 0px;
+}
+
+.future {
+  margin: 140px 0px;
+  text-align: center;
+}

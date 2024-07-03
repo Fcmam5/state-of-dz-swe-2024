@@ -62,7 +62,19 @@ In the recent years, multiple conferences and meetups took place both nationally
 
 <!-- TBD -->
 
-## E-payments article
+## E-payments and m-payments
+
+Algeria has always been far behind in electronic and mobile payments. But in the last few years several ministries started catching up on a national mission to modernize the financial system.
+
+Created in 2014, [GIE Monétique (Electronic Payment Economic Interest Grouping)](https://giemonetique.dz/) aims to contribute in modernizing the banking systems in Algeria. This entity regulates the interbank electronic payment system and defines the roles of its participants. 
+
+GIE Monétique ensures the interoperability of the payment system with local and international networks.
+
+The group comprises 19 members, including 18 banks and Algerie Poste, with the Bank of Algeria participating as a non-member to oversee the security and standards of payment systems.
+
+Early June this year, SATIM announced their new m-payment solution: [Switch Mobile](https://www.facebook.com/photo.php?fbid=442080865438736&set=a.164290759884416&type=3).
+
+On another hand, Algeria Post's [BaridiWeb and BaridiMob](https://www.poste.dz/services/professional/baridimobweb) seem to be widely used, and getting more popularity among Algerians.
 
 ## Better Internet & QoS
 
@@ -94,8 +106,6 @@ xychart-beta
 </details>
 
 In parallel, the ministry is extending [the Optical Fiber to Home (FTTH)](https://www.mpt.gov.dz/en/switch-to-optical-fiber/) coverage, where it jumped from 478k households at the end of 2022 to reach more than 1.08 million households by the end of 2023.
-
-
 
 ```mermaid
 xychart-beta
@@ -134,9 +144,19 @@ https://baosem.com/
     <img src="/img/stats/job-posting-on-fb.png" alt="High Commission for Digitalization Post: Job offers" width="500"/>
 </a>
 
+however:
+
+- releveees de notes for job
+- hiring informaticien: AIO
+
 EMploitic
 Trustme.work
 
+## A Scientific council for Artificial intelligence 
+
+On [June 22n from the last year](https://www.mesrs.dz/index.php/en/2023/06/elementor-52608/), the ministry of higher education and scientific research and the ministry of knowledge economy, start-ups and micro-enterprises kick started the the Scientific Council of Artificial Intelligence at the Higher National School of Artificial Intelligence.
+
+The Scientific Council for AI serves as an advisory body focused on evaluating AI resources, proposing training programs, and fostering international cooperation with Algerian experts inside and outside Algeria.
 
 ## Including diaspora
 
@@ -153,13 +173,6 @@ lablabee
 ## Digitalization
 
 e.g. douane
-
-## Algerian responsible AI projects
-
-https://nojoom.ai/
-
-https://www.echoroukonline.com/%D9%86%D8%AD%D9%88-%D8%AA%D9%82%D9%86%D9%8A%D9%86-%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%81
-
 
 ## IMF report 2024
 

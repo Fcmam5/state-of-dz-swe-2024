@@ -1,4 +1,5 @@
 ---
+id: technology-trends
 sidebar_position: 1
 ---
 

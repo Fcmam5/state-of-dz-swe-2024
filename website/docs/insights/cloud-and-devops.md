@@ -111,7 +111,7 @@ This may leave a gap that juniors and self-taught engineers have to fill, and to
 
 We recently started seeing more job offers for SRE/DevOps engineers specifically. 
 
-The more common thing is that companies look for "good developers with DevOps culture", they hire developers who can build software and run it. This was also reflected by our survey data, we see that many software developers also deal with cloud infrastructures, infrastructure provisioning, CI/CD pipelines, etc.
+The more common thing is that companies look for "good developers with DevOps culture", they hire developers who can build software and run it. This was also reflected by our survey data, we see that many software developers also maintain cloud infrastructures, infrastructure provisioning, CI/CD pipelines, etc.
 
 :::warning
 TBD: ELABORATE, ASK IF YOU WANT TO HIRE DEVOPS.
@@ -119,7 +119,7 @@ TBD: ELABORATE, ASK IF YOU WANT TO HIRE DEVOPS.
 
 When it comes to the most used tools, we see the following results:
 
-### VCS: Git is the most used one (no surprise), `nothing` is in the second place
+### VCS: Git is the most used one (no surprise), `nothing` is in second place
 
 We asked our participants [`Which version control systems do you primarily use for managing your software projects?`](/docs/appendix/raw-results#which-version-control-systems-do-you-primarily-use-for-managing-your-software-projects).
 
@@ -129,7 +129,7 @@ xychart-beta horizontal
   bar [471,35,5,3,1]
 ```
 
-As anyone would expect, [Git](https://git-scm.com/) is the most used solution by 91% of our participants. 
+As expected, [Git](https://git-scm.com/) is the most used solution by 91% of our participants. 
 
 However, we see that 6% are not using any version-control-system in their projects. In large companies, we see that some system administrators, security professionals, Telco and database engineers don't use VCS at their work.
 
@@ -137,7 +137,7 @@ This point that engineers in these companies do their work "manually", which sig
 
 Some ERP/CRM are bought and/or developed from external providers, then companies may only user their internal engineers to "manage" or just use them, therefor they may not develop that much.
 
-Other developers mainly use WYSIWYG tools like WinDev, or only build websites with CMS technologies such as WordPress.
+Other developers (Graph below) mainly use WYSIWYG tools like WinDev, or only build websites with CMS technologies such as WordPress.
 
 ```mermaid
 pie showData

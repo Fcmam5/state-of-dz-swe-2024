@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Challenges
+# Reported challenges
 
 To highlight the challenges Algerian software engineers face, we asked our participants *"What are the main challenges you face in your role as a software engineer in Algeria?"*, and the answers were the following (we redacted some free text inputs).
 
@@ -30,7 +30,7 @@ pie
 
 ### Bad Internet and 4G network coverage
 
-Bad Internet connection seems to be the #1 challenge for Algerian developers despite of the government's efforts to improve and modernize its infrastructure.
+Bad Internet connection is reported to be the #1 challenge for Algerian developers despite of the government's efforts to improve and modernize its infrastructure.
 
 According to [ARPCE](https://www.arpce.dz/fr/indic/internet), 52% of home internet memberships are ADSL, followed by 4G LTE, then 17% for FTTH.
 

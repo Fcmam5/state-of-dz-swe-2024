@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Remuneration
+# Salaries and remuneration
 
 In this section we present insights from our survey, examining salaries variation by experience and location. Salaries within the Algerian software engineering and IT sector operate in a dynamic and unregulated landscape. With the potential to range from **20 000 DZD** Algerian dinars to more than **150 000 DZD** (per month), while compensation packages differ greatly and are influenced by factors such as experience, skillset, location, and employer practices.
 
