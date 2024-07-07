@@ -54,3 +54,6 @@ custom_edit_url: https://github.com/Fcmam5/state-of-dz-swe-2024/tree/master/webs
 - Algérie 2030..poursuivre la construction de l’Algérie nouvelle - https://youtu.be/U14MOXA-LHc
 - Inauguration Ceremony of the Newly Appointed Members of the Scientific Council of Artificial Intelligence - https://www.mesrs.dz/index.php/en/2023/06/elementor-52608/
 - GIE Monétique: lancement de l'interopérabilité des paiements mobiles au cours de l'année 2024 - https://www.aps.dz/sante-science-technologie/169414-gie-monetique-lancement-de-l-interoperabilite-des-paiements-mobiles-au-cours-de-l-annee-2024
+- الحسابات البنكية للجزائريين بالخارج تحت الجرد والمراقبة- https://www.echoroukonline.com/الحسابات-البنكية-للجزائريين-بالخارج
+- Douanes: la mise en œuvre du nouveau système d’information avance bien - https://www.aps.dz/economie/154193-douanes-la-mise-en-oeuvre-du-nouveau-systeme-d-information-avance-bien
+- تطوير وسائل الدفع الإلكتروني والتحضير لقانون المالية 2025 في صلب اجتماع تنسيقي بوزارة المالية - https://www.aps.dz/ar/economie/163955-2025

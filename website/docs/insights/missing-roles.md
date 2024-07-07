@@ -11,6 +11,8 @@ The majority of our participants are developers with small percentages of other 
 
 """ Less offers, less profiles, more devs with skills in that role"""
 
+""" swiss knife person can't do everything """
+
 ## IoT and embedded systems engineers
 
 TBD

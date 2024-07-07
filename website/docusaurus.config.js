@@ -134,12 +134,12 @@ const config = {
                 to: "/blog",
               },
               {
-                label: "Subscribe",
-                href: "https://stateofalgeria.substack.com/",
-              },
-              {
                 label: "Feedback",
                 href: "/feedback",
+              },
+              {
+                label: "Subscribe",
+                href: "https://stateofalgeria.substack.com/",
               },
             ],
           },
@@ -148,18 +148,22 @@ const config = {
             items: [
               {
                 label: "Facebook",
-                to: "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fstate-of-algeria.dev%2Fdocs&amp;src=sdkpreparse",
+                href: "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fstate-of-algeria.dev%2Fdocs&amp;src=sdkpreparse",
               },
               {
                 label: "Twitter",
-                to: "https://twitter.com/intent/tweet?text=Check%20out%20The%20State%20of%20Algerian%20Software%20Engineering%202024:%20https%3A%2F%2Fstate-of-algeria.dev%2Fdocs%20%23dzDevSurvey24",
+                href: "https://twitter.com/intent/tweet?text=Check%20out%20The%20State%20of%20Algerian%20Software%20Engineering%202024:%20https%3A%2F%2Fstate-of-algeria.dev%2Fdocs%20%23dzDevSurvey24",
               },
               {
                 label: "LinkedIn",
-                to: "https://www.linkedin.com/sharing/share-offsite/?url=https://state-of-algeria.dev/docs",
+                href: "https://www.linkedin.com/sharing/share-offsite/?url=https://state-of-algeria.dev/docs",
               },
               {
-                html: "<small><em>Please use <strong style='user-select: all;-webkit-user-select: all;cursor:copy;'>#dzDevSurvey24</strong> hashtag</em></small>",
+                label: "Mentions & Discussions",
+                to: "/mentions-and-discussions",
+              },
+              {
+                html: "<p><small><em>Please use <strong style='user-select: all;-webkit-user-select: all;cursor:copy;'>#dzDevSurvey24</strong> hashtag</em></small></p>",
               },
             ],
           },

@@ -53,6 +53,7 @@ Individual contributions made by Algerians might also not be visible in reports 
 - https://github.com/aissat/easy_localization
 - https://github.com/kossa/laradminator
 - https://github.com/kossa/algerian-cities
+- https://github.com/bourabdelhadi/awsviz/
 
 ## Algerians' Contributions to Open Source
 

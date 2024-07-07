@@ -138,19 +138,30 @@ More government and official companies are using online platforms and job fairs 
 
 The Ministry of Post and Telecommunications lunched [Safqatic](https://www.safqatic.dz/), a tender portal to give more opportunities to startups specializing in the ICT.
 
-https://baosem.com/
+Lately, the [High Commission for Digitalization](https://hcn.gov.dz/) started publishing some job postings for modern specialties (even for entry-level positions). This might not only be a sign of transparency in hiring job listings, but it also shows a will to digitalize and to modernize the government's tech infrastructure.
 
-<a href="/img/stats/job-posting-on-fb.png">
+<a href="https://www.facebook.com/hcn.gov.dz/posts/pfbid0wFWbHycQDPZGWEM6DHg8VLHJDLWSgn3SVSmT1afa2bnNyqma8Lmj45xHzT9qBDcPl" target="_blank">
     <img src="/img/stats/job-posting-on-fb.png" alt="High Commission for Digitalization Post: Job offers" width="500"/>
 </a>
 
-however:
+The commission's pages on social media seem to post more job offers with competitive salaries (if we compare our findings for entry-level salries to the one presented in this offer).
 
-- releveees de notes for job
-- hiring informaticien: AIO
+<a href="https://www.facebook.com/hcn.gov.dz/posts/pfbid02KY1fMKG1dTd9KzsTBe4whdctXTBZtUnoWhBaynjpAsfC3teT2k9raG1K1cFwRh7Hl" target="_blank">
+    <img src="/img/stats/hcn-jr-post.png" alt="High Commission for Digitalization Post: Job offers" />
+</a>
 
-EMploitic
-Trustme.work
+<br/>
+<br/>
+
+In addition to such posts on social media, we see that more websites allocate spaces for applicants.
+
+<br/>
+
+Also, more companies are using employment fairs and online platforms to attract new candidates in IT and software engineering. Among online platforms we list:
+
+- [Emploitic](https://emploitic.com/)
+- [Trust Me](https://www.trustme.work/)
+- [Emploi Partner](https://www.emploipartner.com/)
 
 ## A Scientific council for Artificial intelligence 
 
@@ -160,20 +171,49 @@ The Scientific Council for AI serves as an advisory body focused on evaluating A
 
 ## Including diaspora
 
-- https://www.cca-paris.com/index.php/34-prochains-evenements/1336-even-csj
-- Yassir Berlin
+Many Algerians who live abroad are more willing to invest in Algeria and in Algerian talents. The government on its end encourages these interactions between Algeria and its diaspora.
 
-triki
-belkacem habba
+Diaspora may bring experience and new perspectives to the Algerian market, to either tackle local challenges or build digital products that can compete in the international market. Startups like [Yassir](https://yassir.com/), [Lablabee](https://www.lablabee.com/), [Namla](https://namla.cloud/), [Fentech](https://fentech.ai/) and [Nojoom](https://nojoom.ai/) are built by Algerians, they hire Algerian engineers and often sponsor events as a strategy to attract more talents. These startups expose their Algerian engineers to new challenges and international work standards.
 
-yassir
-namla
-lablabee
+Algerian associations in different foreign countries also have plans and project that aim to contribute to the Algerian tech industry. For example, the [Higher Council For Youth ](https://csj.gov.dz/) organized early this year a [Hackathon about Digital policies](https://www.cca-paris.com/index.php/34-prochains-evenements/1336-even-csj), and [Deutsch-Algerischer Akademiker und Studierender Verein e.V.(DAAS)](https://daas-ev.org/) who co-published the [DZGITAL: Digital transformation in Algeria](https://digitalarabia.network/media/pages/articles/grab-a-coffee-read/da075f7bd5-1637052954/strategy_paper_algerien_20210406.pdf) on late December 2020 with [Digital Arabia Network (DAN)](https://digitalarabia.network/).
+
+World-class technology leaders and researchers are also investing more in Algeria and in its raising tech industry.
+For ecample, Dr. Belgacem Haba, a researcher and an entrepreneur, started (and endorsed) different projects in Algeria, [Numidia Institute of Technology (NIT)](https://nit-edu.net/) being one of them.
 
 ## Digitalization
 
-e.g. douane
+Algeria is living a digital transformation led by different institutions and companies. The government set this as one of its priorities and established administrations like [The ministry of Digitalization and Statistics](https://mns.gov.dz/), the [Higher Council For Youth ](https://csj.gov.dz/), [The ministry of knowledge economy, startups and micro-enterprises](https://mdme.gov.dz/), etc.
+
+Some government agencies collaborated (or hired) with foreign companies to modernize or to establish their digital infrastructure, for example the [Algerian customs (Douane) collaborated with their South Korean peers](https://www.douane.gov.dz/spip.php?article293&lang=fr) on establishing a new information system to modernize the Algerian customs' infrastructure.
+
+To promote using digital alternatives and to encourage Algerians to use e-payments, some services are open online exclusively. For example, the [Ministry of Youth and Sports](https://www.mjs.gov.dz/) launched [Tadkirati](http://tadkirati.mjs.gov.dz/) to sell tickets for some matches.
+
+However, this approach cause several challenges when not planned and not executed properly. On the 5th of July 2024, the Ministry of Housing, National Planning and the City launched their long-waited [AAADL3 website registrations](https://aadl3inscription2024.dz/) exclusively online, the platform was offline for several hours and presented its users with several errors. Users of this platform reported multiple problems and accused the platform of not planning for peak of usage, and for not testing it properly.
+
+Digitalizing institutions create opportunities for different actors in the tech industry, including developers. As mentioned in [a previous section](#increasing-transparent-demand-on-it-talents), there's an increase on IT talents to work on digitalization projects. But if these projects are under bad management, and if human resources are not sourced and managed properly, digitalization will expose the country to new risks on the digital sphere.
 
 ## IMF report 2024
 
-https://www.imf.org/en/Publications/CR/Issues/2024/04/12/Algeria-2023-Article-IV-Consultation-Press-Release-Staff-Report-and-Statement-by-the-547687
+Published on [April 12, 2024](https://www.imf.org/en/Publications/CR/Issues/2024/04/12/Algeria-2023-Article-IV-Consultation-Press-Release-Staff-Report-and-Statement-by-the-547687), the new International Monetary Fund (IMF) reported that the Algerian economy is estimated to have grown by 4.2% in 2023, driven by a rebound in hydrocarbon production and strong performance in industry, construction, and service sectors.
+
+Medium-Term Prospects: Diversifying the economy and attracting private investment are crucial for sustained growth. The Monetary and Banking Law reforms aim to strengthen credit markets, develop long-term savings products, and enhance financial inclusion.
+
+Private Sector Potential: Sustained and bold reforms can unlock the potential of the private sector as a driver of growth and job creation.
+
+<!-- 
+Certainly! Let's dive deeper into points 3 and 4 from the IMF report on Algeria:
+
+3. **Medium-Term Prospects**:
+   - **Diversification of the Economy**: Algeria's economy has long been dependent on **hydrocarbon exports**. To ensure sustained growth, diversification is crucial. The government aims to promote non-oil sectors such as **agriculture**, **manufacturing**, and **services**. By reducing reliance on oil and gas, Algeria can mitigate vulnerability to commodity price fluctuations.
+   - **Private Investment**: Encouraging private investment is essential. The **Monetary and Banking Law** reforms aim to create a more conducive environment for investors. By improving access to credit, streamlining regulations, and enhancing investor protection, Algeria seeks to attract both domestic and foreign investment.
+
+4. **Private Sector Potential**:
+   - The private sector has untapped potential to drive economic growth and job creation. Bold reforms can unlock this potential. Key areas include:
+     - **Labor Market Reforms**: Enhancing labor market flexibility, promoting vocational training, and addressing skills mismatches can boost productivity.
+     - **State-Owned Enterprises (SOEs)**: Reforms in SOEs are critical. Improving governance, transparency, and efficiency will enhance their contribution to the economy.
+     - **Investment Climate**: Creating an attractive investment climate involves simplifying procedures, reducing bureaucracy, and ensuring legal certainty.
+
+In summary, Algeria's economic future hinges on diversification, private investment, and unleashing the private sector's potential. These reforms are pivotal for sustainable growth and resilience. 😊🌟
+ -->
+
+

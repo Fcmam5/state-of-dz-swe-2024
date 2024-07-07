@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Salaries and remuneration
 
-In this section we present insights from our survey, examining salaries variation by experience and location. Salaries within the Algerian software engineering and IT sector operate in a dynamic and unregulated landscape. With the potential to range from **20 000 DZD** Algerian dinars to more than **150 000 DZD** (per month), while compensation packages differ greatly and are influenced by factors such as experience, skillset, location, and employer practices.
+In this section we present insights from our survey, examining salaries variation by experience and location. Salaries within the Algerian software engineering and IT sector operate in a dynamic and unregulated landscape. With the potential to range from <nobr>**20 000 DZD**</nobr> Algerian dinars to more than <nobr>**150 000 DZD**</nobr> (per month), while compensation packages differ greatly and are influenced by factors such as experience, skillset, location, and employer practices.
 
 :::info
 
@@ -92,7 +92,7 @@ Which means that the definition of senior and mid-level is not fully agreed upon
 
 #### Trainees and entry-level engineers (2 years of professional experience, or less)
 
-Entry-level engineers who work for Algerian companies, or companies based in Algeria are paid salaries ranging between **20 000 DZD** and **150 000 DZD**.
+Entry-level engineers who work for Algerian companies, or companies based in Algeria are paid salaries ranging between <nobr>**20 000 DZD**</nobr> and <nobr>**150 000 DZD**</nobr>.
 
 ```mermaid
 xychart-beta horizontal

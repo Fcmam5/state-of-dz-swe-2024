@@ -284,19 +284,12 @@ We had one participant from Béchar and one from Constantine who work in AI and 
 
 [Dzair AI](https://www.dzair.ai/) initiative did a great job collecting a list of companies who use AI and data science, the list can be found on their website. The list shows that the vast majority (if not all) of the companies are located in Algiers, the capital.
 
-## Cybersecurity 
-
-TODO
-
-https://www.mpt.gov.dz/en/information-security-reference/
-
-:::warning
-TBD: Investigate
-:::
+<!-- 
 
 ## IoT and Embedded systems
 
-<!-- 
+TBD 
+
 https://www.facebook.com/DEOELECTRONIQUE
 https://deo-dz.com/
  -->

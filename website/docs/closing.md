@@ -13,8 +13,6 @@ custom_edit_url: https://github.com/Fcmam5/state-of-dz-swe-2024/tree/master/webs
 
 This document is not only meant for software development engineers or students. We vulgarized some terms and tried to write for a broad audience, we hope to reach business owners, entrepreneurs, government representatives and anyone who can invest in this field.
 
-TBD
-
 If we want to be more optimistic, we can throw some ideas out there, hopefully the government look into them:
 
 - Algeria has a national mission to ensure cyber security, and if the ministry of defense and its subsidiary are leading a lot of projects in this field. In the same time we see that Algeria's cybersecurity professionals find that `Mandatory military service` is one of the challenges, they even consider this one of the reasons to flee the country...
@@ -81,7 +79,9 @@ A report about e-commerce in Algeria has to be done to ride these first waves, a
 
 ### Unanswered questions or unexplored correlations
 
-If you think that we did not answer your questions in this work, let us know. But please, consider [supporting us](/support) to continue maintaining this project.
+We engage in answering questions about our project and sharing our findings through various public forums such as interviews and social media platforms. We also encourage bloggers and content creators to analyze and challenge our findings, and explore our data further more. We have created a page dedicated to collecting articles and recordings of discussions about this report: <nobr>[**Mentions and Discussions**](/mentions-and-discussions)</nobr>.
+
+If you think that we still did not answer your questions in this work, let us know. But please, consider [supporting us](/support) to continue maintaining this project.
 
 > I, Abdeldjalil won't be happy to work with Excel or Python to find anymore correlations for free. A donation may make me change my mind, or pay Oussama to do it for me.
 

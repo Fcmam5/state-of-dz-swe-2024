@@ -90,3 +90,23 @@ Some businesses use [Baridimob and BaridiWeb](https://www.poste.dz/services/prof
 The daily limit was upgraded from 50K DZD, to **200K DZD** since July 2023. 
 
 Transfers are subjected to a varying fee depending on the specified amount, fees are mentioned in [Algérie Poste website's FAQ page](https://www.poste.dz/faqM).
+
+
+<!-- In Algeria, CIBWEB, SATIM, and GIE Monétique are all related to the electronic payment system and financial transactions within the country. Here’s how they are connected:
+
+1. **CIBWEB**:
+   - **CIBWEB** is an online portal or platform used by cardholders in Algeria to manage their interbank payment cards (Carte Interbancaire - CIB). This platform allows users to check their card balances, transactions, and perform various other banking services online.
+
+2. **SATIM**:
+   - **SATIM** (Société d’Automatisation des Transactions Interbancaires et de Monétique) is the company responsible for the automation of interbank transactions and the management of electronic banking systems in Algeria. SATIM handles the infrastructure for card transactions and ensures the interoperability of different banks' cards within the country.
+
+3. **GIE Monétique**:
+   - **GIE Monétique** (Groupement d’Intérêt Economique Monétique) is an economic interest group that oversees the standardization, coordination, and development of electronic banking and payment systems in Algeria. It acts as a consortium of various Algerian banks to promote and regulate electronic payments, ensuring a unified and efficient electronic banking system across the country.
+
+### Relationships:
+
+- **SATIM** operates the infrastructure and systems that allow electronic transactions to occur, ensuring that different banks' cards can work together seamlessly. It provides the backbone for interbank transactions, which CIBWEB utilizes to offer its services to end users.
+- **GIE Monétique** plays a strategic role in the governance and regulatory framework within which SATIM operates. It ensures that the electronic payment systems, including those managed by SATIM, meet certain standards and are in line with the overall goals of the Algerian banking sector.
+- **CIBWEB** leverages the infrastructure provided by SATIM to deliver online services to cardholders, making it easier for them to manage their banking needs electronically.
+
+In essence, SATIM provides the technical infrastructure, GIE Monétique oversees and regulates the industry, and CIBWEB offers the user-facing services that depend on the underlying systems managed by SATIM. -->

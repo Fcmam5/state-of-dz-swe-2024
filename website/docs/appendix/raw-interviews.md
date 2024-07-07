@@ -333,7 +333,7 @@ We pulled back from trying to enter the Algerian market as we always stumbled up
 
 The unclear laws and the lack of legal awareness from different employees in administrations were some the reasons that made my CEO give up on the Algerian market.
 
-One of my teams who work from Algeria has some of the best engineers who works on the software we deploy on drones for our missions, unfortunately we cannot ship them drone so they can deploy their software directly and have a more efficient development and deployment pipeline.
+One of my teams who work from Algeria has some of the best engineers who work on the software we deploy on drones for our missions, unfortunately we cannot ship drones to them, so they can deploy their software directly and have a more efficient development and deployment pipeline.
 </details>
 
 <details>

@@ -18,6 +18,7 @@ custom_edit_url: https://github.com/Fcmam5/state-of-dz-swe-2024/tree/master/webs
 |      ML      | Machine learning                                                                  |
 |     OSS      | Open-source software                                                              |
 |     FOSS     | Free and open-source software                                                     |
+|     KYC      | Know Your Customer (or Know Your Client)                                          |
 
 ## Algeria-specific terms
 | Abbreviation | Meaning                                                                                                                                           |
@@ -44,4 +45,4 @@ custom_edit_url: https://github.com/Fcmam5/state-of-dz-swe-2024/tree/master/webs
 |     NIF      | Tax Identification Number (NIF)                                                                                                                   |
 |     GIE      | Electronic Payment Economic Interest Grouping (Groupement d’intérêt économique)                                                                   |
 |     EURL     | Entreprise unipersonnelle à responsabilité limitée  (Single Limited Liability Company )                                                           |
-|     SARL     | La société à responsabilité limitée (Algerian limited liability company)                                                                      |
+|     SARL     | La société à responsabilité limitée (Algerian limited liability company)                                                                          |
