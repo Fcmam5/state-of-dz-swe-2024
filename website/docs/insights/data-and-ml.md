@@ -25,6 +25,9 @@ However, according to our interviewees the application of this law and the workf
 
 Unfortunately, at the moment of writing this document ANPDP's portal (https://portail.anpdp.dz/) is down, and their website promise ([snapshot](https://web.archive.org/web/20240702231853/https://anpdp.dz/fr/reclamation-recours-et-plainte/)) to have a form to make complaints about data protection infringements.
 
+:::note Personal note
+I could report an incident related to data protection by calling ANPDP's number, when providing enough information about it, they asked to send them an email.
+:::
 ## Where Algerian data scientists and ML engineers work?
 
 According to our survey participants, the majority (70%) of data and machine learning engineers work on-site (or have a hybrid working model) for companies in the same country they live in. 11% work for remotely from Algeria for foreign companies.

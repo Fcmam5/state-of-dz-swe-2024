@@ -46,3 +46,5 @@ custom_edit_url: https://github.com/Fcmam5/state-of-dz-swe-2024/tree/master/webs
 |     GIE      | Electronic Payment Economic Interest Grouping (Groupement d’intérêt économique)                                                                   |
 |     EURL     | Entreprise unipersonnelle à responsabilité limitée  (Single Limited Liability Company )                                                           |
 |     SARL     | La société à responsabilité limitée (Algerian limited liability company)                                                                          |
+|    ANADE     | Agence nationale d'appui et de développement de l'entrepreneuriat (National Agency for Entrepreneurship Support and Development)                 |
+|    ANSEJ     | Agence nationale de soutien à l’emploi des jeunes (National Agency for Support and Employment of Young People)                                   |
