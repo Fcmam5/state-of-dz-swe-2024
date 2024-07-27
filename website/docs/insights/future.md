@@ -4,28 +4,25 @@ sidebar_position: 16
 
 # A bright future
 
-To conclude this report on a positive note, it's essential to highlight several improvement indicators. These indicators not only signify progress but also serve as beacons of hope, illuminating opportunities and providing inspiring examples for advancement.
+To conclude this report on a positive note, it's essential to highlight several improvement indicators. These indicators not only showcase progress but also serve as beacons of hope, highlighting opportunities and providing inspiring examples for advancement.
+In the following page we will list the main topics that make us hopeful and seem to be most impactfull for a brighter future. 
 
 ## Algeria 2030
 
-Late 2011, the previous Ministry of Prospective and Statistics collaborated with Korea Development Institute to establish the [Algerian National vision for 2030](https://www.kdevelopedia.org/Resources/view/Algeria-Establishment-of-national-vision-2030--04201210090122020) document, the ministry was dissolved and replaced with (or just renamed to) [The ministry of Digitalization and Statistics](https://mns.gov.dz/) that manages the [National Office of Statistics](https://www.ons.dz/).
+Late 2011, the previous Ministry of Prospective and Statistics (CNIS) collaborated with Korea Development Institute to establish the [Algerian National vision for 2030](https://www.kdevelopedia.org/Resources/view/Algeria-Establishment-of-national-vision-2030--04201210090122020) document, the ministry was since then dissolved and replaced with (or just renamed to) [The ministry of Digitalization and Statistics](https://mns.gov.dz/) that manages the [National Office of Statistics](https://www.ons.dz/). The progress towards Algerian National vision (**as defined in that document**) was not communicated since then. However, several initiatives (such as [Algeria 2030](https://www.algerie2030.com/) conference) and action plans have set 2030 as a target date for development in multiple sectors (tourism, health, industry, energy, etc). This date is also in [the president Abdelmadjid Tebboune's action plan](https://amb-algerie.fr/wp-content/uploads/2022/04/Pland-action-du-gouvernement-pour-la-mise-en-oeuvre-du-programme-du-president-de-la-republique-2021-fr.pdf) as a milestone in development of the health and energy sectors. 
 
-The progress towards Algerian National vision (**as defined in that document**) was not communicated since then. However, several initiatives (such as [Algeria 2030](https://www.algerie2030.com/) conference) and action plans have set 2030 as a target date for development in multiple sectors (tourism, health, industry, energy, etc). This date is also in [the president Abdelmadjid Tebboune's action plan](https://amb-algerie.fr/wp-content/uploads/2022/04/Pland-action-du-gouvernement-pour-la-mise-en-oeuvre-du-programme-du-president-de-la-republique-2021-fr.pdf) as a milestone in development of the health and energy sectors. 
-
-The newly established [ministry of knowledge economy, startups and micro-enterprises](https://mdme.gov.dz/), the [High Commission for Digitalization](https://hcn.gov.dz/) and the [ministry of Digitalization and Statistics](https://mns.gov.dz/) are leading several digitalization projects being implemented across different sectors. These projects are creating new opportunities for different actors in IT, thus improving the Algerian software engineering market. 
+More recently, the newly established [ministry of knowledge economy, startups and micro-enterprises](https://mdme.gov.dz/), the [High Commission for Digitalization](https://hcn.gov.dz/) and the [ministry of Digitalization and Statistics](https://mns.gov.dz/) are leading several digitalization projects being implemented across different sectors. These projects are creating new opportunities for different actors in IT, thus improving the Algerian software engineering market. So in a way, we are moving forward towards 2030 vision, we just aren't sure (or don't have it documented) what it is. 
 
 ## The rise of local cloud providers (approved by ARPCE)
 
-Using Cloud solutions in Algeria raises questions related to data residency and sovereignty, therefor, some companies consider using local hosting and local cloud providers. The Regulatory Authority of Post and Electronic Communications (ARPCE) is one of the regulators that certifies cloud providers.
-
-This authority shall protect clients (cloud tenants and consumers), where they act as a higher regulatory office that controls different cloud hosting companies, watches their compliance and acts as one of the bodies that clients can report issues to.
+Using Cloud solutions in Algeria raises questions related to data residency and sovereignty, therefor, some companies consider using local hosting and local cloud providers. The Regulatory Authority of Post and Electronic Communications (ARPCE) is one of the regulators that certifies cloud providers. This authority protects clients (cloud tenants and consumers), where they act as a higher regulatory office that controls different cloud hosting companies, watches their compliance, and acts as one of the authorities that clients can report issues to.
 
 :::tip Read more about Cloud in Algeria
 
 Are you interested in Cloud and DevOps topics? Head to our [Cloud and DevOps page](/docs/insights/cloud-and-devops).
 :::
 
-Having a clear and transparent processes ([as described in ARPCE's website](https://www.arpce.dz/fr/service/cloud)), cloud computing market shall be more democratized, more investors and entrepreneurs can be aware of the official requirements and processes to get their new competitive businesses certified.
+On one hand, having clear and transparent processes ([as described in ARPCE's website](https://www.arpce.dz/fr/service/cloud)), cloud computing market shall be more democratized as investors and entrepreneurs can be aware of the official requirements and processes to get their businesses certified.
 
 Clients on the other hand, can see the list of the certified cloud providers on [ARPCE's website](https://www.arpce.dz/fr/service/cloud) if they want to go to an Algerian hosting service or cloud provider.
 
@@ -42,11 +39,11 @@ Are you interested in Data protection laws in Algeria? Head to [Data and Machine
 
 Entities who want to deal with personal data can apply to be approved through the [ANPDP's online portal](https://portail.anpdp.dz/).
 
-From our view, and according to multiple interviews we conducted: *"While on paper (and on different media channels) this initiative seems excellent, such initiative seem to be in its early stages. Many companies (and government websites) are not compliant with data protection laws. Some companies don't care, or they might not be aware of an entity like ANPDP.*
+In our view, and according to multiple interviews we conducted: *"While on paper (and on different media channels) this initiative seems excellent, such initiative seem to be in its early stages. Many companies (and government websites) are not compliant with data protection laws. Some companies don't care, or they might not be aware of an entity like ANPDP.*
 
 *ANDPD is also facing technical issues on its online platforms. We tried to reach out to them by email to confirm that our study is compliant but we did not hear back from them. We also tried to open the link to their online platform and it seems to be offline (for the moment at least)."*
 
-Establishing such an entity, and bringing data protection topics on  different media channels is a step forward in the Algerian digitalization journey.
+Establishing such an entity, and bringing data protection topics on different media channels is a step forward in the Algerian digitalization journey.
 
 ## The auto-entrepreneur official status
 
@@ -54,29 +51,29 @@ The National Agency of auto-entrepreneurs and self-employment (ANAE) recently ma
 
 [ANAE](https://www.anae.dz/) (created by the [ministry of knowledge economy, startups and micro-enterprises](https://mdme.gov.dz/)) aims to implement and to promote new processes to encourage entrepreneurship and to regulate freelancers' and remote workers' situation.
 
-The agency promises to have a fast and easy onboarding process, where entrepreneurs and freelancers can register online get request their cards which allows them to onboard to the official financial system and start contributing to their health insurance, retirement funds, etc.
+The agency promises to have a fast and easy onboarding process, where entrepreneurs and freelancers can register online to get/request their cards which allows them to start contributing to their health insurance, work insurance, retirement funds, etc.
 
 :::tip Read more about freelance and remote working
 
 Are you interested in learning about freelance and remote working from Algeria? Head to [Remote working page](/docs/insights/remote-working).
 :::
 
-This is an opportunity for many freelancers to approach entrepreneurship more easily and for the rest of the population to experiment with the concept at low entry cost. The government also benefits from the ecosystem visibility created by the auto-entrepreneur card. 
+This is an opportunity for many freelancers to approach entrepreneurship more easily and for the rest of the population to experiment with the concept at low entry cost. The government also benefits from the transparency created by the auto-entrepreneur card to better understand the ecosystem.
 
 ## Startup ecosystem and its impact
 
-Being the main focus of the [ministry of knowledge economy, startups and micro-enterprises](https://mdme.gov.dz/), the [startup.dz](https://startup.dz/) is building bridges between the government, entrepreneurs, talents, academia and different investors.
+Being the main focus of the [ministry of knowledge economy, startups and micro-enterprises](https://mdme.gov.dz/), the [startup.dz](https://startup.dz/) initiative is building bridges between the government, entrepreneurs, talents, academia and different investors.
 
 Since launching the platform, the ministry and different agencies worked on promoting entrepreneurship and innovation. Such initiatives create more opportunities for starting new businesses, and for creating more demand on talents.
 
 In the recent years, multiple conferences and meetups took place both nationally and internationally to extend the Algerian startup scene, to learn and to benefit from different actors in different areas.
 
 
-The government is encouraging startups and innovation by establishing bodies like [Algeria Venture](https://aventure.dz/) the public startup accelerator, [National Agency for Entrepreneurship Support and Development (ANADE)](https://anade.dz/) a rebranding of [National Agency for Support and Employment of Young People (ANSEJ)](https://www.mf.gov.dz/index.php/fr/grands-dossiers/115-dispositif-ansej), and the [ministry of knowledge economy, startups and micro-enterprises](https://mdme.gov.dz/). These bodies fund, educate and promote entrepreneurs to rise their risk appetite, and expose them to new business opportunities with programs like [**The Algeria Startup learning Expedition Program (ASEP)**](https://asep.dz/) that aims expose Algerian startups to world-class innovation ecosystems in China, the United States, and South Korea.
+The government is encouraging startups and innovation by establishing bodies like [Algeria Venture](https://aventure.dz/) the public startup accelerator, [National Agency for Entrepreneurship Support and Development (ANADE)](https://anade.dz/) a rebranding of [National Agency for Support and Employment of Young People (ANSEJ)](https://www.mf.gov.dz/index.php/fr/grands-dossiers/115-dispositif-ansej), and the [ministry of knowledge economy, startups and micro-enterprises](https://mdme.gov.dz/). These bodies fund, educate and encourage entrepreneurs to raise their risk appetite, and expose them to new business opportunities with programs like [**The Algeria Startup learning Expedition Program (ASEP)**](https://asep.dz/) that aims expose Algerian startups to world-class innovation ecosystems in China, the United States, and South Korea.
 
 With the "Startups wave", the government is encouraging entrepreneurship and innovation among young entrepreneurs, programs for diaspora, where Algerians living abroad can get facilitation to invest and to have their own startups in Algeria. And programs for students where students can work on thesis with business valid propositions (Startup as "PFE").
 
-These initiatives encourage small gigs to grow into proper businesses, and encourage having more active venture capitals (VCs).
+These initiatives encourage small gigs to grow into proper businesses, and encourage having more active venture capital activities (VCs).
 
 ## E-payments and m-payments
 
@@ -90,7 +87,7 @@ The group comprises 19 members, including 18 banks and Algerie Poste, with the B
 
 Early June this year, SATIM announced their new m-payment solution: [Switch Mobile](https://www.facebook.com/photo.php?fbid=442080865438736&set=a.164290759884416&type=3).
 
-On another hand, Algeria Post's [BaridiWeb and BaridiMob](https://www.poste.dz/services/professional/baridimobweb) seem to be widely used, and getting more popularity among Algerians.
+Consequently, Algeria Post's [BaridiWeb and BaridiMob](https://www.poste.dz/services/professional/baridimobweb) seem to be widely used, and getting more popularity among Algerians.
 
 ## Better Internet & QoS
 
@@ -211,7 +208,7 @@ Future article coming on this topic! Stay tuned.
 
 ## IMF report 2024
 
-Published on [April 12, 2024](https://www.imf.org/en/Publications/CR/Issues/2024/04/12/Algeria-2023-Article-IV-Consultation-Press-Release-Staff-Report-and-Statement-by-the-547687), the International Monetary Fund (IMF) reported that the Algerian economy is estimated to have grown by 4.2% in 2023, driven by a rebound in hydrocarbon production and strong performance in industry, construction, and service sectors.
+Published on [April 12th, 2024](https://www.imf.org/en/Publications/CR/Issues/2024/04/12/Algeria-2023-Article-IV-Consultation-Press-Release-Staff-Report-and-Statement-by-the-547687), the International Monetary Fund (IMF) reported that the Algerian economy is estimated to have grown by 4.2% in 2023, driven by a rebound in hydrocarbon production and strong performance in industry, construction, and service sectors.
 
 Medium-Term Prospects: Diversifying the economy and attracting private investment are crucial for sustained growth. The Monetary and Banking Law reforms aim to strengthen credit markets, develop long-term savings products, and enhance financial inclusion.
 

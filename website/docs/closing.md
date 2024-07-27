@@ -95,8 +95,6 @@ This document has bits and pieces that pin-point to the fact that things are mov
 
 I'm sorry if this work was incomplete, or it wasn't up to your standards, or if you had to read through long pages without getting the value you expected.
 
-I'm sorry if I missed something unintentionally.
-
 I hope we will have a more solid work in the next one, with sponsors and with a dedicated and a professional team.
 
 <div dir="rtl" align="center">
