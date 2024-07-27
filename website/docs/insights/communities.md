@@ -100,6 +100,11 @@ We also know many other (and very active) IT students clubs such as:
 - [UDev (USTO)](https://www.facebook.com/UDevCommunity)
 - [GDSC Usto-Mb](https://www.facebook.com/GDSCUSTOMB)
 
+:::tip Find more!
+
+Find a list by the ministry of Higher education for scientific clubs on 2021-2022 on: [Répertoire des clubs scientifiques de l'année 2021/2022](https://www.mesrs.dz/wp-content/uploads/2022/04/Repertoire-des-clubs-scientifiques-de-lannee-2021-2022.pdf)
+:::
+
 ### Tech events and hackathons
 
 Meetups, conferences and hackathons are places where different actors meet and learn. Hackathons are usually organized by students clubs, for example [Hack !T](https://hackit2018.cse.club/) and [StartHack](https://www.facebook.com/StartHackDz) are hackathons organized by students and often hosted in universities (or engineering schools).
@@ -123,16 +128,35 @@ In addition to the national events, some clubs and organizations host editions o
 ### Associations and organizations
 
 - [INJAZ El Djazair](https://www.facebook.com/InjazElDjazair)
-- [](https://www.gaan.dz/)
+- [Algerian Group of Digital Actors (GAAN)](https://www.gaan.dz/)
 
 - [Free Software & GNU/Linux Algeria (الجمعية الثقافية العلمية البرمجيات الحرة و غنو/لينكس)](https://www.facebook.com/fsgla)
 - [CNCF Oran](https://community.cncf.io/oran/)
 - [ORIA](https://www.facebook.com/ORIA.ORAN) *(Oran Robotique et IA)*
 
-- [GDG]
-
 - [AWS Users Group Algeria](https://www.meetup.com/aws-algeria/)
 - [OWASP Algiers Chapter](https://owasp.org/www-chapter-algiers/)
+
+At this date (July 2024), we counted 17 active [Google Developer Groups (GDG)](https://gdg.community.dev/) in Algeria:
+
+- [GDG Oran](https://gdg.community.dev/gdg-oran)
+- [GDG Algiers](https://gdg.community.dev/gdg-algiers/)
+- [GDG Batna](https://gdg.community.dev/gdg-batna/)
+- [GDG Constantine](https://gdg.community.dev/gdg-constantine)
+- [GDG El Bayadh](https://gdg.community.dev/gdg-el-bayadh)
+- [GDG El Oued](https://gdg.community.dev/gdg-el-oued)
+- [GDG Ghardaia](https://gdg.community.dev/gdg-ghardaia)
+- [GDG Les Rosiers](https://gdg.community.dev/gdg-les-rosiers)
+- [GDG M'Sila](https://gdg.community.dev/gdg-msila)
+- [GDG Mascara](https://gdg.community.dev/gdg-mascara)
+- [GDG Medea](https://gdg.community.dev/gdg-medea)
+- [GDG Naama](https://gdg.community.dev/gdg-naama)
+- [GDG SBA, Sidi Bel Abbès Province](https://gdg.community.dev/gdg-sba)
+- [GDG Setif](https://gdg.community.dev/gdg-setif)
+- [GDG Tiaret](https://gdg.community.dev/gdg-tiaret)
+- [GDG Tizi Ouzou](https://gdg.community.dev/gdg-tizi-ouzou)
+- [GDG Tlemcen](https://gdg.community.dev/gdg-tlemcen)
+
 
 ### Groups and pages on social media
 
@@ -173,7 +197,7 @@ Some content creators focus on specific niche/stack, for example [Charfaoui Youn
 
 While other creators like [Houari Zegai](https://twitter.com/HouariZegai) and [Bour Abdelhadi](https://www.facebook.com/mabdelhadib) choose to write in Arabic.
 
-Content creators like [Karim (@codewkarim)](https://www.instagram.com/codewkarim/) choose to create content in Algerian dialect.
+Content creators like [Karim (@codewkarim)](https://www.instagram.com/codewkarim/) and [Abdelali Zekiri (Softwe3)](https://www.youtube.com/@Zekiri.Abdelali) choose to create content in Algerian dialect.
 
 We can find many other tech content creators on different social media platforms, such as:
 
@@ -193,10 +217,6 @@ There are some Discord servers with different channels, such as:
 - [dev dz](https://discord.gg/wazVzPn2C6)
 - [UltrasDZCoder Programming](https://discord.gg/m29vTMhx6S)
 - [Bug Bounty DZ](https://discord.gg/dF67vmB8)
+- [Algeria Tech Hub](https://discord.gg/hufYhQDV)
 
-## Challenges
-
-
-TBD: 
-https://www.mesrs.dz/wp-content/uploads/2022/04/Repertoire-des-clubs-scientifiques-de-lannee-2021-2022.pdf
-
+There are a few Algerian podcasts focused on software developement, such as [رحلة مبرمج - Developer jounrey](https://www.facebook.com/devjourneypodcast) where [Houari Zegai](https://twitter.com/HouariZegai) and [Charfaoui Younes](https://twitter.com/CharfaouiYounes) (mentioned earlier in content creators section) discuss several technical and non technical topics related to software craftsmanship.

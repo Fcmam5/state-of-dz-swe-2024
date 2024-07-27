@@ -241,7 +241,9 @@ Among these services, we often see the following ones getting recommended on pub
 
 According to the law  [N° 18 of May 10th, 2018 Article 8](https://www.joradp.dz/FTP/JO-FRANCAIS/2018/F2018028.pdf): Algerian e-commerce websites **should** be hosted in Algeria, and they **must** use `.com.dz` domains.
 
-However, `.dz` domain names are provided for free for registered trademark at [INAPI](https://inapi.org/) (TBD).
+:::tip
+`.dz` domain names are provided for free for registered trademark at [INAPI](https://inapi.org/).
+:::
 
 According to the [Algerian national registry of domain names](https://www.nic.dz/), 16815 domain names have been created through [different registrars](https://www.nic.dz/registrar#sec2), the top 5 registrars are the following:
 

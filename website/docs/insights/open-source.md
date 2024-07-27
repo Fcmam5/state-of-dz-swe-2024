@@ -120,11 +120,6 @@ As stated in our [communities section](/docs/insights/communities.md), there are
 
 Some students groups like [Team Open Minds](https://github.com/open-minds/) promotes GNU/Linux and Open Source software, and teaches students how to use Git/GitHub and encourages Open Source culture among them.
 
-:::warning
-TBD
-:::
-
-
 ## Algerian Companies maintaining Open Source projects
 
 - https://github.com/BIGmama-technology

@@ -48,15 +48,12 @@ Fast-growing startups like [Yassir](https://maystro-delivery.com/) and [Maystro 
 
 *This may cause compliance challenges where data has to be stored and processed in Algeria, or it would require requesting exceptions from ANPDP*
 
-:::warning
-TBD: How are they managing data on the cloud
-:::
+According to some interviewees, some startups and working on lawyers to clarify means to be compliant with Algerian regulations. In some cases, they use a hybrid approach between local and public (international) cloud providers.
 
+While other companies use public cloud providers ignoring or not knowing about different Algerian regulations.
 
-:::info
-
+:::tip
 Google Cloud published [Yassir Case Study](https://cloud.google.com/customers/yassir) recently, where they talk about how Yassir is building their superapp on GCP.
-
 :::
 
 ### Algerian cloud providers
@@ -104,20 +101,52 @@ xychart-beta horizontal
   bar [12,9,6,4,3,1,1,1,1]
 ```
 
-The numbers are alarming, the lack of challenging opportunities and incentives (explained in [Challenges](/docs/insights/challenges) section) are encouraging Algerian talents to leave the country.
+The numbers are alarming, as 100% of our participants with DevOps/SRE titles are willing to leave the country if the have better opportunities abroad. This is mainly due to the lack of challenging opportunities and incentives (explained in [Challenges](/docs/insights/challenges) section), and due to the lack of roles specialized in DevOps and site reliability engineering.
 
-This may leave a gap that juniors and self-taught engineers have to fill, and to fill that we need experienced engineers leading initiatives, and companies accepting challenges knowing that their teams can handle it.
+According to our interviews: Some companies prefer to hire "good developers with DevOps culture", or developers who can build, deploy and maintain application runtime environments. This was also reflected by our survey data, we see that many software developers also maintain cloud infrastructures, infrastructure provisioning, CI/CD pipelines, etc.
 
+We notice a lack of mature DevOps cultures in several companies, this is reflected by the lack of job offers form different companies, and from the different runtime and availability issues.
 
-We recently started seeing more job offers for SRE/DevOps engineers specifically. 
+Some government websites suffer to keep a decent uptime on peak hours on big events (publishing baccalaureate exam results, AADL registrations, etc), other websites and applications face technical problems that are often noticed by users, or exploited by threat actors, for example: 
+- [ANAE.dz](https://anae.dz/) had their `DEBUG` setting set to true, which made all their Django website errors visible.
+- A high profile website sends one of their databases password to the client.
+- A have a public (unauthenticated) uploads directors, which makes their users' ID cards exposed (*we reported this to different entities, and we're chasing them for a week now to patch this*).
+- Some critical website were breached and threat actors provide "Live access" to databases, which may lead that no proper monitoring was in place.
 
-The more common thing is that companies look for "good developers with DevOps culture", they hire developers who can build software and run it. This was also reflected by our survey data, we see that many software developers also maintain cloud infrastructures, infrastructure provisioning, CI/CD pipelines, etc.
+However, we notice a will to change and to improve the government's digital infrastructure, as we see that the [High Commission for Digitalization](https://hcn.gov.dz/) is hiring DevOps engineers:
 
-:::warning
-TBD: ELABORATE, ASK IF YOU WANT TO HIRE DEVOPS.
+<a href="https://www.facebook.com/hcn.gov.dz/posts/pfbid0wFWbHycQDPZGWEM6DHg8VLHJDLWSgn3SVSmT1afa2bnNyqma8Lmj45xHzT9qBDcPl" target="_blank">
+    <img src="/img/stats/job-posting-on-fb.png" alt="High Commission for Digitalization Post: Job offers" width="500"/>
+</a>
+
+We also notice that they started using modern technologies, for example we noticed that they used Kubernetes in one of their websites (*Yes, we shouldn't see that, but they had a misconfiguration that went to production*).
+
+<br/>
+
+The lack of a mature DevOps culture might be a result of a gap in skills and in the market, as seniors are leaving the country or working for foreign companies. This will leave the few open positions to juniors and self-taught engineers who may not have a proper mentorship.
+
+:::info Why companies can't hire senior engineers who are in Algeria?
+
+Some seniors prefer to work remotely from Algeria, as explained in our [Remote working](/docs/insights/remote-working) page: Salaries from remote jobs are hard to compete with.
 :::
 
-When it comes to the most used tools, we see the following results:
+To close that gap, some companies are trying to solve the problem in different ways:
+
+### Hiring experts from abroad
+
+Yassir, being one of the most mature tech startups in the country faces several technical challenges. With their reputation and their market shares at risk (TBD: find better words).
+
+Yassir is expending to other countries and hiring engineers from different countries, when asking [Yassir's Berlin Tech Hub](https://medium.com/@Yassirtech/why-has-yassir-launched-a-tech-hub-in-berlin-e2f9bc1ce464) (aka. Yassir GmbH) management: why Berlin? Why not hiring Algerians who live in Algeria? We learned that the company is trying to get seniors and experts who had long years of hands-on experience, and that's most likely easier to find in a technology hub like Berlin.
+
+The company also hunt for top Algerian talents in DevOps field, Walid0
+
+### Upsklling and training local talents
+
+TBD: hiring interns
+
+
+
+## Most used tools according to our survey
 
 ### VCS: Git is the most used one (no surprise), `nothing` is in second place
 
@@ -164,11 +193,6 @@ pie showData
 
 We asked our participants [`Which CI/CD technology do you use?`](/docs/appendix/raw-results#which-cicd-technology-do-you-use), 31% replied that they don't use any CI/CD tools.
 
-:::warning
-TODO TBD Who don't?
-:::
-
-
 Teams who have CI/CD pipelines use different solutions that can be broken down as the following:
 
 - Solutions provided by their repositories hosting services such as GitHub Actions, GitlabCI and Bitbucket Pipelines. 
@@ -197,8 +221,6 @@ xychart-beta horizontal
 
 <br/>
 
-We see that more than 51% of our participants use Docker, while 27% are using Shell/Bash scripts.
+We see that more than 51% of our participants use Docker, while 27% are using Shell/Bash scripts, while other companies are using "modern" platform provisioning tools such as Terraform, Ansible, Puppet and Chef.
 
-We see that Kubernetes is being used by different companies, from startups to government agencies.
-
-IaC tools like Terraform, Ansible, Puppet and Chef are used by **TBD WHO**
+Kubernetes is being used by different companies, from startups to government agencies.

@@ -185,3 +185,5 @@ We could not find any Algerian bug bounty program, reporting security bugs can g
 However, there are some unofficial rewards provided by some companies. When a vulnerability is critical and the application/website owners are contacted, they can pay the reporters (according to our interview with [software agency](/docs/appendix/raw-interviews#can-pay-bounties), and a security engineer).
 
 The lack of clear legal frameworks and an established culture might be demotivating for security experts and enthusiasts, some engineers may find working in cybersecurity risky, and others prefer to leave the country or work remotely for foreign companies with a more established culture, and for a higher salary.
+
+<!-- TBD Harsh reality, data breaches -->
