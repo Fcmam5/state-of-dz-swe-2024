@@ -58,7 +58,7 @@ The agency promises to have a fast and easy onboarding process, where entreprene
 Are you interested in learning about freelance and remote working from Algeria? Head to [Remote working page](/docs/insights/remote-working).
 :::
 
-This is an opportunity for many freelancers to approach entrepreneurship more easily and for the rest of the population to experiment with the concept at low entry cost. The government also benefits from the trasparency created by the auto-entrepreneur card to better understand the ecosystem. 
+This is an opportunity for many freelancers to approach entrepreneurship more easily and for the rest of the population to experiment with the concept at low entry cost. The government also benefits from the transparency created by the auto-entrepreneur card to better understand the ecosystem.
 
 ## Startup ecosystem and its impact
 

@@ -94,7 +94,6 @@ This document intentionally tried to have a positive note despite of the necessi
 This document has bits and pieces that pin-point to the fact that things are moving forward, not judging if it's the right timing, the right speed, or in the right directions. We just wanted to draw a landscape and show its green parts.
 
 I'm sorry if this work was incomplete, or it wasn't up to your standards, or if you had to read through long pages without getting the value you expected.
-if I missed something unintentionally.
 
 I hope we will have a more solid work in the next one, with sponsors and with a dedicated and a professional team.
 
