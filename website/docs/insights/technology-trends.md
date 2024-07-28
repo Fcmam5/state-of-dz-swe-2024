@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Trends
 
-To understand trends in Algerian landscape, we asked our participants some questions about the technologies they use. To support our results, we also interviewed some experts to enrich this report, we conducted some interviews with some developers and managers in different startups and government companies.
+To better understand trends in Algerian software engineering landscape, we asked our participants some questions about the technologies they use. We also interviewed some experts to enrich this report. Some of the interviews were with some developers and managers in different startups and government companies.
 
 :::tip Curious to see findings from a survey done in 2020?
 
@@ -88,7 +88,7 @@ This section tells us that the growth of Javascript is currently affecting Alger
 
 Java has always been one of the most taught programming languages in Algerian universities (for OOP classes at least), and with the rising interest in AI/ML and data science, some universities started introducing Python earlier in their curriculums which contributed to having more Python developers.
 
-According to our survey data, a corelation formula between which languages are used and job titles showed that Python is mostly used in backend web development, in data science, Machine Learning, and networking and cyber security.
+According to our survey data, a corelation formula between which languages are used and job titles showed that Python is mostly used in backend web development, in data science, machine Learning, and networking and cyber security.
 
 ```mermaid
 xychart-beta horizontal
