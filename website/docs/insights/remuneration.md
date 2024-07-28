@@ -17,6 +17,7 @@ Our participants' monthly salary distribution was the following:
 
 ```mermaid
 pie
+    "I'm volunteering; or I work for free" : 21
     "less than 20K DZD" : 5
     "20K to less than 40K DZD" : 25
     "40K to less than 60K DZD" : 71
@@ -24,8 +25,7 @@ pie
     "80K to less than 100K DZD" : 54
     "100K to less than 150K DZD" : 36
     "more than 150K DZD" : 35
-    "I'm volunteering; or I work for free" : 21
-   
+    
 ```
 
 Remote working salaries and remuneration from freelance opportunities also varies. From few euros a month for small gigs, to much higher salaries that go beyond 60K euros a year for full-time employees.
@@ -38,13 +38,13 @@ In this section we will also compare our findings with previous [research done i
 
 ### Working in Algeria
 
-To understand salaries better we ran a series of algorithms to find which parameter (location, job title and/or tech stack, years of experience, etc.) has the most influence over others.
+To understand salaries better we ran a few analyses to find which parameter (location, job title and/or tech stack, years of experience, etc.) has the most influence on the salary.
 
 Initially, we had some questions and assumptions to answer, such as:
 
 - *Are the developers who work in Algiers and Oran paid better than developers with the same years of experience in other Wilayas?*
-- *Do technology stacks influence salaries? Are backend developers paid more than mobile developers?*
-- *Can we tell that years of experience are the most important factor? The more senior a person is the higher is their salary compared to their peers in other Wilayas?*
+- *Does technology stacks influence salaries? Are backend developers paid more than mobile developers?*
+- *Can we tell that years of experience are the most important factor? Are the more senior persons paid higher compared to their peers in other Wilayas?
 
 :::tip
 
@@ -92,7 +92,7 @@ Which means that the definition of senior and mid-level is not fully agreed upon
 
 #### Trainees and entry-level engineers (2 years of professional experience, or less)
 
-Entry-level engineers who work for Algerian companies, or companies based in Algeria are paid salaries ranging between <nobr>**20 000 DZD**</nobr> and <nobr>**150 000 DZD**</nobr>.
+Entry-level engineers who work for Algerian companies, or companies based in Algeria are paid salaries ranging between <nobr>**20 000 DZD**</nobr> and <nobr>**150 000 DZD**</nobr>. Below is a breakdown of the number of entry-level participants per salary range.
 
 ```mermaid
 xychart-beta horizontal
@@ -141,7 +141,7 @@ xychart-beta horizontal
 
 Engineers in this category, and who are paid high salaries going up to <nobr>**150 000 DZD**</nobr> or more, are mainly based in Algiers and have managerial/leadership roles, or consultants and employees who work remotely from other Wilayas (Aïn Témouchent, Aïn Defla, Boumerdès, Oran, etc).
 
-Engineers who are paid salaries going up to <nobr>**100 000 DZD**</nobr> mainly work for small with 2 to 10 employees, to medium companies with 21 to 50 employees. Our participants in this category live and work in companies based in Tlemcen, Sétif, Mila and Annaba, or work remotely for some Algerian companies from their wilayas.
+Engineers who are paid salaries going up to <nobr>**100 000 DZD**</nobr> mainly work for small companies with 2 to 10 employees, to medium companies with 21 to 50 employees. Our participants in this category live and work in companies based in Tlemcen, Sétif, Mila and Annaba, or work remotely for some Algerian companies from their wilayas.
 
 #### Senior engineers
 
@@ -212,7 +212,7 @@ Remote workers exercise their work in different forms, 46% of the participants w
 To explore freelancers' income, we analysed public Algerian freelancers' data from [Upwork](https://www.upwork.com/), and we had the following:
 
 ```mermaid
-xychart-beta horizontal title "Algerian freelancers on Upwork by hourly rate (in $)"
+xychart-beta horizontal title "# Algerian freelancers on Upwork by hourly rate (in $)"
   x-axis ["10","20","30","40","50","60","70"]
   bar [124,99,47,15,14,3,2]
 ```
@@ -224,7 +224,7 @@ This data is also correlated with findings from other websites like [peopleperho
 Some jobs offer other perks on top of salaries, according to our survey data we have the following:
 
 ```mermaid
-xychart-beta horizontal
+xychart-beta horizontal title "Most common job perks and benefits from our survey"
   x-axis ["Paid Time Off (Vacation, Holidays)","Remote Work Options","Health Insurance","Flexible Working Hours","Retirement/Pension Plan","Professional Development Opportunities","Company-provided Equipment","Bonuses","Stock Options","Housing","Gym/Wellness Memberships","Nothing","Transport"]
   bar [130,126,123,111,91,86,68,56,19,19,14,3,1]
 ```
