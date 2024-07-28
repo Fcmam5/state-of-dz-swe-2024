@@ -285,17 +285,3 @@ Engineers who are employed in Algeria, work for companies with different sizes, 
 We had one participant from Béchar and one from Constantine who work in AI and data fields for Algerian companies, very few participants work remotely for foreign companies or as freelancers. The majority work in Algiers for Algerian or foreign companies on-site from their offices there.
 
 [Dzair AI](https://www.dzair.ai/) initiative did a great job collecting a list of companies who use AI and data science, the list can be found on their website. The list shows that the vast majority (if not all) of the companies are located in Algiers, the capital.
-
-<!-- 
-
-## IoT and Embedded systems
-
-TBD 
-
-https://www.facebook.com/DEOELECTRONIQUE
-https://deo-dz.com/
- -->
-
- <!-- 
- https://rmbtech.tech/
-  -->

@@ -87,7 +87,7 @@ For example, in the following graph we compared the minimum admission scores for
 
 </details>
 
-We see that the minimum admission score is raising, the higher success rate in baccalaureate, the higher admission score is.
+We see that the minimum admission score is rising, the higher success rate in baccalaureate, the higher admission score is.
 
 Note that universities have different requirements ([see results for 2023](https://www.esi.dz/wp-content/uploads/2023/08/Moyennes-minimales-BAC2023.pdf)).
 

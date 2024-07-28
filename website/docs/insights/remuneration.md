@@ -96,6 +96,7 @@ Entry-level engineers who work for Algerian companies, or companies based in Alg
 
 ```mermaid
 xychart-beta horizontal
+  title "Trainees and entry-level salary distribution by range (# of participants)"
   x-axis ["Volunteering/Work for free","less than 20K DZD","20K to less than 40K DZD","40K to less than 60K DZD","60K to less than 80K DZD","80K to less than 100K DZD","100K to less than 150K DZD"]
   bar [5,1,12,37,18,12,3]
 ```
@@ -111,6 +112,7 @@ Engineers with 3 to 5 years of experience, and who work for Algerian companies a
 
 ```mermaid
 xychart-beta horizontal
+  title "Juniors to mid-levels salary distribution by range (# of participants)"
   x-axis ["Volunteering/Work for free","Less than 20K DZD","20K to less than 40K DZD","40K to less than 60K DZD","60K to less than 80K DZD","80K to less than 100K DZD","100K to less than 150K DZD","More than 150K DZD"]
   bar [1,1,5,16,22,16,13,8]
 ```
@@ -130,6 +132,7 @@ Mid-level to early seniors who work for Algerian companies are paid salaries ran
 
 ```mermaid
 xychart-beta horizontal
+  title "Mid-level to early senior salary distribution by range (# of participants)"
   x-axis ["40K to less than 60K DZD","60K to less than 80K DZD","80K to less than 100K DZD","100K to less than 150K DZD","More than 150K DZD"]
   bar [3,3,6,8,5]
 ```
@@ -146,6 +149,7 @@ Engineers with 11 to 15 years of experience, and who work for Algerian companies
 
 ```mermaid
 xychart-beta horizontal
+  title "Senior engineers salary distribution by range (# of participants)"
   x-axis ["40K to less than 60K DZD","60K to less than 80K DZD","80K to less than 100K DZD","100K to less than 150K DZD","More than 150K DZD"]
   bar [5,3,4,6,4]
 ```
@@ -168,6 +172,7 @@ Salaries for managers also vary between <nobr>**60 000 DZD**</nobr> to more than
 
 ```mermaid
 xychart-beta horizontal
+  title "Executives and managers salary distribution by range (# of participants)"
   x-axis ["40K to less than 60K DZD","60K to less than 80K DZD","80K to less than 100K DZD","100K to less than 150K DZD","More than 150K DZD"]
   bar [1,2,2,1,3]
 ```
@@ -177,6 +182,11 @@ xychart-beta horizontal
 2 of 3 participants who are paid less thn <nobr>**80 000 DZD**</nobr> don't have a university degree (Baccalaureate is their highest degree). But the third participant has Ph.D. or equivalent.
 
 The high salaries (more or less than <nobr>**150 000 DZD**</nobr>) are paid in medium to large companies based in Oran and Algiers.
+
+:::tip Does education affect salaries?
+
+Head to our [education and learning page](/docs/insights/education-and-learning) to learn more.
+:::
 
 ### Working remotely for foreign companies
 
@@ -209,10 +219,6 @@ xychart-beta horizontal title "Algerian freelancers on Upwork by hourly rate (in
 
 This data is also correlated with findings from other websites like [peopleperhour](https://www.peopleperhour.com/) (Majority of freelancers with hourly rates around 10 to €20/hour, and the median close to €40/hour).
 
-### Effects of education on salaries
-
-[goto](/docs/insights/education-and-learning)
-
 ## Perks
 
 Some jobs offer other perks on top of salaries, according to our survey data we have the following:
@@ -231,15 +237,17 @@ Additionally, some jobs offer other perks, for example<sup>[*](/docs/appendix/ra
 - VTC Memberships.
 - Paid trips and holidays.
 
-### Perks by location and company size
+<!--
 
-<!-- [goto](/docs/insights/talents-migration) -->
+TBD: Elaborate this
+ ### Perks by location and company size
 
 ### Perks by employment mode
 
 #### Working for Algerian companies
 #### Working for foreign companies in Algeria
 #### Working for foreign companies remotely
+-->
 
 ## The value of salaries
 
@@ -251,15 +259,25 @@ Algerian minimum wages are around <nobr>**20 000 DZD**</nobr>, however [the Unio
 
 According to 3363 entries made by 250 different participants in [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Algeria) (a crowd-sourced global database of quality of life data):
 
-- A family of four estimated monthly costs are **1,535.7€** without rent.
-- A single person estimated monthly costs are **430.1€** without rent.
+- A family of four estimated monthly costs are **€1,535.7** without rent.
+- A single person estimated monthly costs are **€430.1** without rent.
 
-However, [Numbeo's counting methodology](https://www.numbeo.com/common/motivation_and_methodology.jsp) might not reflect the average Algerian lifestyle and monthly spending. We asked the Association for the Protection and Guidance of Consumers and their Environment ([APOCE](https://apoce.org/)) about the numbers ... TBD
+And according to [Expatistan.com](https://www.expatistan.com/cost-of-living/country/algeria?currency=EUR):
 
+- A family of four estimated monthly costs are **€2,172** (rent included).
+- A single person estimated monthly costs are **€869** (rent included).
+
+However, [Numbeo](https://www.numbeo.com/common/motivation_and_methodology.jsp) and [Expatistan](https://www.expatistan.com/how-does-it-work) methodologies might not reflect the average Algerian lifestyle and monthly spending. 
+
+
+We asked the Association for the Protection and Guidance of Consumers and their Environment ([APOCE](https://apoce.org/)) about the numbers and we are still waiting for numbers from them.
+
+<!-- 
+
+TBD: Explore:
 
 ### Social services and taxes
 
-TBD: Explore:
 https://www.annd.org/uploads/summernote/three31614341217.pdf
 https://taxsummaries.pwc.com/algeria/individual/taxes-on-personal-income
 
@@ -269,7 +287,7 @@ Counting tax .... https://taxsummaries.pwc.com/algeria/individual/sample-persona
 
 TBD:
 - Rates
-- Allocation touristique: https://voyages-algerie.com/2024/01/08/tourisme/algerie-allocation-touristique-300-euros-voyage/
+- Allocation touristique: https://voyages-algerie.com/2024/01/08/tourisme/algerie-allocation-touristique-300-euros-voyage/ -->
 
 ### Happiness index
 
@@ -292,7 +310,7 @@ With a median score of `7`, we may conclude that our participants, from Algeria 
 > No matter how high salary is compared to other jobs, it remains low in order to live comfortably.
 
 
-This idea was also shared by other participants who used the free text option in [`Challenges` question](/docs/appendix/raw-results#what-are-the-main-challenges-you-face-in-your-role-as-a-software-engineer-in-algeria), where lifestyle in Algeria might not let developers "enjoy their salaries". TBD
+This idea was also shared by other participants who used the free text option in [`Challenges` question](/docs/appendix/raw-results#what-are-the-main-challenges-you-face-in-your-role-as-a-software-engineer-in-algeria), where lifestyle in Algeria might not let developers "enjoy their salaries".
 
 ## Evolution of salaries from research
 

@@ -23,7 +23,7 @@ If we want to be more optimistic, we can throw some ideas out there, hopefully t
 
 ## A *tbd...*
 
-Although we put a lot of effort, time, energy, emotions and [some money](#) in this work it remains incomplete, and it will never be.
+Although we put a lot of effort, time, energy, emotions and some money in this work it remains incomplete, and it will never be.
 
 Our work is based on data collected from a survey we pushed very hard on social media, and it only collected 517 entry. These entries are not all significant, we had to filter a lot of them. Our data lacked a lot of profile that would have been interesting to explore (QA engineers, more R&D Engineers, etc). Hopefully with this work we gained the community trust, and we have more inputs in our survey for 2025 (إن شاء الله).
 

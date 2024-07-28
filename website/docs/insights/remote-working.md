@@ -113,7 +113,7 @@ These companies act either as software development and consulting agencies that 
 
 ## Challenges & opportunities for the Algerian market
 
-This raising remote working trend in Algeria is offering a lot of opportunities to many Algerian engineers, it's also contributing in upskilling talents by exposing them to technical challenges in more mature tech companies and countries.
+This rising remote working trend in Algeria is offering a lot of opportunities to many Algerian engineers, it's also contributing in upskilling talents by exposing them to technical challenges in more mature tech companies and countries.
 
 Finding remote jobs is one of the most attractive opportunities engineers look up to (according to many of our interviewees), mostly for financial reasons. Which is contributing in one of the biggest challenges local startups and businesses are facing: Talents fleeing to work remotely.
 
@@ -129,7 +129,7 @@ The gap is greater the more experience the engineer has. For example, engineers 
 
 Given that remote workers *often* (according to our interviewees) work outside the official financial system where they receive their wages through third-party solutions, exchanges them in parallel market, and don't pay taxes or contributions to social insurance funds... These workers make far more money than they would do (in some cases) if they work for Algerian companies.
 
-Raising startups and tech companies are facing challenges when looking for competent seniors to hire, and when they find potential candidates they can't match their salary expectations.
+Rising startups and tech companies are facing challenges when looking for competent seniors to hire, and when they find potential candidates they can't match their salary expectations.
 
 These financial incentives, exposure to technical challenges and sometimes more flexible ways of working attract more (senior) talents and sometimes make them leave their full-time jobs at their local Algerian companies to work remotely.
 

@@ -66,10 +66,7 @@ Among the companies listed in [ARPCE](https://www.arpce.dz/fr/service/cloud)'s w
 
 Large Algerian corporate and some government agencies (ministries) have their own private clouds.
 
-For example, some of Sonatrach's services [are running on Huawei Cloud Stack (HCS)](https://e.huawei.com/kz/ict-insights/global/ict_insights/201902271023/Success-Story/201904170833), other companies choose XYZ... TBD.
-
-
-OpenShift
+For example, some of Sonatrach's services [are running on Huawei Cloud Stack (HCS)](https://e.huawei.com/kz/ict-insights/global/ict_insights/201902271023/Success-Story/201904170833).
 
 ## DevOps and site reliability engineering
 
@@ -132,21 +129,13 @@ Some seniors prefer to work remotely from Algeria, as explained in our [Remote w
 
 To close that gap, some companies are trying to solve the problem in different ways:
 
-### Hiring experts from abroad
-
-Yassir, being one of the most mature tech startups in the country faces several technical challenges. With their reputation and their market shares at risk (TBD: find better words).
-
-Yassir is expending to other countries and hiring engineers from different countries, when asking [Yassir's Berlin Tech Hub](https://medium.com/@Yassirtech/why-has-yassir-launched-a-tech-hub-in-berlin-e2f9bc1ce464) (aka. Yassir GmbH) management: why Berlin? Why not hiring Algerians who live in Algeria? We learned that the company is trying to get seniors and experts who had long years of hands-on experience, and that's most likely easier to find in a technology hub like Berlin.
-
-The company also hunt for top Algerian talents in DevOps field, Walid0
-
-### Upsklling and training local talents
-
-TBD: hiring interns
-
-
+- **Hunting for top talents**: Despite of the high competition in attracting "confirmed" experts, we see that some Algerian companies and startups could hire (or partner with) some of Algeria's top talents in certain fields.
+- **Hiring experts from abroad**: Some companies like Yassir are expending and hiring engineering from different countries. When we asked [Yassir's Berlin Tech Hub](https://medium.com/@Yassirtech/why-has-yassir-launched-a-tech-hub-in-berlin-e2f9bc1ce464) (aka. Yassir GmbH) management: why Berlin? Why not hiring Algerians who live in Algeria? We learned that the company is trying to get seniors and experts who had long years of hands-on experience, and that's most likely easier to find in a technology hub like Berlin.
+- **Upskilling and investing in training**: Some companies invest in upskilling their developers and shaping their DevOps culture, while others focus on training interns and juniors in infrastructure and SRE skills.
 
 ## Most used tools according to our survey
+
+Our survey covered some DevOps/Infrastructure related topics with few questions, and below are some of our findings.
 
 ### VCS: Git is the most used one (no surprise), `nothing` is in second place
 

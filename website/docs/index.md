@@ -3,6 +3,7 @@ id: intro
 sidebar_position: 1
 pagination_next: insights/technology-trends
 ---
+import Admonition from '@theme/Admonition';
 
 # 2024 Survey results
 
@@ -10,6 +11,13 @@ Welcome to the Algeria Developer Survey 2024 Results Page!
 
 In February 2024, IT professionals and students shared their perspectives, shaping the narrative of Algeria's tech landscape. Join us as we delve into the insights gathered from this diverse community of **more than 500** participants.
 
+<Admonition type="warning" icon="🚧" title="Coming soon">
+**This page is a placeholder!**
+
+In this page, we will share the key findings from our survey and research with links to different areas of our [insights section](/docs/insights)
+</Admonition>
+
+<!-- 
 Conducted in three languages: Arabic, English, and French. This survey has captured insights from a diverse group of participants. Here's a breakdown of participation by language:
 
 - English: 314
@@ -17,9 +25,7 @@ Conducted in three languages: Arabic, English, and French. This survey has captu
 - French: 52
 
 
-TBD: Have a full summary here
-
-# GOTO [Insights page](/docs)
+TBD: Have a full summary here -->
 
 
 <!-- ## Demographics
