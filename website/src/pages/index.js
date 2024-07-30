@@ -36,7 +36,7 @@ function DemoVideo() {
     <div className={styles.demoVideo}>
       <h2>Have a sneak peek into the report!</h2>
       <iframe
-        src="https://www.youtube.com/embed/-Vk4g2tFHPE?si=CYHgpypJlztKx0hA&rel=0"
+        src="https://www.youtube.com/embed/O2Uaq_dQrL0?rel=0"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
