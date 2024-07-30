@@ -1,8 +1,17 @@
 ---
 sidebar_position: 9
 ---
+import Admonition from '@theme/Admonition';
 
 # Agile ways of working
+
+<Admonition type="warning" icon="🚧" title="It's a WIP">
+
+Because we are also Agile, we are publishing this as a draft, and we will iterate over it.
+
+</Admonition>
+
+<br/>
 
 We asked our participants which agile methodology they use, and the answers were the following:
 

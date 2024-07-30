@@ -1,11 +1,20 @@
 ---
 sidebar_position: 7
 ---
+import Admonition from '@theme/Admonition';
 
 # Education and learning
 
-We asked our participants about their levels of education and we had the following distribution:
+<Admonition type="warning" icon="🚧" title="It's a WIP">
 
+This page is still a work in progress, and it will be ready in the next update!
+
+</Admonition>
+
+<br/>
+
+We asked our participants about their levels of education and we had the following distribution:
+<!-- 
 :::danger TODOs
 -  Allocation from BAC to university
 -  what if:
@@ -19,7 +28,7 @@ We asked our participants about their levels of education and we had the followi
 -  Is having a master degree worth it
 -  Online education and its value
 -  brain drain: study in algeria and work abroad, or go study abroad
-:::
+::: -->
 
 ```mermaid
 pie title Participants by level of education
@@ -47,14 +56,14 @@ To not shift away from the generic "State of Algerian software engineering" doma
 
 Algerian students study for 3 years in high-schools, after passing Brevet d’Enseignement Moyen (BEM) a national exam to leave lower secondary schools (college or CEM).
 
-TBD mention:
+Students are assigned in different branches in high schools including:
 
 - Languages and social studies (lettres)
 - Sciences (natural and physical)
 - Technology (mathematics, physical sciences and technology).
-- gestion
+- Management (Gestion)
 
-TBD: mention the fact that one can miss the chance to end in a technical branch if the mess it up in CEM, or HS.
+Some science, technology, engineering, and math (STEM) education fields in universities are only accessible for certain high school branches. Therefor, students willing to pursue their education in IT (for example) has to be selected in either Mathematics, Science or Technology fields upon getting their BEM.
 
 > Can we say that having a bad grade in the national "BEM/BEF" exam can affect chances of working in software engineering?
 
@@ -93,33 +102,35 @@ Note that universities have different requirements ([see results for 2023](https
 
 ### Higher/Elite schools
 
-- ESI Alger
-- ESI SBA
-- IA
+Students with higher marks in baccalaureate can choose one of the Algerian "Higher/elite" schools:
 
-ESI and https://www.ensia.edu.dz/
-http://www.ensttic.dz/
+- [ESI (ex: INI)](https://esi.dz/).
+- [ESI school in Sidi Bel Abbès (ESI SBA)](https://www.esi-sba.dz/),
+- [National Higher School of Artificial Intelligence](https://www.ensia.edu.dz/)
+- [National Superior School of Telecommunication And Technology Information](http://www.ensttic.dz/)
 
-
-Cybersecurity school in WIP: https://www.aps.dz/societe/166994-vers-l-elaboration-d-une-strategie-nationale-pour-faire-face-aux-menaces-cybernetiques
-
-### Centre & institutes
+The government is also working on establishing a new higher school for cybersecurity [source:[Algeria Press Service (APS)](https://www.aps.dz/societe/166994-vers-l-elaboration-d-une-strategie-nationale-pour-faire-face-aux-menaces-cybernetiques)]
 
 ### Private universities
 
-- https://services.mesrs.dz/bac2023/guide/fr/priv%C3%A9.html
-- https://his.edu.dz/
-- https://nit-edu.net/
+The Algerian ministry of Higher education [authorized](https://services.mesrs.dz/bac2023/guide/fr/priv%C3%A9.html) several private universities. According to our research only 2 private universities teach IT-related topics:
 
-
+- [Higher Institute of Sciences](https://his.edu.dz/)
+- [Numidia Institute of Technology](https://nit-edu.net/)
 
 ### Private schools
 
-https://www.agenceecofin.com/formation/2908-100661-en-visite-en-algerie-le-president-macron-relance-le-projet-de-creation-de-l-ecole-42-annonce-depuis-5-ans (code guy on insta)
+- Some students study IT-related topics in private schools.
+- Ecole 42 is still not established ([source](https://www.agenceecofin.com/formation/2908-100661-en-visite-en-algerie-le-president-macron-relance-le-projet-de-creation-de-l-ecole-42-annonce-depuis-5-ans))
 
 ### Online (private) universities
 
 Some students study online in foreign universities. 
+
+
+### Centre & institutes
+
+Some students study in [CFPA](https://www.mfep.gov.dz/fr/ministere/types-des-etablissements/details-cfpa/)
 
 ## Does having a degree affect the chances of finding a job?
 

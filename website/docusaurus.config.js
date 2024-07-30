@@ -55,6 +55,10 @@ const config = {
         theme: {
           customCss: "./src/css/custom.css",
         },
+        gtag: {
+          trackingID: "G-8VQ5MM48HP",
+          anonymizeIP: true,
+        },
       }),
     ],
   ],
@@ -74,6 +78,7 @@ const config = {
         indexName: "fcmam5",
         contextualSearch: true,
       },
+
       metadata: [
         {
           name: "keywords",
@@ -95,7 +100,6 @@ const config = {
           src: "img/logo.png",
         },
         items: [
-          { to: "/docs", label: "Results", position: "left" },
           {
             to: "/docs/insights/technology-trends",
             label: "Trends",

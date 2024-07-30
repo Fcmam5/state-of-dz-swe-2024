@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Remote working
 
-More than half of our participants work remotely either for Algerian companies or foreign companies. We asked our participants who live in Algeria about their working model, the answers were the following:
+More than half of our participants work remotely either for Algerian companies or foreign companies. We asked our participants who live in Algeria about their working model, and the answers were as follows:
 
 ```mermaid
 ---
@@ -19,9 +19,9 @@ xychart-beta horizontal
   bar [123,113,65,35]
 ```
 <br/>
-From the numbers above we notice the following:
+From the numbers above, we notice the following:
 
-- There's a tendency to work on-site, or fully remote rather than having a hybrid working model.
+- There is a tendency to work on-site or fully remote rather than having a hybrid working model.
 - There's a tendency to work for foreign companies remotely from Algeria.
 
 We also noticed that some participants work for both Algerian and foreign companies remotely (having more than one job, or multiple clients). 
@@ -33,21 +33,21 @@ We also noticed that some participants work for both Algerian and foreign compan
 
 ## Working for Algerian companies remotely
 
-Some Algerian companies prefer in-office (on-site) working models, according to data from our interviews, human interactions and the social aspect is important in the Algerian culture.
+Some Algerian companies prefer in-office (on-site) working models. According to data from our interviews, human interactions and the social aspect are important in Algerian culture.
 
-In some interviews, experts claimed that some engineers "lacks professionalism" or at least a "remote working discipline/culture", which makes companies prefer having their staff on-site for a more productive and a professional working environment.
+In some interviews, experts claimed that some engineers "lack professionalism" or at least a "remote working discipline/culture" which makes companies prefer having their staff on-site for a more productive and professional working environment.
 
-In an interview with an engineer who worked for one of Algeria's leading tech companies, we noted that their company (and other startups) switched to remote work models during COVID lockdown, and got back to a hybrid working model, that period forced teams and companies to adapt a remote working model and helped establishing that culture.
+In an interview with an engineer who worked for one of Algeria's leading tech companies, we noted that their company (and other startups) switched to remote work models during the COVID lockdown and then went back to a hybrid working model. That period forced teams and companies to adopt a remote working model and helped establish that culture.
 
-Some companies benefited more from that cultural shift as they downsized their offices, and got more open to hire engineers from different wilayas.
+Some companies benefited more from that cultural shift as they downsized their offices and became more open to hiring engineers from different wilayas.
 
 High living costs in the capital where most of the attractive tech jobs are located and public transports' situation in many wilayas are some of the reasons why engineers prefer to work remotely from their homes. Some engineers see that as a way to be productive, while others see that as a luxury where they can cut commute time and be able to clock out from work earlier.
 
-Some companies in the private sector can negotiate hybrid and remote working options, while it's not possible with some companies in the public sector.
+Some companies in the private sector can negotiate hybrid and remote working options, while it is not possible with some companies in the public sector.
 
 In an analysis of an Algerian tech-focused recruitment portal (on June 2024), we counted that **50%** of job offers require in-person presence at company offices, **34%** provide hybrid working model, and **16%** are fully remote.
 
-According to our survey data, **60%** of participants who work for Algerian companies or for foreign companies based in Algeria have remote working options as one of the perks their jobs provide. These perks are provided to **56%** of our participants who work from Oran or Algiers, **70%** to **80%** of participants who work from Sétif, Relizane, Tipaza, and M'Sila.
+According to our survey data, **60%** of participants who work for Algerian companies or for foreign companies based in Algeria have remote working options as one of the perks their jobs provide. These perks are provided to **56%** of our participants who work from Oran or Algiers and **70%** to **80%** of participants who work from Sétif, Relizane, Tipaza, and M'Sila.
 
 **56%** of participants who work for these companies from Oran and Algiers work remotely,
 
@@ -67,8 +67,7 @@ xychart-beta horizontal
 
 Algerians work remotely in take different roles. Some participants work remotely on freelancer gigs, others work full-time or part-time for foreign companies.
 
-These opportunities are found online or through connections. However, finding such opportunities is getting harder and more competitive, therefor some Algerians offer prices below average on platforms like Upwork and PeoplePerHour.
-
+These opportunities are found online or through connections. However, finding such opportunities is getting harder and more competitive, therefore some Algerians offer prices below average on platforms like Upwork and PeoplePerHour.
 
 :::tip
 
@@ -79,17 +78,17 @@ Wages vary based on different parameters, on clients' and companies' countries, 
 
 ### Legal framework
 
-Some foreign companies hire Algerians as independent contractors, they get paid monthly or by tasks (or projects). Companies in different countries may not need to contribute in contractors' health insurance, paid time off (in some cases), and other benefits associated with full-time employees in their local area.
+Some foreign companies hire Algerians as independent contractors, and they get paid monthly or by tasks (or projects). Companies in different countries may not need to contribute to contractors' health insurance, paid time off (in some cases), and other benefits associated with full-time employees in their local area.
 
-Therefor they only paid salaries to contractors' bank accounts and they don't have to care about their contractors' legal situation in their countries of residence.
+Therefore, they only pay salaries to contractors' bank accounts and do not have to care about their contractors' legal situation in their countries of residence.
 
 From the Algerian workers' side, until the last year some remote workers had few options to navigate the Algerian legal system if they want to declare their activities. Some engineers created EURLs (Single Limited Liability Company) or a SARL (Limited liability company) as teams or individuals.
 
-However -according to interviews with actors in the Algerian ecosystem- the legal framework, banking systems and personal working in administrations caused major challenges. That may contribute in discouraging engineers to declare their jobs/income, and work "unofficially". Wages can be received in foreign currencies through international electronic banks and through third-party people,  then they can be traded in the widely substantial *and tolerated* black market for a higher rate than the official's.
+However, according to interviews with actors in the Algerian ecosystem, the legal framework, banking systems, and personnel working in administrations caused major challenges. That may contribute to discouraging engineers from declaring their jobs/income and working "unofficially". Wages can be received in foreign currencies through international electronic banks and through third-party people,  then they can be traded in the widely substantial *and tolerated* black market for a higher rate than the official's.
 
-Recently, the government launched the National Agency for Self-Employed ([ANAE](https://www.anae.dz/)) that facilitate the application for a new legal status for entrepreneurs, self-employed, or those who work remotely. The new legal status can be applied for online from ANAE's online platform, once the process is fulfilled applicants gets an auto-entrepreneur card.
+Recently, the government launched the National Agency for Self-Employed ([ANAE](https://www.anae.dz/)) to facilitate the application for a new legal status for entrepreneurs, self-employed, or those who work remotely. The new legal status can be applied for online from ANAE's online platform. Once the process is fulfilled, applicants receive an auto-entrepreneur card.
 
-By May 2024, ANAE's online platform (https://www.anae.dz/) had more than 10.000 applicant, where more 8000 of them received their self-employed/auto-entrepreneur cards (according to [the minister](https://www.aps.dz/economie/171190-auto-entrepreneuriat-l-anae-et-sa-plateforme-ont-booste-l-acces-des-jeunes-a-l-auto-emploi)).
+By May 2024, ANAE's online platform (https://www.anae.dz/) had more than 10,000 applicants, with more than 8000 of them receiving their self-employed/auto-entrepreneur cards (according to [the minister](https://www.aps.dz/economie/171190-auto-entrepreneuriat-l-anae-et-sa-plateforme-ont-booste-l-acces-des-jeunes-a-l-auto-emploi)).
 
 However, many Algerians still prefer to work without applying for any legal framework. According to our interviewees, that's related to the tolerance of the "black market" and a distrust in bank systems and legal frameworks.
 
@@ -99,7 +98,7 @@ The lack of an appropriate tax education and a distrust in the government might 
 
 To remediate that, the government and some private agencies started working on different initiatives ([Moukawil](https://moukawil.dz/) for example) to educate entrepreneurs and workers. These parties also co-invest in facilitate and incentivize workers to work within a legal framework and pay their duties. 
 
-On another hand, the government established an action plan to force integrating businesses to the official financial system. This action plan was one of the [the president Abdelmadjid Tebboune's plans](https://amb-algerie.fr/wp-content/uploads/2022/04/Pland-action-du-gouvernement-pour-la-mise-en-oeuvre-du-programme-du-president-de-la-republique-2021-fr.pdf).
+On another hand, the government established an action plan to force integrating businesses to the official financial system. This action plan was one of [President Abdelmadjid Tebboune's plans](https://amb-algerie.fr/wp-content/uploads/2022/04/Pland-action-du-gouvernement-pour-la-mise-en-oeuvre-du-programme-du-president-de-la-republique-2021-fr.pdf).
 
 The plan aims to identify informal activities and potential taxpayers, to implement measures to encourage the transition to the formal sector, and recovering funds from the informal market. With additional efforts to improve communication about tax rights and guarantees, and strengthening control mechanisms, simplify business registration processes, and provide regulated spaces for previously informal activities.
 
@@ -109,13 +108,13 @@ Some Algerians prefer to create companies abroad (in United Kingdom, Dubai, Abu 
 
 Others prefer to create companies in Algeria even if they operate abroad and/or work with international clients. This models grants (according to our interviewees) access to the Algerian talents by providing competitive salaries (compared to other Algerian companies) and to provide a legal working environment that grants social benefits for employees.
 
-These companies act either as software development and consulting agencies that work on short-term projects, or work full-time on their own digital products.
+These companies act either as software development and consulting agencies that work on short-term projects or work full-time on their own digital products.
 
 ## Challenges & opportunities for the Algerian market
 
-This rising remote working trend in Algeria is offering a lot of opportunities to many Algerian engineers, it's also contributing in upskilling talents by exposing them to technical challenges in more mature tech companies and countries.
+This rising remote working trend in Algeria is offering a lot of opportunities to many Algerian engineers, it is also contributing to upskilling talents by exposing them to technical challenges in more mature tech companies and countries.
 
-Finding remote jobs is one of the most attractive opportunities engineers look up to (according to many of our interviewees), mostly for financial reasons. Which is contributing in one of the biggest challenges local startups and businesses are facing: Talents fleeing to work remotely.
+Finding remote jobs is one of the most attractive opportunities engineers look up to (according to many of our interviewees), mostly for financial reasons. This is contributing to one of the biggest challenges local startups and businesses are facing: talents fleeing to work remotely.
 
 According to our survey data (graph below representing yearly salaries in euros), remote workers salaries start from around **€500/Month** for entry-level and juniors, **€1000/Month** for mid-level developers, and seniors' salaries match median salaries in Europe and some Gulf countries.
 
@@ -125,15 +124,15 @@ These salaries when converted in the parallel/black market for a higher rate cre
 
 A base entry level to a junior level salary of **€500/Month** with a rate of `€1 = 240 DZD` is equal to **120K DZD/Month**. Which is in the upper band of the range salaries of this category.
 
-The gap is greater the more experience the engineer has. For example, engineers with 6 to 10 years of experience get paid around **2500€/Month**, which is **600K DZD/Month**. This salary exceed by far the maximum salary Algerian companies pay for engineers, this represents up to 3 folds the salary of engineers of the same seniority in Algerian private companies.
+The gap is greater the more experience the engineer has. For example, engineers with 6 to 10 years of experience get paid around **€2500/Month**, which is **600K DZD/Month**. This salary exceeds by far the maximum salary Algerian companies pay for engineers; this represents up to threefold the salary of engineers of the same seniority in Algerian private companies.
 
-Given that remote workers *often* (according to our interviewees) work outside the official financial system where they receive their wages through third-party solutions, exchanges them in parallel market, and don't pay taxes or contributions to social insurance funds... These workers make far more money than they would do (in some cases) if they work for Algerian companies.
+Given that remote workers *often* (according to our interviewees) work outside the official financial system where they receive their wages through third-party solutions, exchange them in parallel market, and don't pay taxes or contributions to social insurance funds... These workers make far more money than they would if they worked for Algerian companies.
 
-Rising startups and tech companies are facing challenges when looking for competent seniors to hire, and when they find potential candidates they can't match their salary expectations.
+Rising startups and tech companies face challenges when looking for competent seniors to hire. When they find potential candidates, they cannot match their salary expectations
 
-These financial incentives, exposure to technical challenges and sometimes more flexible ways of working attract more (senior) talents and sometimes make them leave their full-time jobs at their local Algerian companies to work remotely.
+These financial incentives, exposure to technical challenges, and sometimes more flexible ways of working attract more (senior) talents and sometimes make them leave their full-time jobs at local Algerian companies to work remotely.
 
-[According to our interviewees](/docs/appendix/raw-interviews), some companies are trying to find other incentives to attract talents and to keep them onboard.
+[According to our interviewees](/docs/appendix/raw-interviews), some companies are trying to find other incentives to attract talents and keep them onboard.
 
 ## Challenges remote workers are facing
 

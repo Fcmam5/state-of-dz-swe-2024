@@ -37,23 +37,35 @@ Individual contributions made by Algerians might also not be visible in reports 
 
 ## Algerian Open Source projects
 
-- https://github.com/Alfanous-team/alfanous
-- https://github.com/idurar/idurar-erp-crm
-- https://github.com/linux-lock/bpflock
-- https://github.com/linuxscout/mishkal
-- https://github.com/linuxscout/pyarabic
-- https://github.com/linuxscout/tashaphyne
-- https://github.com/Hamz-a/frida-android-helper
-- https://github.com/SofianeHamlaoui/Lockdoor-Framework
-- https://github.com/assem-ch/django-jet-reboot
-- https://github.com/assem-ch/arabicstemmer
-- https://github.com/01walid/sloughi
-- https://github.com/OpenDZ/timgad
-- https://github.com/tixxdz/ahaggar
-- https://github.com/aissat/easy_localization
-- https://github.com/kossa/laradminator
-- https://github.com/kossa/algerian-cities
-- https://github.com/bourabdelhadi/awsviz/
+- **[Alfanous](https://github.com/Alfanous-team/alfanous):** Arabic search engine API for Quran.
+- **[idurar-erp-crm](https://github.com/idurar/idurar-erp-crm):** Open Source Headless ERP CRM E-Commerce Software Multi Branch & Currency.
+- **[bpflock](https://github.com/linux-lock/bpflock):** eBPF driven security for locking and auditing Linux machines.
+- **[mishkal](https://github.com/linuxscout/mishkal):** An Arabic text vocalization software.
+- **[pyarabic](https://github.com/linuxscout/pyarabic):** A specific Arabic language library for Python.
+- **[tashaphyne](https://github.com/linuxscout/tashaphyne):** Arabic light stemmer implementation.
+- **[frida-android-helper](https://github.com/Hamz-a/frida-android-helper):** Frida Android utilities for pentesting tasks.
+- **[Lockdoor Framework](https://github.com/SofianeHamlaoui/Lockdoor-Framework):** A Penetration Testing framework with Cyber Security Resources.
+- **[django-jet-reboot](https://github.com/assem-ch/django-jet-reboot):** Legacy Django jet rebooted to support Django 3, 4, and latest.
+- **[arabicstemmer](https://github.com/assem-ch/arabicstemmer):** Arabic light stemmer library for Python.
+- **[sloughi](https://github.com/01walid/sloughi):** Shareable git hooks for Rust project. Sloughi is a friend of Husky from North Africa!.
+- **[timgad](https://github.com/OpenDZ/timgad):** A framework for building scalable, maintainable, and flexible web applications.
+- **[ahaggar](https://github.com/tixxdz/ahaggar):** A light and fast Arabic text vocalization tool.
+- **[easy_localization](https://github.com/aissat/easy_localization):** Localization library for Flutter apps.
+- **[laradminator](https://github.com/kossa/laradminator):** Integration of Adminator into Laravel 6.x/7.x/8.x with RTL support.
+- **[algerian-cities](https://github.com/kossa/algerian-cities):** A list of Algerian cities with geographical coordinates.
+- **[awsviz](https://github.com/bourabdelhadi/awsviz):** Visualization tool for AWS CloudFormation templates.
+
+:::note Personal projects
+
+Below are some of my personal Open Source utilities:
+
+- **[Hamid.js](https://github.com/Fcmam5/hamid.js)**: A library to trigger an action if the user is idle.
+- **[nest-problem-details](https://github.com/Fcmam5/nest-problem-details)**: A Nest.js HTTP exceptions filter returning RFC-7807 responses.
+- **[nx-mermaid-grapher](https://github.com/Fcmam5/nx-mermaid-grapher)**: Create Mermaid graphs for [NX](https://nx.dev/) dependencies
+- **[oktob.js](https://github.com/Fcmam5/oktob.js)**: A library that replaces Latin letters when writing with Arabic letters (and vice versa).
+- **[Leblad](https://github.com/dzcode-io/leblad)**: A JS library providing a list of Algerian administrative areas with many useful APIs.
+
+:::
 
 ## Algerians' Contributions to Open Source
 
@@ -87,7 +99,8 @@ Algerians' contributions to popular Open Source projects that run the internet. 
 
 | Open Source Project                                                                                                                        | Github   ⭐ |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
-| [Linux kernel source. Github tree mirror](https://github.com/torvalds/linux)                                                               | 170.0k   ⭐ |
+| [Linux kernel source. Github tree mirror](https://github.com/torvalds/linux)                                                               | 170k   ⭐   |
+| [NestJS A progressive Node.js framework for building server-side applications](https://github.com/nestjs/nest/)                            | 66k   ⭐    |
 | [Wordpress Development mirror](https://github.com/WordPress/WordPress)                                                                     | 18.8k   ⭐  |
 | [Servo  the embeddable memory-safe parallel web rendering engine](https://github.com/servo/servo)                                          | 26.3k   ⭐  |
 | [Linux systemd System and Service Manager](https://github.com/systemd/systemd)                                                             | 12.5k   ⭐  |
@@ -122,7 +135,7 @@ Some students groups like [Team Open Minds](https://github.com/open-minds/) prom
 
 ## Algerian Companies maintaining Open Source projects
 
-- https://github.com/BIGmama-technology
-- https://github.com/codiume
-- https://github.com/idurar
-- https://github.com/transformatek
+- **[BIGmama](https://big-mama.io/)** (Github: [BIGmama-technology](https://github.com/BIGmama-technology))
+- **[Codiume](https://codiume.com/)** (Github: [codiume](https://github.com/codiume))
+- **[Idurar](https://www.idurarapp.com/)** (Github: [idurar](https://github.com/idurar))
+- **[TransformaTek](https://transformatek.dz/)** (Github: [transformatek](https://github.com/transformatek))

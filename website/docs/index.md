@@ -14,7 +14,7 @@ In February 2024, IT professionals and students shared their perspectives, shapi
 <Admonition type="warning" icon="🚧" title="Coming soon">
 **This page is a placeholder!**
 
-In this page, we will share the key findings from our survey and research with links to different areas of our [insights section](/docs/insights)
+In this page, we will share the key findings from our survey and research with links to different areas of our [insights section](/docs/insights/technology-trends)
 </Admonition>
 
 <!-- 

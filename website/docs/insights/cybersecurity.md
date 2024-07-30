@@ -6,28 +6,28 @@ sidebar_position: 11
 
 The Algerian government established a national mission to raise awareness and improve different areas of cybersecurity in the country. In this section we will explore some of the findings in this area.
 
-The Ministry of Post and Telecommunications published [The National Information Security Repository (NISR) ](https://www.mpt.gov.dz/en/information-security-reference/) on 2020. 
+The Ministry of Post and Telecommunications published [The National Information Security Repository (NISR) ](https://www.mpt.gov.dz/en/information-security-reference/) in 2020. 
 
-NISR 2020 consists of twenty domains, ranging from personal data protection, mobile security to physical and IoT security. 
+NISR 2020 consists of twenty domains, ranging from personal data protection and mobile security to physical and IoT security.
 
-The reference lists a set of recommendations, best practices, guidelines and controls to improve individuals and companies' information systems' security. The controls and guidelines adheres to different international standards (GDPR, NIST 800-53, ISO / IEC 27002:2013, etc).
+The reference lists a set of recommendations, best practices, guidelines, and controls to improve the security of individuals' and companies' information systems. The controls and guidelines adhere to various international standards (GDPR, NIST 800-53, ISO/IEC 27002:2013, etc.).
 
 :::tip This topic needs a dedicated research, take it from here!
 
-To not shift away from the generic "State of Algerian software engineering" domain this report covers, I would just scratch the surface on this topic. Why? [Read more here](/docs/closing#cybersecurity).
+To avoid shifting away from the general "State of Algerian software engineering" domain this report covers, I will just scratch the surface of this topic. Why? [Read more here](/docs/closing#cybersecurity).
 :::
 
-To support our understanding and to have a better overview if this field in Algeria, we conducted several interviews with professionals.
+To support our understanding and gain a better overview of this field in Algeria, we conducted several interviews with professionals.
 
 ## Cybersecurity in Algerian laws and regulations
 
-The Algerian regulator incriminate and defines cyber crimes. With a series of laws such as:
+The Algerian regulator incriminates and defines cyber crimes through a series of laws, such as:
 
 - Law [N° 04-15 (10 November 2004)](https://droit.mjustice.dz/sites/default/files/portail/legisl_nouveau/code_penal_2010/fr/index.html?i=655) defines sanctions for crimes related to data integrity, confidentiality and security.
-- Law [N° 09-04 (05 August 2009)](https://www.arpce.dz/fr/pub/l9d1a8), amended with [N° 16-02 (19 June 2016)](https://droit.mjustice.dz/sites/default/files/Loi-N%C2%B0-16-02.pdf) define cyber crimes, electronic communications surveillance and the establishment of a national committee for preventing and fighting offenses related to information and communication technology.
-- Law [N° 18-05 (10 May 2018)](https://www.arpce.dz/fr/pub/z2g9u7) emphasizing the requirement of securing data at rest and in transfer when dealing with personal and payments data.
+- Law [N° 09-04 (05 August 2009)](https://www.arpce.dz/fr/pub/l9d1a8), amended by [N° 16-02 (19 June 2016)](https://droit.mjustice.dz/sites/default/files/Loi-N%C2%B0-16-02.pdf) define cyber crimes, electronic communications surveillance and the establishment of a national committee for preventing and fighting offenses related to information and communication technology.
+- Law [N° 18-05 (10 May 2018)](https://www.arpce.dz/fr/pub/z2g9u7) emphasizes the requirement of securing data at rest and in transfer when dealing with personal and payment data.
 - Law [N° 18-07 (10 June 2018)](https://www.arpce.dz/fr/pub/c7e6n6) which is also related to personal data protection.
-- Law [N° 20-05 (20 January 2020)](https://www.joradp.dz/FTP/jo-francais/2020/F2020004.pdf) created Conseil National de la Sécurité des Systèmes d’Information (CNSSI) (National Information Systems Security Council) which operates withing the Ministry of National Defense, it is responsible for the development of the national strategy for the security of information systems. 
+- Law [N° 20-05 (20 January 2020)](https://www.joradp.dz/FTP/jo-francais/2020/F2020004.pdf) created the Conseil National de la Sécurité des Systèmes d’Information (CNSSI) (National Information Systems Security Council) which operates within the Ministry of National Defense, it is responsible for the development of the national strategy for the security of information systems. 
 
 These laws (and other texts) created different agencies that regulate and audit different aspects of cyber security and data protection. Among these agencies, we cite:
 
