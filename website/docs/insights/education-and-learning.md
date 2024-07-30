@@ -145,15 +145,16 @@ xychart-beta horizontal
 ```
 
 
-### In Algeria
+<!-- ### In Algeria
 ### Abroad/remote
 ## Does having a degree affect salaries
 ### In Algeria
 ### Abroad/remote
 
-<!-- Algerians with degree in IT make %X more/less than  -->
+Algerians with degree in IT make %X more/less than  
 
 ## Brain drain
+ -->
 
 ## Internships
 
@@ -162,10 +163,10 @@ xychart-beta horizontal
 To not shift away from the generic "State of Algerian software engineering" domain this report covers, I would just scratch the surface on this topic. Why? [Read more here](/docs/closing#nternships).
 :::
 
----
+<!-- ---
 Degrees?
 
 Algerian degree but working abroad?
 
 Do you need a degree in IT to work here or not?
-
+ -->
