@@ -28,6 +28,7 @@ We asked our participants about their levels of education and we had the followi
 -  Is having a master degree worth it
 -  Online education and its value
 -  brain drain: study in algeria and work abroad, or go study abroad
+-  TODO: choix after bac from our survey and: https://www.facebook.com/photo/?fbid=10225641189003630&set=a.10200974206584486
 ::: -->
 
 ```mermaid

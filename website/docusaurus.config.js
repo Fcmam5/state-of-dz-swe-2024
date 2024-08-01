@@ -73,9 +73,9 @@ const config = {
         textColor: "#FFFFFF",
       },
       algolia: {
-        appId: "V6WZN2X9IM",
-        apiKey: "97cb6f879211ba31786bb21a8241f8ae",
-        indexName: "fcmam5",
+        appId: "CHKFTO51QL",
+        apiKey: "ff5aa4ce9ed69c8ae999f2d82506adc7",
+        indexName: "state-of-algeria",
         contextualSearch: true,
       },
 
