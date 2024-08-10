@@ -180,7 +180,7 @@ const config = {
               },
               {
                 label: "Insights",
-                to: "/docs",
+                to: "/docs/insights",
               },
               {
                 label: "Methodology",
