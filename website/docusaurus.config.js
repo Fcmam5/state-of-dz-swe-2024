@@ -87,7 +87,7 @@ const config = {
         },
       ],
       // Replace with your project's social card
-      image: "img/chabiba-ta3-code.png",
+      image: "img/social-card.png",
       docs: {
         sidebar: {
           hideable: true,
@@ -115,8 +115,13 @@ const config = {
             label: "Remuneration",
             position: "left",
           },
+          {
+            href: "https://github.com/Fcmam5/state-of-dz-swe-2024",
+            label: "Github",
+            position: "right",
+          },
+          // { to: "/report", label: "🚧Report", position: "right" },
           { to: "/blog", label: "Blog", position: "right" },
-          { to: "/report", label: "🚧Report", position: "right" },
         ],
       },
       footer: {
