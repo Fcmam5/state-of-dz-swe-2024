@@ -1,8 +1,53 @@
 ---
 sidebar_position: 2
+description: In this section we present insights from our survey, examining salaries variation by experience and location. Salaries within the Algerian software engineering and IT sector operate in a dynamic and unregulated landscape.
 ---
 
 # Salaries and remuneration
+
+<head>
+  <script type="application/ld+json">
+    {JSON.stringify(
+      {
+        "@context": "https://schema.org",
+        "@type": "Occupation",
+        "name": "Software Engineer",
+        "description": "Insights into the remuneration of software engineers in Algeria, covering salary variations by experience level.",
+        "estimatedSalary": [
+          {
+            "@type": "MonetaryAmountDistribution",
+            "name": "Junior",
+            "currency": "DZD",
+            "duration": "P1M",
+            "median": 60000
+          },
+          {
+            "@type": "MonetaryAmountDistribution",
+            "name": "Mid-Level",
+            "currency": "DZD",
+            "duration": "P1M",
+            "median": 100000
+          },
+          {
+            "@type": "MonetaryAmountDistribution",
+            "name": "Senior",
+            "currency": "DZD",
+            "duration": "P1M",
+            "median": 150000
+          }
+        ],
+        "occupationLocation": {
+          "@type": "Country",
+          "name": "Algeria"
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://state-of-algeria.dev/docs/insights/remuneration",
+          "lastReviewed": "2024-07-28T11:16:41.000Z"
+        }
+      })}
+  </script>
+</head>
 
 In this section we present insights from our survey, examining salaries variation by experience and location. Salaries within the Algerian software engineering and IT sector operate in a dynamic and unregulated landscape. With the potential to range from <nobr>**20 000 DZD**</nobr> Algerian dinars to more than <nobr>**150 000 DZD**</nobr> (per month), while compensation packages differ greatly and are influenced by factors such as experience, skillset, location, and employer practices.
 

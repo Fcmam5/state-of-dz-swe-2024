@@ -25,6 +25,12 @@ Welcome to the **Mentions and Discussions** page, where you'll find some of the 
   - **Platform**: [Algerian Tech Makers on Discord](https://discord.gg/ZaFbxVmH?event=1273061671933579284)
   - **Description**: A Discord stage session where we talked about key insights from our survey. The session was recorded and will be published on [ATM's Youtube channel](https://www.youtube.com/watch?v=b0T0h8wr0m8)
 
+#### December
+
+- **29.12.2024** - Insights from the State of Software engineering in Algeria
+  - **Location**: Oran (In-person event)
+  - **Description**: First time presenting the project for a live audience in-person. The project was presented in one of **Ga3da of code** local meetup my friend [Taym](https://x.com/taym95) and I organized in Oran (Algeria).
+
 ## Contact Information
 
 For inquiries or collaboration opportunities, please find our [contact here](/contact).
