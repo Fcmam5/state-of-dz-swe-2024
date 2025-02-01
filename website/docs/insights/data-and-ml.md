@@ -68,7 +68,7 @@ There is also an initiative to have an Algerian Open Data project ([Algeria's fi
 
 ### Applications and websites
 
-As the collection and the management of personal data is regulated under tha law [ANPDP](https://anpdp.dz/fr/quand-et-a-qui-sapplique-la-loi-n18-07/), **websites and applications can collect data **to improve their users' experience and to better understand their client base.
+As the collection and the management of personal data is regulated under tha law [ANPDP](https://anpdp.dz/fr/quand-et-a-qui-sapplique-la-loi-n18-07/), **websites and applications can collect data** to improve their users' experience and to better understand their client base.
 
 ### Research and surveys
 
