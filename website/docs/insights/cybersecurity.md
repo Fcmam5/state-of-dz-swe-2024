@@ -1,6 +1,12 @@
 ---
 sidebar_position: 11
+description: Explore cybersecurity initiatives in Algeria, including government efforts and industry standards.
+title: Cybersecurity and governance
 ---
+
+<head>
+    <title>Cybersecurity and governance</title>
+</head>
 
 # Cybersecurity and governance
 

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: Insights into education and learning trends in Algeria's software engineering sector.
 ---
 import Admonition from '@theme/Admonition';
 
@@ -161,7 +162,7 @@ Algerians with degree in IT make %X more/less than
 
 :::tip This topic needs a dedicated research, take it from here!
 
-To not shift away from the generic "State of Algerian software engineering" domain this report covers, I would just scratch the surface on this topic. Why? [Read more here](/docs/closing#nternships).
+To not shift away from the generic "State of Algerian software engineering" domain this report covers, I would just scratch the surface on this topic. Why? [Read more here](/docs/closing#internships).
 :::
 
 <!-- ---

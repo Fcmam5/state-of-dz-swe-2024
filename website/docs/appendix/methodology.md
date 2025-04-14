@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: Methodology used in the Algerian software engineering report.
 ---
 
 # Methodology

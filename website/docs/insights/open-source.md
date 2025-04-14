@@ -1,5 +1,6 @@
 ---
 sidebar_position: 13
+description: Explore the role of open source in Algeria's software engineering ecosystem.
 ---
 
 # Open Source

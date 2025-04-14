@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: Insights into cloud and DevOps adoption in Algeria, highlighting popular providers and usage trends.
 ---
 
 # Cloud and DevOps

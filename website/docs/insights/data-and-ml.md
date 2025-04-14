@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: Insights into data and machine learning advancements in Algeria, including government and private sector efforts.
 ---
 
 # Data and Machine learning

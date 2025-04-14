@@ -1,3 +1,7 @@
+---
+description: Terms of use & license of this website.
+---
+
 # Terms of Use
 
 Welcome to ["The State of Software Engineering in Algeria" (state-of-algeria.dev)](https://state-of-algeria.dev/) website (the "Website"). This Website is owned and operated by Abdeldjalil Fortas ("we," "us," or "our"). By accessing or using this Website, you agree to comply with and be bound by the following terms and conditions of use. If you do not agree with any part of these terms, you may not use the Website.

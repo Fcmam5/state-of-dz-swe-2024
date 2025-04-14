@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: Explore the remote working trends in Algeria's software engineering sector.
 ---
 
 # Remote working

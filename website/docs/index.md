@@ -2,6 +2,7 @@
 id: intro
 sidebar_position: 1
 pagination_next: insights/technology-trends
+description: Introduction to the Algeria Developer Survey 2024.
 ---
 import Admonition from '@theme/Admonition';
 

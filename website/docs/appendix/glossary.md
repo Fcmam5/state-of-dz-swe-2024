@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 custom_edit_url: https://github.com/Fcmam5/state-of-dz-swe-2024/tree/master/website/docs/appendix/glossary.md
+description: A glossary of terms used in the Algerian software engineering report.
 ---
 
 # Glossary

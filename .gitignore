@@ -9,3 +9,4 @@ local-docs/*
 TO-ASK.md
 .env
 x.*
+.DS_Store

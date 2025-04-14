@@ -1,3 +1,7 @@
+---
+description: Information on how to support our initiative.
+---
+
 # Support Our Initiative
 
 Thank you for visiting our website and showing interest in our research project! We've dedicated our time and resources to conduct a comprehensive survey and research study to benefit the Algerian developer community. Your support can help us make this initiative a success.

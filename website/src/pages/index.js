@@ -110,7 +110,7 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
+      title="Home"
       description="Exploring Algerian software engineering landscape"
     >
       <HomepageHeader />

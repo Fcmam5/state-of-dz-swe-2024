@@ -1,5 +1,6 @@
 ---
 sidebar_position: 8
+description: Overview of e-payment solutions in Algeria, highlighting popular platforms and adoption trends.
 ---
 
 # E-Payment solutions

@@ -2,6 +2,7 @@
 id: technology-trends
 sidebar_position: 1
 pagination_prev: null
+description: Explore insights on the most used programming languages, frameworks, and databases in Algeria.
 ---
 
 # Trends

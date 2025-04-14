@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2
-description: In this section we present insights from our survey, examining salaries variation by experience and location. Salaries within the Algerian software engineering and IT sector operate in a dynamic and unregulated landscape.
+description: Explore insights on software engineer salaries in Algeria by experience, role, and city. See how compensation trends shape the tech landscape in 2024.
 ---
 
-# Salaries and remuneration
+# Salaries & remuneration
 
 <head>
   <script type="application/ld+json">

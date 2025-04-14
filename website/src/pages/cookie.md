@@ -1,5 +1,8 @@
-Cookie Policy for The State of Software Engineering in Algeria
-==============================================================
+---
+description: Cookie policy for this website.
+---
+
+# Cookie Policy for The State of Software Engineering in Algeria
 
 This is the Cookie Policy for The State of Software Engineering in Algeria, accessible from https://state-of-algeria.dev/
 

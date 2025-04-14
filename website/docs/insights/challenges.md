@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: Explore the main challenges faced by Algerian software engineers, including internet issues and career growth obstacles.
 ---
 
 # Reported challenges

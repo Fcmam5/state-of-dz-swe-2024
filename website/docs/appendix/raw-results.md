@@ -2,6 +2,7 @@
 id: raw-results
 sidebar_position: 5
 pagination_prev: intro
+description: Raw results from the survey (charts only).
 ---
 
 # Raw results (charts only)

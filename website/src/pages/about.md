@@ -1,3 +1,6 @@
+---
+description: About us.
+---
 # About us
 
 Hi there!

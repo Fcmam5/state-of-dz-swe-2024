@@ -1,5 +1,6 @@
 ---
 sidebar_position: 9
+description: Discover the agile methodologies used by Algerian software engineers and their correlation with company sizes.
 ---
 import Admonition from '@theme/Admonition';
 

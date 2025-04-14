@@ -1,5 +1,6 @@
 ---
 sidebar_position: 15
+description: Overview of Algerian tech communities, their growth, and impact on local software engineers.
 ---
 
 # Tech communities
