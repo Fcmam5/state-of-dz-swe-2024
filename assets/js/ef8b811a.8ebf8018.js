@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[8947],{6600:e=>{e.exports=JSON.parse('{"authors":[{"name":"Abdeldjalil Fortas","title":"Software engineer","url":"https://about.me/Fcmam5","imageURL":"https://github.com/fcmam5.png","key":"Fcmam5","page":null,"count":2}]}')}}]);
