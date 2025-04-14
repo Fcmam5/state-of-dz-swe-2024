@@ -2,6 +2,19 @@
 
 Welcome to ["The State of Software Engineering in Algeria" (state-of-algeria.dev)](https://state-of-algeria.dev/) website (the "Website"). This Website is owned and operated by Abdeldjalil Fortas ("we," "us," or "our"). By accessing or using this Website, you agree to comply with and be bound by the following terms and conditions of use. If you do not agree with any part of these terms, you may not use the Website.
 
+## 0. License
+
+This website is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/). You are free to:
+
+- Share: copy and redistribute the material in any medium or format;
+
+Under the following terms:
+
+- Attribution: You must give appropriate credit, provide a link to the license, and indicate if any changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- NonCommercial: You may not use the material for commercial purposes.
+- NoDerivatives: You may not remix, transform, or build upon the material (**you may only distribute the material as provided by the licensor**).
+
+
 ## 1. Content Ownership and Copyright
 
 All content published on the Website, including but not limited to articles, reports, survey results, interviews, and research findings, is the property of Abdeldjalil Fortas and contributors mentioned in https://github.com/Fcmam5/state-of-dz-swe-2024/graphs/contributors page, other contributors will be indicated otherwise. This content is protected by copyright laws and international treaties.
